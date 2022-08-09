@@ -1,0 +1,29 @@
+{
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1.0",
+    "id": "ons-population-estimates-for-uk-englandandwales-scotland-and-northernireland",
+    "title": "Population estimates for UK, England and Wales, Scotland and Northern Ireland",
+    "published": "2022-08-01",
+    "columns": {
+        "Year": {
+            "from_template": "year"
+        },
+        "LA Code": {
+            "type": "dimension",
+            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea",
+            "cell_uri_template": "http://gss-data.org.uk/def/climate-change/concept/local-authority-code/{la_code}"
+        },
+        "Local Authority": {
+            "type": "dimension",
+            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea",
+            "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{local_authority}"  
+        },
+        "Value": {
+            "type": "observations",
+            "measure": {
+                "label": "Population"
+            }
+        }
+    },   
+    "sizingNotes": "",
+    "notes": "" 
+}

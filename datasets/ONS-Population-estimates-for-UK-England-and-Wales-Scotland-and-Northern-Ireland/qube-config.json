@@ -20,7 +20,10 @@
         "Value": {
             "type": "observations",
             "measure": {
-                "label": "Population"
+                "label": "count"
+            },
+            "unit": {
+                "label": "number"
             }
         }
     },   

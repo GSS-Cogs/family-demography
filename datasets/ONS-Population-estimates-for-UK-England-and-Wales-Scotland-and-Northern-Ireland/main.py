@@ -28,9 +28,9 @@ df.drop(columns=['Country Code'], inplace=True)
 
 
 df.to_csv('observations.csv', index=False)
-catalog_metadata = CatalogMetadata(
-    title="Population estimates for UK, England and Wales, Scotland and Northern Ireland",
-    description="Population estimates."
-)
-catalog_metadata.to_json_file('catalog-metadata.json')
+# catalog_metadata = CatalogMetadata(
+#     title="Population estimates for UK, England and Wales, Scotland and Northern Ireland",
+#     description="Population estimates."
+# )
+# catalog_metadata.to_json_file('catalog-metadata.json')
 

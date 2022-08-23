@@ -1,0 +1,34 @@
+{
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1.0",
+    "id": "ons-population-estimates-for-uk-england-and-wales",
+    "title": "Population detailed components for England and Wales",
+    "published": "2022-08-01",
+    "columns": {
+        "Year": {
+            "from_template": "year"
+        },
+        "Local Authority Code": {
+            "type": "dimension"
+        },
+        "Local Authority": {
+            "type": "dimension"
+        },
+        "Country": {
+            "type":"dimension"
+        },
+        "Age": {
+            "type": "dimension"
+        },
+        "Sex": {
+            "type": "dimension"
+        },
+        "Value": {
+            "type": "observations",
+            "measure": {
+                "label": "Count"
+            }
+        }
+    },   
+    "sizingNotes": "",
+    "notes": "" 
+}

@@ -10,9 +10,7 @@ from gssutils import *
 
 df = pd.read_csv(
     "MYEB2_detailed_components_of_change_series_EW_(2020_geog21).csv")
-df.drop(
-    (df.iloc[:, 5:]).columns[~(df.iloc[:, 5:]).columns.str.contains('population', case=False)], inplace=True, axis=1
-)
+
 
 df.rename(columns={'ladcode21': 'Local Authority Code', 'laname21': 'Local Authority',
           'country': 'Country', 'age': 'Age', 'sex': 'Sex'}, inplace=True)

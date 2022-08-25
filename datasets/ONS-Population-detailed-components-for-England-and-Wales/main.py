@@ -2,6 +2,12 @@ import pandas as pd
 from gssutils import *
 # from csvcubed.models.cube.qb.catalog import CatalogMetadata
 
+# here's AF intro to the project https://onswebsite.slack.com/archives/CPC5ADPNC/p1659428231740559
+# the ONS published dataset can be found here https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland
+# AF wants to use the new qube-config.json method. it's documentation is here:  https://gss-cogs.github.io/csvcubed-docs/external/guides/configuration/qube-config/
+# codelist for ladcode21 (e.g. E00000001) is currently on climate change repo https://github.com/GSS-Cogs/family-climate-change/tree/master/reference/codelists. It will probably me moved to general reference codelist in the future.
+# download and transform the detailed version of the csv first, then append the suitable columns from the summary csv. Andrew will make a hiearchy later on. 
+
 df = pd.read_csv(
     "MYEB2_detailed_components_of_change_series_EW_(2020_geog21).csv")
 df.drop(

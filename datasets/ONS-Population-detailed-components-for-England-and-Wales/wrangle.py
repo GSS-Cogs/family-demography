@@ -58,8 +58,10 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         df = df.replace(
             {"Sex": {1: "Male", 2: "Female"}, "Country": {"E": "England", "W": "Wales"}}
         )
-        df.to_csv(obs_prefix + "_" + "observations.csv", index=False)
-
+        df.to_csv(str(csv_file.parent.absolute()) + "/" + obs_prefix + "_" + "observations.csv", index=False)
+#%%
 
 if __name__ == "__main__":
     wrangle()
+
+# %%

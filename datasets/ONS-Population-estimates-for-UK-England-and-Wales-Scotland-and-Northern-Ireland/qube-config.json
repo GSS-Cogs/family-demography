@@ -19,11 +19,9 @@
         },
         "Value": {
             "type": "observations",
+            "data_type": "integer",
             "measure": {
-                "label": "count"
-            },
-            "unit": {
-                "label": "number"
+                "label": "Count"
             }
         }
     },   

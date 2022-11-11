@@ -1,0 +1,42 @@
+{
+  "$schema": "https://purl.org/csv-cubed/code-list-config/v1",
+  "title": "Sex",
+  "summary": "A code list of the different sexes.",
+  "description": "A code list of the different sexes.",
+  "creator": "http://statistics.data.gov.uk",
+  "publisher": "http://statistics.data.gov.uk",
+  "dataset_issued": "2022-11-11T00:00:00Z",
+  "dataset_modified": "2022-11-11T00:00:00Z",
+  "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "themes": [
+    ""
+  ],
+  "keywords": [
+    "Sex",
+    "Male",
+    "Female"
+  ],
+  "sort": {
+    "by": "notation",
+    "method": "ascending"
+  },
+  "concepts": [
+    {
+        "notation": "all",
+        "label": "All",
+        "same_as": "http://purl.org/linked-data/sdmx/2009/code#sex-T",
+        "children": [
+            {
+                "notation": "1",
+                "label": "Male",
+                "same_as": "http://purl.org/linked-data/sdmx/2009/code#sex-M"
+            },
+            {
+                "notation": "2",
+                "label": "Female",
+                "same_as": "http://purl.org/linked-data/sdmx/2009/code#sex-F"
+            }
+        ]
+    }
+]
+}

@@ -1,5 +1,5 @@
 {
-    "$schema": "https://purl.org/csv-cubed/qube-config/v1.0",
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1",
     "id": "ons-population-estimates-for-uk-england-and-wales",
     "title": "Population detailed components for England and Wales",
     "published": "2022-08-01",
@@ -14,13 +14,15 @@
             "type": "dimension"
         },
         "Country": {
-            "type":"dimension"
+            "type": "dimension"
         },
         "Age": {
-            "type": "dimension"
+            "type": "dimension",
+            "code_list": "./age_code-list.json"
         },
         "Sex": {
-            "type": "dimension"
+            "type": "dimension",
+            "code_list": "./sex_code-list.json"
         },
         "Value": {
             "type": "observations",
@@ -29,7 +31,7 @@
                 "label": "Count"
             }
         }
-    },   
+    },
     "sizingNotes": "",
-    "notes": "" 
+    "notes": ""
 }

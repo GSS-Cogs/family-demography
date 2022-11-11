@@ -1,0 +1,576 @@
+{
+    "$schema": "https://purl.org/csv-cubed/code-list-config/v1",
+    "title": "Age",
+    "summary": "A code list of all ages.",
+    "description": "A code list of all ages.",
+    "creator": "http://statistics.data.gov.uk",
+    "publisher": "http://statistics.data.gov.uk",
+    "dataset_issued": "2022-11-11T00:00:00Z",
+    "dataset_modified": "2022-11-11T00:00:00Z",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "themes": [
+        ""
+    ],
+    "keywords": [
+        "Age"
+    ],
+    "sort": {
+        "by": "label",
+        "method": "ascending"
+    },
+    "concepts": [
+        {
+            "notation": "all",
+            "label": "All",
+            "same_as": "http://gss-data.org.uk/def/concept/age-groups/all",
+            "children": [
+                {
+                    "notation": "0",
+                    "label": "0",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F0",
+                    "description": "Those below the age of 1"
+                },
+                {
+                    "notation": "1",
+                    "label": "1",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F1",
+                    "description": "Those of the age of 1 and less than 2"
+                },
+                {
+                    "notation": "2",
+                    "label": "2",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F2",
+                    "description": "Those of the age of 2 and less than 3"
+                },
+                {
+                    "notation": "3",
+                    "label": "3",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F3",
+                    "description": "Those of the age of 3 and less than 4"
+                },
+                {
+                    "notation": "4",
+                    "label": "4",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F4",
+                    "description": "Those of the age of 4 and less than 5"
+                },
+                {
+                    "notation": "5",
+                    "label": "5",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F5",
+                    "description": "Those of the age of 5 and less than 6"
+                },
+                {
+                    "notation": "6",
+                    "label": "6",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F6",
+                    "description": "Those of the age of 6 and less than 7"
+                },
+                {
+                    "notation": "7",
+                    "label": "7",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F7",
+                    "description": "Those of the age of 7 and less than 8"
+                },
+                {
+                    "notation": "8",
+                    "label": "8",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F8",
+                    "description": "Those of the age of 8 and less than 9"
+                },
+                {
+                    "notation": "9",
+                    "label": "9",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F9",
+                    "description": "Those of the age of 9 and less than 10"
+                },
+                {
+                    "notation": "10",
+                    "label": "10",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F10",
+                    "description": "Those of the age of 10 and less than 11"
+                },
+                {
+                    "notation": "11",
+                    "label": "11",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F11",
+                    "description": "Those of the age of 11 and less than 12"
+                },
+                {
+                    "notation": "12",
+                    "label": "12",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F12",
+                    "description": "Those of the age of 12 and less than 13"
+                },
+                {
+                    "notation": "13",
+                    "label": "13",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F13",
+                    "description": "Those of the age of 13 and less than 14"
+                },
+                {
+                    "notation": "14",
+                    "label": "14",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F14",
+                    "description": "Those of the age of 14 and less than 15"
+                },
+                {
+                    "notation": "15",
+                    "label": "15",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F15",
+                    "description": "Those of the age of 15 and less than 16"
+                },
+                {
+                    "notation": "16",
+                    "label": "16",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F16",
+                    "description": "Those of the age of 16 and less than 17"
+                },
+                {
+                    "notation": "17",
+                    "label": "17",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F17",
+                    "description": "Those of the age of 17 and less than 18"
+                },
+                {
+                    "notation": "18",
+                    "label": "18",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F18",
+                    "description": "Those of the age of 18 and less than 19"
+                },
+                {
+                    "notation": "19",
+                    "label": "19",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F19",
+                    "description": "Those of the age of 19 and less than 20"
+                },
+                {
+                    "notation": "20",
+                    "label": "20",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F20",
+                    "description": "Those of the age of 20 and less than 21"
+                },
+                {
+                    "notation": "21",
+                    "label": "21",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F21",
+                    "description": "Those of the age of 21 and less than 22"
+                },
+                {
+                    "notation": "22",
+                    "label": "22",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F22",
+                    "description": "Those of the age of 22 and less than 23"
+                },
+                {
+                    "notation": "23",
+                    "label": "23",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F23",
+                    "description": "Those of the age of 23 and less than 24"
+                },
+                {
+                    "notation": "24",
+                    "label": "24",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F24",
+                    "description": "Those of the age of 24 and less than 25"
+                },
+                {
+                    "notation": "25",
+                    "label": "25",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F25",
+                    "description": "Those of the age of 25 and less than 26"
+                },
+                {
+                    "notation": "26",
+                    "label": "26",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F26",
+                    "description": "Those of the age of 26 and less than 27"
+                },
+                {
+                    "notation": "27",
+                    "label": "27",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F27",
+                    "description": "Those of the age of 27 and less than 28"
+                },
+                {
+                    "notation": "28",
+                    "label": "28",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F28",
+                    "description": "Those of the age of 28 and less than 29"
+                },
+                {
+                    "notation": "29",
+                    "label": "29",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F29",
+                    "description": "Those of the age of 29 and less than 30"
+                },
+                {
+                    "notation": "30",
+                    "label": "30",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F30",
+                    "description": "Those of the age of 30 and less than 31"
+                },
+                {
+                    "notation": "31",
+                    "label": "31",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F31",
+                    "description": "Those of the age of 31 and less than 32"
+                },
+                {
+                    "notation": "32",
+                    "label": "32",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F32",
+                    "description": "Those of the age of 32 and less than 33"
+                },
+                {
+                    "notation": "33",
+                    "label": "33",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F33",
+                    "description": "Those of the age of 33 and less than 34"
+                },
+                {
+                    "notation": "34",
+                    "label": "34",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F34",
+                    "description": "Those of the age of 34 and less than 35"
+                },
+                {
+                    "notation": "35",
+                    "label": "35",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F35",
+                    "description": "Those of the age of 35 and less than 36"
+                },
+                {
+                    "notation": "36",
+                    "label": "36",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F36",
+                    "description": "Those of the age of 36 and less than 37"
+                },
+                {
+                    "notation": "37",
+                    "label": "37",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F37",
+                    "description": "Those of the age of 37 and less than 38"
+                },
+                {
+                    "notation": "38",
+                    "label": "38",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F38",
+                    "description": "Those of the age of 38 and less than 39"
+                },
+                {
+                    "notation": "39",
+                    "label": "39",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F39",
+                    "description": "Those of the age of 39 and less than 40"
+                },
+                {
+                    "notation": "40",
+                    "label": "40",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F40",
+                    "description": "Those of the age of 40 and less than 41"
+                },
+                {
+                    "notation": "41",
+                    "label": "41",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F41",
+                    "description": "Those of the age of 41 and less than 42"
+                },
+                {
+                    "notation": "42",
+                    "label": "42",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F42",
+                    "description": "Those of the age of 42 and less than 43"
+                },
+                {
+                    "notation": "43",
+                    "label": "43",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F43",
+                    "description": "Those of the age of 43 and less than 44"
+                },
+                {
+                    "notation": "44",
+                    "label": "44",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F44",
+                    "description": "Those of the age of 44 and less than 45"
+                },
+                {
+                    "notation": "45",
+                    "label": "45",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F45",
+                    "description": "Those of the age of 45 and less than 46"
+                },
+                {
+                    "notation": "46",
+                    "label": "46",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F46",
+                    "description": "Those of the age of 46 and less than 47"
+                },
+                {
+                    "notation": "47",
+                    "label": "47",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F47",
+                    "description": "Those of the age of 47 and less than 48"
+                },
+                {
+                    "notation": "48",
+                    "label": "48",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F48",
+                    "description": "Those of the age of 48 and less than 49"
+                },
+                {
+                    "notation": "49",
+                    "label": "49",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F49",
+                    "description": "Those of the age of 49 and less than 50"
+                },
+                {
+                    "notation": "50",
+                    "label": "50",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F50",
+                    "description": "Those of the age of 50 and less than 51"
+                },
+                {
+                    "notation": "51",
+                    "label": "51",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F51",
+                    "description": "Those of the age of 51 and less than 52"
+                },
+                {
+                    "notation": "52",
+                    "label": "52",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F52",
+                    "description": "Those of the age of 52 and less than 53"
+                },
+                {
+                    "notation": "53",
+                    "label": "53",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F53",
+                    "description": "Those of the age of 53 and less than 54"
+                },
+                {
+                    "notation": "54",
+                    "label": "54",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F54",
+                    "description": "Those of the age of 54 and less than 55"
+                },
+                {
+                    "notation": "55",
+                    "label": "55",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F55",
+                    "description": "Those of the age of 55 and less than 56"
+                },
+                {
+                    "notation": "56",
+                    "label": "56",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F56",
+                    "description": "Those of the age of 56 and less than 57"
+                },
+                {
+                    "notation": "57",
+                    "label": "57",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F57",
+                    "description": "Those of the age of 57 and less than 58"
+                },
+                {
+                    "notation": "58",
+                    "label": "58",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F58",
+                    "description": "Those of the age of 58 and less than 59"
+                },
+                {
+                    "notation": "59",
+                    "label": "59",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F59",
+                    "description": "Those of the age of 59 and less than 60"
+                },
+                {
+                    "notation": "60",
+                    "label": "60",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F60",
+                    "description": "Those of the age of 60 and less than 61"
+                },
+                {
+                    "notation": "61",
+                    "label": "61",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F61",
+                    "description": "Those of the age of 61 and less than 62"
+                },
+                {
+                    "notation": "62",
+                    "label": "62",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F62",
+                    "description": "Those of the age of 62 and less than 63"
+                },
+                {
+                    "notation": "63",
+                    "label": "63",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F63",
+                    "description": "Those of the age of 63 and less than 64"
+                },
+                {
+                    "notation": "64",
+                    "label": "64",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F64",
+                    "description": "Those of the age of 64 and less than 65"
+                },
+                {
+                    "notation": "65",
+                    "label": "65",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F65",
+                    "description": "Those of the age of 65 and less than 66"
+                },
+                {
+                    "notation": "66",
+                    "label": "66",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F66",
+                    "description": "Those of the age of 66 and less than 67"
+                },
+                {
+                    "notation": "67",
+                    "label": "67",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F67",
+                    "description": "Those of the age of 67 and less than 68"
+                },
+                {
+                    "notation": "68",
+                    "label": "68",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F68",
+                    "description": "Those of the age of 68 and less than 69"
+                },
+                {
+                    "notation": "69",
+                    "label": "69",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F69",
+                    "description": "Those of the age of 69 and less than 70"
+                },
+                {
+                    "notation": "70",
+                    "label": "70",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F70",
+                    "description": "Those of the age of 70 and less than 71"
+                },
+                {
+                    "notation": "71",
+                    "label": "71",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F71",
+                    "description": "Those of the age of 71 and less than 72"
+                },
+                {
+                    "notation": "72",
+                    "label": "72",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F72",
+                    "description": "Those of the age of 72 and less than 73"
+                },
+                {
+                    "notation": "73",
+                    "label": "73",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F73",
+                    "description": "Those of the age of 73 and less than 74"
+                },
+                {
+                    "notation": "74",
+                    "label": "74",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F74",
+                    "description": "Those of the age of 74 and less than 75"
+                },
+                {
+                    "notation": "75",
+                    "label": "75",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F75",
+                    "description": "Those of the age of 75 and less than 76"
+                },
+                {
+                    "notation": "76",
+                    "label": "76",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F76",
+                    "description": "Those of the age of 76 and less than 77"
+                },
+                {
+                    "notation": "77",
+                    "label": "77",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F77",
+                    "description": "Those of the age of 77 and less than 78"
+                },
+                {
+                    "notation": "78",
+                    "label": "78",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F78",
+                    "description": "Those of the age of 78 and less than 79"
+                },
+                {
+                    "notation": "79",
+                    "label": "79",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F79",
+                    "description": "Those of the age of 79 and less than 80"
+                },
+                {
+                    "notation": "80",
+                    "label": "80",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F80",
+                    "description": "Those of the age of 80 and less than 81"
+                },
+                {
+                    "notation": "81",
+                    "label": "81",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F81",
+                    "description": "Those of the age of 81 and less than 82"
+                },
+                {
+                    "notation": "82",
+                    "label": "82",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F82",
+                    "description": "Those of the age of 82 and less than 83"
+                },
+                {
+                    "notation": "83",
+                    "label": "83",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F83",
+                    "description": "Those of the age of 83 and less than 84"
+                },
+                {
+                    "notation": "84",
+                    "label": "84",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F84",
+                    "description": "Those of the age of 84 and less than 85"
+                },
+                {
+                    "notation": "85",
+                    "label": "85",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F85",
+                    "description": "Those of the age of 85 and less than 86"
+                },
+                {
+                    "notation": "86",
+                    "label": "86",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F86",
+                    "description": "Those of the age of 86 and less than 87"
+                },
+                {
+                    "notation": "87",
+                    "label": "87",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F87",
+                    "description": "Those of the age of 87 and less than 88"
+                },
+                {
+                    "notation": "88",
+                    "label": "88",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F88",
+                    "description": "Those of the age of 88 and less than 89"
+                },
+                {
+                    "notation": "89",
+                    "label": "89",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/year%2F89",
+                    "description": "Those of the age of 89 and less than 90"
+                },
+                {
+                    "notation": "90",
+                    "label": "90",
+                    "same_as": "http://gss-data.org.uk/def/concept/age-groups/agq%2F90-plus",
+                    "description": "Those of the age of 90 and older"
+                }
+            ]
+        }
+    ]
+}

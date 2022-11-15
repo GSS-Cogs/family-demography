@@ -1,8 +1,8 @@
 {
     "$schema": "https://purl.org/csv-cubed/code-list-config/v1",
     "title": "Age",
-    "summary": "A code list of all ages.",
-    "description": "A code list of all ages.",
+    "summary": "A code list for ages in the ONS mid-year population estimates data.",
+    "description": "A code list for ages in the ONS mid-year population estimates data.",
     "creator": "http://statistics.data.gov.uk",
     "publisher": "http://statistics.data.gov.uk",
     "dataset_issued": "2022-11-11T00:00:00Z",
@@ -566,7 +566,7 @@
                 },
                 {
                     "notation": "90",
-                    "label": "90",
+                    "label": "90+",
                     "same_as": "http://gss-data.org.uk/def/concept/age-groups/agq%2F90-plus",
                     "description": "Those of the age of 90 and older"
                 }

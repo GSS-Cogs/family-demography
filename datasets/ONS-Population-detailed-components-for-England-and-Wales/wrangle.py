@@ -47,10 +47,10 @@ def wrangle(csv_files: Tuple[Path]) -> None:
             if v == "object":
                 column_dict[k] = "string"
             elif v == "int64":
-                column_dict[k] = "Int32"
+                column_dict[k] = "int32"
         
         #
-        df = pd.read_csv(csv_file,dtype=column_dict)
+        df = pd.read_csv(csv_file,dtype=column_dict,nrows=100)
 
         # [Transform]
         # unpivot period

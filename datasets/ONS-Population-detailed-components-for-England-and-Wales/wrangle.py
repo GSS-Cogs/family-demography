@@ -2,7 +2,8 @@ from typing import Tuple
 import pandas as pd
 import click
 from pathlib import Path
-
+#%%
+#%%
 
 @click.command()
 @click.argument("csv_files", type=click.Path(exists=True, dir_okay=False, path_type=Path), nargs=-1)
@@ -15,7 +16,43 @@ def wrangle(csv_files: Tuple[Path]) -> None:
 
         suffix_for_la_columns = obs_prefix[-2:]
 
-        df = pd.read_csv(csv_file)
+        # [want to read the columns in with a defined datatype instead of 64]
+        # error when building CSV-W cubed was "ValueError: cannot safely convert passed user dtype of int64 for float64 dtyped data in column 5"
+
+        # bring in first row of data so we can determine datatypes
+        df = pd.read_csv(csv_file, nrows=1)
+        
+
+        #get column name and data type in a dictionary
+        column_dict = (df.dtypes.astype(str).to_dict()) # this will convert dtypes to string
+
+        '''
+        what the dtypes look like from first read
+        {
+        'ladcode20': 'object',
+        'laname20': 'object',
+        'country': 'object',
+        'age': 'int64',
+        'sex': 'int64',
+        'population_2001': 'int64',
+        'population_2002': 'int64',
+        'population_2003': 'int64',
+        ...
+        'other_adjust_2020': 'int64'}
+        }
+        '''
+
+        #convert values to be csvcubed suitable
+        for k,v in column_dict.items():
+            if v == "object":
+                column_dict[k] = "string"
+            elif v == "int64":
+                column_dict[k] = "Int32"
+        
+        #
+        df = pd.read_csv(csv_file,dtype=column_dict)
+
+        # [Transform]
         # unpivot period
         df = pd.wide_to_long(
             df=df.drop(["laname" + suffix_for_la_columns, "country"], axis=1),

@@ -4,7 +4,7 @@
     "title": "Population detailed components for England and Wales",
     "published": "2022-08-01",
     "columns": {
-        "Year": {
+        "Period": {
             "from_template": "year"
         },
         "Local Authority Code": {

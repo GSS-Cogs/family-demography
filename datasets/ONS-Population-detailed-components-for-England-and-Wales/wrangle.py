@@ -111,16 +111,11 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         memory usage: 1.1+ MB
         '''
 
-        # handle NAs TODO start from here
+        # handle NAs that were created because some columns don't go as far back as others
+        df = df.dropna()
 
-
-        # change dtype now that new columns have been made
+        # change Value datatype to int to match config file
         df = df.astype({
-            # 'Local Authority Code': "str"
-            #     , 'Age': "Int32"
-            #     #, 'Sex': "str"
-            #     , 'Period': "Int32"
-            #     , 'Measure Type': "str"
                 'Value': "int"
                 }
         )
@@ -128,9 +123,6 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         df = df.replace(
             {"Sex": {1: "Male", 2: "Female"}, "Country": {"E": "England", "W": "Wales"}}
         )
-        # TODO need to remove the period with NaN values for some measure types. For example there are no values for unattrib after 2011. Would be better to remove before post-processing to be more effcient.
-        # dtypes might cause persistent column types
-        #I think when you use dtypes in the read_csv command that means you cannot change it later, as I try to do for the Sex column, replacing 1 for Male. 
         
         df.to_csv(str(csv_file.parent.absolute()) + "/" + obs_prefix + "_" + "observations.csv", index=False)
 #%%

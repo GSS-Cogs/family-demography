@@ -19,12 +19,12 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         # [want to read the columns in with a defined datatype instead of 64]
         # error when building CSV-W cubed was "ValueError: cannot safely convert passed user dtype of int64 for float64 dtyped data in column 5"
 
-        # bring in first row of data so we can determine datatypes
-        df = pd.read_csv(csv_file, nrows=1)
+        # # bring in first row of data so we can determine datatypes
+        # df = pd.read_csv(csv_file, nrows=1)
         
 
-        #get column name and data type in a dictionary
-        column_dict = (df.dtypes.astype(str).to_dict()) # this will convert dtypes to string
+        # #get column name and data type in a dictionary
+        # column_dict = (df.dtypes.astype(str).to_dict()) # this will convert dtypes to string
 
         '''
         what the dtypes look like from first read
@@ -42,17 +42,15 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         }
         '''
 
-        #convert values to be csvcubed suitable
-        for k,v in column_dict.items():
-            if v == "object":
-                column_dict[k] = "string"
-            elif v == "int64":
-                column_dict[k] = "Int32"
+        # #convert values to be csvcubed suitable
+        # for k,v in column_dict.items():
+        #     if v == "object":
+        #         column_dict[k] = "string"
+        #     elif v == "int64":
+        #         column_dict[k] = "Int32"
         
         #
         df = pd.read_csv(csv_file,nrows=100)
-
-        df= df.astype(column_dict)
 
         # [Transform]
         # unpivot period
@@ -94,6 +92,39 @@ def wrangle(csv_files: Tuple[Path]) -> None:
             },
             inplace=True,
         )
+
+        #df.info() 
+
+        '''
+        <class 'pandas.core.frame.DataFrame'>
+        RangeIndex: 24000 entries, 0 to 23999
+        Data columns (total 6 columns):
+        #   Column                Non-Null Count  Dtype  
+        ---  ------                --------------  -----  
+        0   Local Authority Code  24000 non-null  object 
+        1   Age                   24000 non-null  int64  
+        2   Sex                   24000 non-null  int64  
+        3   Period                24000 non-null  int64  
+        4   Measure Type          24000 non-null  object 
+        5   Value                 22000 non-null  float64
+        dtypes: float64(1), int64(3), object(2)
+        memory usage: 1.1+ MB
+        '''
+
+        # handle NAs TODO start from here
+
+
+        # change dtype now that new columns have been made
+        df = df.astype({
+            # 'Local Authority Code': "str"
+            #     , 'Age': "Int32"
+            #     #, 'Sex': "str"
+            #     , 'Period': "Int32"
+            #     , 'Measure Type': "str"
+                'Value': "int"
+                }
+        )
+
         df = df.replace(
             {"Sex": {1: "Male", 2: "Female"}, "Country": {"E": "England", "W": "Wales"}}
         )

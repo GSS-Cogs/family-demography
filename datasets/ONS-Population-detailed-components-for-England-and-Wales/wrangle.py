@@ -47,10 +47,12 @@ def wrangle(csv_files: Tuple[Path]) -> None:
             if v == "object":
                 column_dict[k] = "string"
             elif v == "int64":
-                column_dict[k] = "int32"
+                column_dict[k] = "Int32"
         
         #
-        df = pd.read_csv(csv_file,dtype=column_dict,nrows=100)
+        df = pd.read_csv(csv_file,nrows=100)
+
+        df= df.astype(column_dict)
 
         # [Transform]
         # unpivot period
@@ -95,6 +97,10 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         df = df.replace(
             {"Sex": {1: "Male", 2: "Female"}, "Country": {"E": "England", "W": "Wales"}}
         )
+        # TODO need to remove the period with NaN values for some measure types. For example there are no values for unattrib after 2011. Would be better to remove before post-processing to be more effcient.
+        # dtypes might cause persistent column types
+        #I think when you use dtypes in the read_csv command that means you cannot change it later, as I try to do for the Sex column, replacing 1 for Male. 
+        
         df.to_csv(str(csv_file.parent.absolute()) + "/" + obs_prefix + "_" + "observations.csv", index=False)
 #%%
 

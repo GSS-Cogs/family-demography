@@ -10,12 +10,6 @@
         "Local Authority Code": {
             "type": "dimension"
         },
-        "Local Authority": {
-            "type": "dimension"
-        },
-        "Country": {
-            "type": "dimension"
-        },
         "Age": {
             "type": "dimension",
             "code_list": "./age_code-list.json"

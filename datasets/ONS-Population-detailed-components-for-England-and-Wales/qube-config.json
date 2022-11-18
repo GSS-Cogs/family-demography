@@ -18,10 +18,13 @@
             "type": "dimension",
             "code_list": "./sex_code-list.json"
         },
+        "Measure Type": {
+            "type":"measures"            
+        },
         "Value": {
             "type": "observations",
             "data_type": "integer",
-            "measure": {
+            "unit": {
                 "label": "Count"
             }
         }

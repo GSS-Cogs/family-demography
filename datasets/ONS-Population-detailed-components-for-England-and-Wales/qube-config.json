@@ -29,7 +29,8 @@
             "type": "observations",
             "data_type": "integer",
             "unit": {
-                "label": "Count"
+                "label": "Number",
+                "from_existing": "https://qudt.org/vocab/unit/NUM"
             }
         }
     },

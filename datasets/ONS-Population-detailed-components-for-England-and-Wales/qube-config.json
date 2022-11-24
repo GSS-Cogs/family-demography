@@ -30,7 +30,7 @@
             "data_type": "integer",
             "unit": {
                 "label": "Number",
-                "from_existing": "https://qudt.org/vocab/unit/NUM"
+                "from_existing": "http://qudt.org/vocab/unit/NUM"
             }
         }
     },

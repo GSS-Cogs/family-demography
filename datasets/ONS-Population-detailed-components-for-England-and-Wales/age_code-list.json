@@ -566,7 +566,7 @@
                 },
                 {
                     "notation": "90",
-                    "label": "90+",
+                    "label": "90",
                     "same_as": "http://gss-data.org.uk/def/concept/age-groups/agq%2F90-plus",
                     "description": "Those of the age of 90 and older"
                 }

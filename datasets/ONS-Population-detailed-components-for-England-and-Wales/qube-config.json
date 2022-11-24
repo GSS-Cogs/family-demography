@@ -8,7 +8,11 @@
             "from_template": "year"
         },
         "Local Authority Code": {
-            "type": "dimension"
+            "type": "dimension",
+            "label": "Geography",
+            "code_list": false,
+            "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{+local_authority_code}",
+            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
         },
         "Age": {
             "type": "dimension",

@@ -1,7 +1,9 @@
+#%%
 from typing import Tuple
 import pandas as pd
 import click
 from pathlib import Path
+
 #%%
 #%%
 
@@ -77,7 +79,7 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         memory usage: 1.1+ MB
         '''
 
-        # handle NAs that were created because some columns don't go as far back as others
+        # handle NAs that were created because there were blank values. error receiving before was - Cannot convert non-finite values (NA or inf) to integer
         df = df.dropna()
 
         # change Value datatype to int to match config file
@@ -86,6 +88,10 @@ def wrangle(csv_files: Tuple[Path]) -> None:
                 }
         )
 
+        # remove rows with 0s in Value column, that were created due to the previous transformation steps treating all columns as if they have the same number of years
+        df = df[df["Value"] != 0]
+
+        # replace values
         df = df.replace(
             {"Sex": {1: "Male", 2: "Female"}, "Country": {"E": "England", "W": "Wales"}}
         )

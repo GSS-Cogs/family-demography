@@ -4,24 +4,25 @@
     "title": "Population estimates for UK, England and Wales, Scotland and Northern Ireland",
     "published": "2022-08-01",
     "columns": {
-        "Year": {
+        "Period": {
             "from_template": "year"
         },
-        "LA Code": {
+        "Local Authority Code": {
             "type": "dimension",
-            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea",
-            "cell_uri_template": "http://gss-data.org.uk/def/climate-change/concept/local-authority-code/{la_code}"
+            "label": "Geography",
+            "code_list": false,
+            "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{+local_authority_code}",
+            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
         },
-        "Local Authority": {
-            "type": "dimension",
-            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea",
-            "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{local_authority}"  
+        "Measure Type": {
+            "type":"measures"            
         },
         "Value": {
             "type": "observations",
             "data_type": "integer",
-            "measure": {
-                "label": "Count"
+            "unit": {
+                "label": "Number",
+                "from_existing": "http://qudt.org/vocab/unit/NUM"
             }
         }
     },   

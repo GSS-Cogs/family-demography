@@ -16,6 +16,12 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         suffix_for_la_columns = obs_prefix[-2:]
 
         df = pd.read_csv(csv_file)
+
+        # seems to be a typo in the column header as 2020 has lacode20 and 2021 has ladcode21 (note the extra d)
+        if suffix_for_la_columns == "20":
+            la_code_column_name = "lacode"
+        elif suffix_for_la_columns == "21":
+            la_code_column_name = "ladcode"
         # unpivot period
         df = pd.wide_to_long(
             df=df.drop(["laname" + suffix_for_la_columns, "country"], axis=1),
@@ -35,7 +41,7 @@ def wrangle(csv_files: Tuple[Path]) -> None:
                 "deaths",
                 "births",
             ],
-            i=["lacode" + suffix_for_la_columns], # was ladcode. is it a typo? TODO 
+            i=[la_code_column_name + suffix_for_la_columns], # was ladcode. is it a typo? TODO 
              #"age",
              #"sex"],
             j="Period",
@@ -45,7 +51,7 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         # unpivot measure type
         df = pd.melt(
             df,
-            id_vars=["lacode" + suffix_for_la_columns, "Period"],
+            id_vars=[la_code_column_name + suffix_for_la_columns, "Period"],
             var_name="Measure Type",
             value_name="Value",
         )
@@ -53,10 +59,24 @@ def wrangle(csv_files: Tuple[Path]) -> None:
         # Post Processing
         df.rename(
             columns={
-                "lacode" + suffix_for_la_columns: "Local Authority Code"
+                la_code_column_name + suffix_for_la_columns: "Local Authority Code"
             },
             inplace=True,
         )
+
+        # handle NAs that were created because there were blank values
+        df = df.dropna()
+
+        # change Value datatype to int to match config file
+        df = df.astype({
+                'Value': "int"
+                }
+        )
+
+        # remove rows with 0s in Value column, that were created due to the previous transformation steps treating all columns as if they have the same number of years
+        df = df[df["Value"] != 0]
+
+
         df = df.replace(
             {"Country": {"E": "England", "W": "Wales"}}
         )

@@ -1,0 +1,994 @@
+Lower Tier Local Authorities Code,Lower Tier Local Authorities,Second address indicator (3 categories) Code,Second address indicator (3 categories),Observation
+E06000001,Hartlepool,1,No second address,89127
+E06000001,Hartlepool,2,Second address is in the UK,2741
+E06000001,Hartlepool,3,Second address is outside the UK,470
+E06000002,Middlesbrough,1,No second address,137981
+E06000002,Middlesbrough,2,Second address is in the UK,4861
+E06000002,Middlesbrough,3,Second address is outside the UK,1082
+E06000003,Redcar and Cleveland,1,No second address,132100
+E06000003,Redcar and Cleveland,2,Second address is in the UK,3739
+E06000003,Redcar and Cleveland,3,Second address is outside the UK,692
+E06000004,Stockton-on-Tees,1,No second address,189083
+E06000004,Stockton-on-Tees,2,Second address is in the UK,6210
+E06000004,Stockton-on-Tees,3,Second address is outside the UK,1302
+E06000005,Darlington,1,No second address,103809
+E06000005,Darlington,2,Second address is in the UK,3320
+E06000005,Darlington,3,Second address is outside the UK,669
+E06000006,Halton,1,No second address,124325
+E06000006,Halton,2,Second address is in the UK,3558
+E06000006,Halton,3,Second address is outside the UK,595
+E06000007,Warrington,1,No second address,201749
+E06000007,Warrington,2,Second address is in the UK,7363
+E06000007,Warrington,3,Second address is outside the UK,1862
+E06000008,Blackburn with Darwen,1,No second address,150035
+E06000008,Blackburn with Darwen,2,Second address is in the UK,3765
+E06000008,Blackburn with Darwen,3,Second address is outside the UK,938
+E06000009,Blackpool,1,No second address,136239
+E06000009,Blackpool,2,Second address is in the UK,3974
+E06000009,Blackpool,3,Second address is outside the UK,823
+E06000010,Kingston upon Hull,1,No second address,253880
+E06000010,Kingston upon Hull,2,Second address is in the UK,11498
+E06000010,Kingston upon Hull,3,Second address is outside the UK,1639
+E06000011,East Riding of Yorkshire,1,No second address,327879
+E06000011,East Riding of Yorkshire,2,Second address is in the UK,11733
+E06000011,East Riding of Yorkshire,3,Second address is outside the UK,2603
+E06000012,North East Lincolnshire,1,No second address,151405
+E06000012,North East Lincolnshire,2,Second address is in the UK,4655
+E06000012,North East Lincolnshire,3,Second address is outside the UK,906
+E06000013,North Lincolnshire,1,No second address,163394
+E06000013,North Lincolnshire,2,Second address is in the UK,5162
+E06000013,North Lincolnshire,3,Second address is outside the UK,1124
+E06000014,York,1,No second address,178370
+E06000014,York,2,Second address is in the UK,21273
+E06000014,York,3,Second address is outside the UK,3178
+E06000015,Derby,1,No second address,248285
+E06000015,Derby,2,Second address is in the UK,11132
+E06000015,Derby,3,Second address is outside the UK,1947
+E06000016,Leicester,1,No second address,342339
+E06000016,Leicester,2,Second address is in the UK,20973
+E06000016,Leicester,3,Second address is outside the UK,5259
+E06000017,Rutland,1,No second address,37371
+E06000017,Rutland,2,Second address is in the UK,3105
+E06000017,Rutland,3,Second address is outside the UK,573
+E06000018,Nottingham,1,No second address,274756
+E06000018,Nottingham,2,Second address is in the UK,43112
+E06000018,Nottingham,3,Second address is outside the UK,5764
+E06000019,Herefordshire,1,No second address,179049
+E06000019,Herefordshire,2,Second address is in the UK,6315
+E06000019,Herefordshire,3,Second address is outside the UK,1670
+E06000020,Telford and Wrekin,1,No second address,177171
+E06000020,Telford and Wrekin,2,Second address is in the UK,7290
+E06000020,Telford and Wrekin,3,Second address is outside the UK,1080
+E06000021,Stoke-on-Trent,1,No second address,247543
+E06000021,Stoke-on-Trent,2,Second address is in the UK,9599
+E06000021,Stoke-on-Trent,3,Second address is outside the UK,1227
+E06000022,Bath and North East Somerset,1,No second address,169741
+E06000022,Bath and North East Somerset,2,Second address is in the UK,19582
+E06000022,Bath and North East Somerset,3,Second address is outside the UK,4086
+E06000023,Bristol,1,No second address,427459
+E06000023,Bristol,2,Second address is in the UK,37503
+E06000023,Bristol,3,Second address is outside the UK,7503
+E06000024,North Somerset,1,No second address,207420
+E06000024,North Somerset,2,Second address is in the UK,7427
+E06000024,North Somerset,3,Second address is outside the UK,1880
+E06000025,South Gloucestershire,1,No second address,275339
+E06000025,South Gloucestershire,2,Second address is in the UK,12530
+E06000025,South Gloucestershire,3,Second address is outside the UK,2555
+E06000026,Plymouth,1,No second address,245146
+E06000026,Plymouth,2,Second address is in the UK,17426
+E06000026,Plymouth,3,Second address is outside the UK,2123
+E06000027,Torbay,1,No second address,134225
+E06000027,Torbay,2,Second address is in the UK,3971
+E06000027,Torbay,3,Second address is outside the UK,1128
+E06000030,Swindon,1,No second address,224431
+E06000030,Swindon,2,Second address is in the UK,6808
+E06000030,Swindon,3,Second address is outside the UK,2171
+E06000031,Peterborough,1,No second address,207972
+E06000031,Peterborough,2,Second address is in the UK,5719
+E06000031,Peterborough,3,Second address is outside the UK,1982
+E06000032,Luton,1,No second address,217723
+E06000032,Luton,2,Second address is in the UK,4696
+E06000032,Luton,3,Second address is outside the UK,2843
+E06000033,Southend-on-Sea,1,No second address,174157
+E06000033,Southend-on-Sea,2,Second address is in the UK,4933
+E06000033,Southend-on-Sea,3,Second address is outside the UK,1593
+E06000034,Thurrock,1,No second address,170443
+E06000034,Thurrock,2,Second address is in the UK,4016
+E06000034,Thurrock,3,Second address is outside the UK,1541
+E06000035,Medway,1,No second address,268734
+E06000035,Medway,2,Second address is in the UK,8739
+E06000035,Medway,3,Second address is outside the UK,2300
+E06000036,Bracknell Forest,1,No second address,118114
+E06000036,Bracknell Forest,2,Second address is in the UK,4918
+E06000036,Bracknell Forest,3,Second address is outside the UK,1575
+E06000037,West Berkshire,1,No second address,152571
+E06000037,West Berkshire,2,Second address is in the UK,6959
+E06000037,West Berkshire,3,Second address is outside the UK,1918
+E06000038,Reading,1,No second address,159018
+E06000038,Reading,2,Second address is in the UK,11169
+E06000038,Reading,3,Second address is outside the UK,4037
+E06000039,Slough,1,No second address,153456
+E06000039,Slough,2,Second address is in the UK,2782
+E06000039,Slough,3,Second address is outside the UK,2262
+E06000040,Windsor and Maidenhead,1,No second address,143253
+E06000040,Windsor and Maidenhead,2,Second address is in the UK,7093
+E06000040,Windsor and Maidenhead,3,Second address is outside the UK,3150
+E06000041,Wokingham,1,No second address,168259
+E06000041,Wokingham,2,Second address is in the UK,6674
+E06000041,Wokingham,3,Second address is outside the UK,2569
+E06000042,Milton Keynes,1,No second address,275446
+E06000042,Milton Keynes,2,Second address is in the UK,8080
+E06000042,Milton Keynes,3,Second address is outside the UK,3534
+E06000043,Brighton and Hove,1,No second address,248179
+E06000043,Brighton and Hove,2,Second address is in the UK,22350
+E06000043,Brighton and Hove,3,Second address is outside the UK,6574
+E06000044,Portsmouth,1,No second address,188488
+E06000044,Portsmouth,2,Second address is in the UK,16555
+E06000044,Portsmouth,3,Second address is outside the UK,2960
+E06000045,Southampton,1,No second address,224943
+E06000045,Southampton,2,Second address is in the UK,18792
+E06000045,Southampton,3,Second address is outside the UK,5187
+E06000046,Isle of Wight,1,No second address,134614
+E06000046,Isle of Wight,2,Second address is in the UK,4666
+E06000046,Isle of Wight,3,Second address is outside the UK,1179
+E06000047,County Durham,1,No second address,490625
+E06000047,County Durham,2,Second address is in the UK,27028
+E06000047,County Durham,3,Second address is outside the UK,4415
+E06000049,Cheshire East,1,No second address,379261
+E06000049,Cheshire East,2,Second address is in the UK,15220
+E06000049,Cheshire East,3,Second address is outside the UK,4291
+E06000050,Cheshire West and Chester,1,No second address,338104
+E06000050,Cheshire West and Chester,2,Second address is in the UK,15712
+E06000050,Cheshire West and Chester,3,Second address is outside the UK,3334
+E06000051,Shropshire,1,No second address,307419
+E06000051,Shropshire,2,Second address is in the UK,13434
+E06000051,Shropshire,3,Second address is outside the UK,2753
+E06000052,Cornwall,1,No second address,542392
+E06000052,Cornwall,2,Second address is in the UK,23853
+E06000052,Cornwall,3,Second address is outside the UK,4060
+E06000053,Isles of Scilly,1,No second address,1881
+E06000053,Isles of Scilly,2,Second address is in the UK,126
+E06000053,Isles of Scilly,3,Second address is outside the UK,46
+E06000054,Wiltshire,1,No second address,483108
+E06000054,Wiltshire,2,Second address is in the UK,22435
+E06000054,Wiltshire,3,Second address is outside the UK,4790
+E06000055,Bedford,1,No second address,177479
+E06000055,Bedford,2,Second address is in the UK,5772
+E06000055,Bedford,3,Second address is outside the UK,1974
+E06000056,Central Bedfordshire,1,No second address,282751
+E06000056,Central Bedfordshire,2,Second address is in the UK,8835
+E06000056,Central Bedfordshire,3,Second address is outside the UK,2666
+E06000057,Northumberland,1,No second address,307630
+E06000057,Northumberland,2,Second address is in the UK,10749
+E06000057,Northumberland,3,Second address is outside the UK,2188
+E06000058,"Bournemouth, Christchurch and Poole",1,No second address,373603
+E06000058,"Bournemouth, Christchurch and Poole",2,Second address is in the UK,21605
+E06000058,"Bournemouth, Christchurch and Poole",3,Second address is outside the UK,4988
+E06000059,Dorset,1,No second address,361329
+E06000059,Dorset,2,Second address is in the UK,14650
+E06000059,Dorset,3,Second address is outside the UK,3600
+E06000060,Buckinghamshire,1,No second address,526247
+E06000060,Buckinghamshire,2,Second address is in the UK,19343
+E06000060,Buckinghamshire,3,Second address is outside the UK,7488
+E06000061,North Northamptonshire,1,No second address,345529
+E06000061,North Northamptonshire,2,Second address is in the UK,11302
+E06000061,North Northamptonshire,3,Second address is outside the UK,2694
+E06000062,West Northamptonshire,1,No second address,405118
+E06000062,West Northamptonshire,2,Second address is in the UK,16114
+E06000062,West Northamptonshire,3,Second address is outside the UK,4496
+E07000008,Cambridge,1,No second address,117153
+E07000008,Cambridge,2,Second address is in the UK,20580
+E07000008,Cambridge,3,Second address is outside the UK,7940
+E07000009,East Cambridgeshire,1,No second address,83994
+E07000009,East Cambridgeshire,2,Second address is in the UK,2967
+E07000009,East Cambridgeshire,3,Second address is outside the UK,801
+E07000010,Fenland,1,No second address,99107
+E07000010,Fenland,2,Second address is in the UK,2775
+E07000010,Fenland,3,Second address is outside the UK,581
+E07000011,Huntingdonshire,1,No second address,173414
+E07000011,Huntingdonshire,2,Second address is in the UK,5937
+E07000011,Huntingdonshire,3,Second address is outside the UK,1481
+E07000012,South Cambridgeshire,1,No second address,154185
+E07000012,South Cambridgeshire,2,Second address is in the UK,5985
+E07000012,South Cambridgeshire,3,Second address is outside the UK,1949
+E07000026,Allerdale,1,No second address,92581
+E07000026,Allerdale,2,Second address is in the UK,3004
+E07000026,Allerdale,3,Second address is outside the UK,572
+E07000027,Barrow-in-Furness,1,No second address,64739
+E07000027,Barrow-in-Furness,2,Second address is in the UK,2322
+E07000027,Barrow-in-Furness,3,Second address is outside the UK,346
+E07000028,Carlisle,1,No second address,105270
+E07000028,Carlisle,2,Second address is in the UK,4088
+E07000028,Carlisle,3,Second address is outside the UK,666
+E07000029,Copeland,1,No second address,64455
+E07000029,Copeland,2,Second address is in the UK,2306
+E07000029,Copeland,3,Second address is outside the UK,315
+E07000030,Eden,1,No second address,52603
+E07000030,Eden,2,Second address is in the UK,1732
+E07000030,Eden,3,Second address is outside the UK,400
+E07000031,South Lakeland,1,No second address,98321
+E07000031,South Lakeland,2,Second address is in the UK,4878
+E07000031,South Lakeland,3,Second address is outside the UK,1254
+E07000032,Amber Valley,1,No second address,121443
+E07000032,Amber Valley,2,Second address is in the UK,4163
+E07000032,Amber Valley,3,Second address is outside the UK,600
+E07000033,Bolsover,1,No second address,77562
+E07000033,Bolsover,2,Second address is in the UK,2359
+E07000033,Bolsover,3,Second address is outside the UK,352
+E07000034,Chesterfield,1,No second address,99672
+E07000034,Chesterfield,2,Second address is in the UK,3414
+E07000034,Chesterfield,3,Second address is outside the UK,483
+E07000035,Derbyshire Dales,1,No second address,68162
+E07000035,Derbyshire Dales,2,Second address is in the UK,2592
+E07000035,Derbyshire Dales,3,Second address is outside the UK,786
+E07000036,Erewash,1,No second address,108950
+E07000036,Erewash,2,Second address is in the UK,3351
+E07000036,Erewash,3,Second address is outside the UK,602
+E07000037,High Peak,1,No second address,86793
+E07000037,High Peak,2,Second address is in the UK,3419
+E07000037,High Peak,3,Second address is outside the UK,719
+E07000038,North East Derbyshire,1,No second address,98306
+E07000038,North East Derbyshire,2,Second address is in the UK,3172
+E07000038,North East Derbyshire,3,Second address is outside the UK,523
+E07000039,South Derbyshire,1,No second address,102716
+E07000039,South Derbyshire,2,Second address is in the UK,3864
+E07000039,South Derbyshire,3,Second address is outside the UK,628
+E07000040,East Devon,1,No second address,144536
+E07000040,East Devon,2,Second address is in the UK,5097
+E07000040,East Devon,3,Second address is outside the UK,1195
+E07000041,Exeter,1,No second address,109891
+E07000041,Exeter,2,Second address is in the UK,17642
+E07000041,Exeter,3,Second address is outside the UK,3174
+E07000042,Mid Devon,1,No second address,79639
+E07000042,Mid Devon,2,Second address is in the UK,2672
+E07000042,Mid Devon,3,Second address is outside the UK,541
+E07000043,North Devon,1,No second address,94737
+E07000043,North Devon,2,Second address is in the UK,3101
+E07000043,North Devon,3,Second address is outside the UK,773
+E07000044,South Hams,1,No second address,83911
+E07000044,South Hams,2,Second address is in the UK,3564
+E07000044,South Hams,3,Second address is outside the UK,1152
+E07000045,Teignbridge,1,No second address,129544
+E07000045,Teignbridge,2,Second address is in the UK,4393
+E07000045,Teignbridge,3,Second address is outside the UK,866
+E07000046,Torridge,1,No second address,65535
+E07000046,Torridge,2,Second address is in the UK,2137
+E07000046,Torridge,3,Second address is outside the UK,442
+E07000047,West Devon,1,No second address,54541
+E07000047,West Devon,2,Second address is in the UK,2007
+E07000047,West Devon,3,Second address is outside the UK,548
+E07000061,Eastbourne,1,No second address,96764
+E07000061,Eastbourne,2,Second address is in the UK,3665
+E07000061,Eastbourne,3,Second address is outside the UK,1257
+E07000062,Hastings,1,No second address,87455
+E07000062,Hastings,2,Second address is in the UK,2707
+E07000062,Hastings,3,Second address is outside the UK,833
+E07000063,Lewes,1,No second address,95673
+E07000063,Lewes,2,Second address is in the UK,3100
+E07000063,Lewes,3,Second address is outside the UK,1132
+E07000064,Rother,1,No second address,89094
+E07000064,Rother,2,Second address is in the UK,2919
+E07000064,Rother,3,Second address is outside the UK,1097
+E07000065,Wealden,1,No second address,152936
+E07000065,Wealden,2,Second address is in the UK,5287
+E07000065,Wealden,3,Second address is outside the UK,1928
+E07000066,Basildon,1,No second address,181842
+E07000066,Basildon,2,Second address is in the UK,4353
+E07000066,Basildon,3,Second address is outside the UK,1376
+E07000067,Braintree,1,No second address,149763
+E07000067,Braintree,2,Second address is in the UK,4455
+E07000067,Braintree,3,Second address is outside the UK,1051
+E07000068,Brentwood,1,No second address,73944
+E07000068,Brentwood,2,Second address is in the UK,2167
+E07000068,Brentwood,3,Second address is outside the UK,936
+E07000069,Castle Point,1,No second address,87138
+E07000069,Castle Point,2,Second address is in the UK,1942
+E07000069,Castle Point,3,Second address is outside the UK,507
+E07000070,Chelmsford,1,No second address,173580
+E07000070,Chelmsford,2,Second address is in the UK,6078
+E07000070,Chelmsford,3,Second address is outside the UK,1865
+E07000071,Colchester,1,No second address,179727
+E07000071,Colchester,2,Second address is in the UK,10057
+E07000071,Colchester,3,Second address is outside the UK,2931
+E07000072,Epping Forest,1,No second address,129552
+E07000072,Epping Forest,2,Second address is in the UK,3680
+E07000072,Epping Forest,3,Second address is outside the UK,1748
+E07000073,Harlow,1,No second address,90454
+E07000073,Harlow,2,Second address is in the UK,2199
+E07000073,Harlow,3,Second address is outside the UK,675
+E07000074,Maldon,1,No second address,63625
+E07000074,Maldon,2,Second address is in the UK,1927
+E07000074,Maldon,3,Second address is outside the UK,656
+E07000075,Rochford,1,No second address,82817
+E07000075,Rochford,2,Second address is in the UK,2283
+E07000075,Rochford,3,Second address is outside the UK,561
+E07000076,Tendring,1,No second address,143711
+E07000076,Tendring,2,Second address is in the UK,3634
+E07000076,Tendring,3,Second address is outside the UK,946
+E07000077,Uttlesford,1,No second address,86810
+E07000077,Uttlesford,2,Second address is in the UK,3320
+E07000077,Uttlesford,3,Second address is outside the UK,1211
+E07000078,Cheltenham,1,No second address,109924
+E07000078,Cheltenham,2,Second address is in the UK,7259
+E07000078,Cheltenham,3,Second address is outside the UK,1654
+E07000079,Cotswold,1,No second address,84801
+E07000079,Cotswold,2,Second address is in the UK,4647
+E07000079,Cotswold,3,Second address is outside the UK,1384
+E07000080,Forest of Dean,1,No second address,82868
+E07000080,Forest of Dean,2,Second address is in the UK,3576
+E07000080,Forest of Dean,3,Second address is outside the UK,560
+E07000081,Gloucester,1,No second address,126290
+E07000081,Gloucester,2,Second address is in the UK,5303
+E07000081,Gloucester,3,Second address is outside the UK,823
+E07000082,Stroud,1,No second address,115522
+E07000082,Stroud,2,Second address is in the UK,4532
+E07000082,Stroud,3,Second address is outside the UK,1050
+E07000083,Tewkesbury,1,No second address,90942
+E07000083,Tewkesbury,2,Second address is in the UK,3230
+E07000083,Tewkesbury,3,Second address is outside the UK,712
+E07000084,Basingstoke and Deane,1,No second address,177259
+E07000084,Basingstoke and Deane,2,Second address is in the UK,6028
+E07000084,Basingstoke and Deane,3,Second address is outside the UK,1867
+E07000085,East Hampshire,1,No second address,119855
+E07000085,East Hampshire,2,Second address is in the UK,4473
+E07000085,East Hampshire,3,Second address is outside the UK,1416
+E07000086,Eastleigh,1,No second address,131273
+E07000086,Eastleigh,2,Second address is in the UK,4093
+E07000086,Eastleigh,3,Second address is outside the UK,1077
+E07000087,Fareham,1,No second address,109667
+E07000087,Fareham,2,Second address is in the UK,3849
+E07000087,Fareham,3,Second address is outside the UK,997
+E07000088,Gosport,1,No second address,78502
+E07000088,Gosport,2,Second address is in the UK,2754
+E07000088,Gosport,3,Second address is outside the UK,696
+E07000089,Hart,1,No second address,94287
+E07000089,Hart,2,Second address is in the UK,4072
+E07000089,Hart,3,Second address is outside the UK,1049
+E07000090,Havant,1,No second address,120080
+E07000090,Havant,2,Second address is in the UK,3278
+E07000090,Havant,3,Second address is outside the UK,850
+E07000091,New Forest,1,No second address,168264
+E07000091,New Forest,2,Second address is in the UK,5623
+E07000091,New Forest,3,Second address is outside the UK,1898
+E07000092,Rushmoor,1,No second address,95450
+E07000092,Rushmoor,2,Second address is in the UK,3255
+E07000092,Rushmoor,3,Second address is outside the UK,1051
+E07000093,Test Valley,1,No second address,124703
+E07000093,Test Valley,2,Second address is in the UK,4461
+E07000093,Test Valley,3,Second address is outside the UK,1328
+E07000094,Winchester,1,No second address,115132
+E07000094,Winchester,2,Second address is in the UK,10239
+E07000094,Winchester,3,Second address is outside the UK,2074
+E07000095,Broxbourne,1,No second address,96073
+E07000095,Broxbourne,2,Second address is in the UK,2112
+E07000095,Broxbourne,3,Second address is outside the UK,822
+E07000096,Dacorum,1,No second address,148529
+E07000096,Dacorum,2,Second address is in the UK,4876
+E07000096,Dacorum,3,Second address is outside the UK,1676
+E07000098,Hertsmere,1,No second address,102990
+E07000098,Hertsmere,2,Second address is in the UK,3119
+E07000098,Hertsmere,3,Second address is outside the UK,1718
+E07000099,North Hertfordshire,1,No second address,127615
+E07000099,North Hertfordshire,2,Second address is in the UK,4359
+E07000099,North Hertfordshire,3,Second address is outside the UK,1236
+E07000102,Three Rivers,1,No second address,89655
+E07000102,Three Rivers,2,Second address is in the UK,2725
+E07000102,Three Rivers,3,Second address is outside the UK,1391
+E07000103,Watford,1,No second address,98353
+E07000103,Watford,2,Second address is in the UK,2309
+E07000103,Watford,3,Second address is outside the UK,1584
+E07000105,Ashford,1,No second address,127613
+E07000105,Ashford,2,Second address is in the UK,3846
+E07000105,Ashford,3,Second address is outside the UK,1288
+E07000106,Canterbury,1,No second address,138367
+E07000106,Canterbury,2,Second address is in the UK,15785
+E07000106,Canterbury,3,Second address is outside the UK,3277
+E07000107,Dartford,1,No second address,113022
+E07000107,Dartford,2,Second address is in the UK,2743
+E07000107,Dartford,3,Second address is outside the UK,990
+E07000108,Dover,1,No second address,111251
+E07000108,Dover,2,Second address is in the UK,3944
+E07000108,Dover,3,Second address is outside the UK,1215
+E07000109,Gravesham,1,No second address,103378
+E07000109,Gravesham,2,Second address is in the UK,2620
+E07000109,Gravesham,3,Second address is outside the UK,902
+E07000110,Maidstone,1,No second address,168788
+E07000110,Maidstone,2,Second address is in the UK,5195
+E07000110,Maidstone,3,Second address is outside the UK,1799
+E07000111,Sevenoaks,1,No second address,115098
+E07000111,Sevenoaks,2,Second address is in the UK,3655
+E07000111,Sevenoaks,3,Second address is outside the UK,1761
+E07000112,Folkestone and Hythe,1,No second address,105060
+E07000112,Folkestone and Hythe,2,Second address is in the UK,3444
+E07000112,Folkestone and Hythe,3,Second address is outside the UK,1254
+E07000113,Swale,1,No second address,146456
+E07000113,Swale,2,Second address is in the UK,4194
+E07000113,Swale,3,Second address is outside the UK,1027
+E07000114,Thanet,1,No second address,135224
+E07000114,Thanet,2,Second address is in the UK,4168
+E07000114,Thanet,3,Second address is outside the UK,1195
+E07000115,Tonbridge and Malling,1,No second address,126540
+E07000115,Tonbridge and Malling,2,Second address is in the UK,4333
+E07000115,Tonbridge and Malling,3,Second address is outside the UK,1330
+E07000116,Tunbridge Wells,1,No second address,109082
+E07000116,Tunbridge Wells,2,Second address is in the UK,4538
+E07000116,Tunbridge Wells,3,Second address is outside the UK,1691
+E07000117,Burnley,1,No second address,91330
+E07000117,Burnley,2,Second address is in the UK,2647
+E07000117,Burnley,3,Second address is outside the UK,669
+E07000118,Chorley,1,No second address,112726
+E07000118,Chorley,2,Second address is in the UK,4124
+E07000118,Chorley,3,Second address is outside the UK,882
+E07000119,Fylde,1,No second address,77428
+E07000119,Fylde,2,Second address is in the UK,2890
+E07000119,Fylde,3,Second address is outside the UK,1056
+E07000120,Hyndburn,1,No second address,79373
+E07000120,Hyndburn,2,Second address is in the UK,2451
+E07000120,Hyndburn,3,Second address is outside the UK,410
+E07000121,Lancaster,1,No second address,127155
+E07000121,Lancaster,2,Second address is in the UK,13086
+E07000121,Lancaster,3,Second address is outside the UK,2693
+E07000122,Pendle,1,No second address,92579
+E07000122,Pendle,2,Second address is in the UK,2366
+E07000122,Pendle,3,Second address is outside the UK,812
+E07000123,Preston,1,No second address,138028
+E07000123,Preston,2,Second address is in the UK,7811
+E07000123,Preston,3,Second address is outside the UK,1998
+E07000124,Ribble Valley,1,No second address,58275
+E07000124,Ribble Valley,2,Second address is in the UK,2481
+E07000124,Ribble Valley,3,Second address is outside the UK,805
+E07000125,Rossendale,1,No second address,68109
+E07000125,Rossendale,2,Second address is in the UK,2288
+E07000125,Rossendale,3,Second address is outside the UK,474
+E07000126,South Ribble,1,No second address,106596
+E07000126,South Ribble,2,Second address is in the UK,3745
+E07000126,South Ribble,3,Second address is outside the UK,694
+E07000127,West Lancashire,1,No second address,107983
+E07000127,West Lancashire,2,Second address is in the UK,8354
+E07000127,West Lancashire,3,Second address is outside the UK,1092
+E07000128,Wyre,1,No second address,106792
+E07000128,Wyre,2,Second address is in the UK,4155
+E07000128,Wyre,3,Second address is outside the UK,999
+E07000129,Blaby,1,No second address,99238
+E07000129,Blaby,2,Second address is in the UK,3057
+E07000129,Blaby,3,Second address is outside the UK,630
+E07000130,Charnwood,1,No second address,165169
+E07000130,Charnwood,2,Second address is in the UK,16281
+E07000130,Charnwood,3,Second address is outside the UK,2521
+E07000131,Harborough,1,No second address,93066
+E07000131,Harborough,2,Second address is in the UK,3621
+E07000131,Harborough,3,Second address is outside the UK,938
+E07000132,Hinckley and Bosworth,1,No second address,109099
+E07000132,Hinckley and Bosworth,2,Second address is in the UK,3795
+E07000132,Hinckley and Bosworth,3,Second address is outside the UK,746
+E07000133,Melton,1,No second address,49404
+E07000133,Melton,2,Second address is in the UK,1924
+E07000133,Melton,3,Second address is outside the UK,424
+E07000134,North West Leicestershire,1,No second address,99856
+E07000134,North West Leicestershire,2,Second address is in the UK,4172
+E07000134,North West Leicestershire,3,Second address is outside the UK,677
+E07000135,Oadby and Wigston,1,No second address,54525
+E07000135,Oadby and Wigston,2,Second address is in the UK,2737
+E07000135,Oadby and Wigston,3,Second address is outside the UK,485
+E07000136,Boston,1,No second address,68301
+E07000136,Boston,2,Second address is in the UK,1668
+E07000136,Boston,3,Second address is outside the UK,535
+E07000137,East Lindsey,1,No second address,137344
+E07000137,East Lindsey,2,Second address is in the UK,4249
+E07000137,East Lindsey,3,Second address is outside the UK,703
+E07000138,Lincoln,1,No second address,89309
+E07000138,Lincoln,2,Second address is in the UK,13460
+E07000138,Lincoln,3,Second address is outside the UK,1044
+E07000139,North Kesteven,1,No second address,112662
+E07000139,North Kesteven,2,Second address is in the UK,4725
+E07000139,North Kesteven,3,Second address is outside the UK,687
+E07000140,South Holland,1,No second address,92169
+E07000140,South Holland,2,Second address is in the UK,2398
+E07000140,South Holland,3,Second address is outside the UK,555
+E07000141,South Kesteven,1,No second address,137252
+E07000141,South Kesteven,2,Second address is in the UK,5112
+E07000141,South Kesteven,3,Second address is outside the UK,1040
+E07000142,West Lindsey,1,No second address,91386
+E07000142,West Lindsey,2,Second address is in the UK,3132
+E07000142,West Lindsey,3,Second address is outside the UK,635
+E07000143,Breckland,1,No second address,136456
+E07000143,Breckland,2,Second address is in the UK,4145
+E07000143,Breckland,3,Second address is outside the UK,875
+E07000144,Broadland,1,No second address,126916
+E07000144,Broadland,2,Second address is in the UK,4023
+E07000144,Broadland,3,Second address is outside the UK,782
+E07000145,Great Yarmouth,1,No second address,96533
+E07000145,Great Yarmouth,2,Second address is in the UK,2571
+E07000145,Great Yarmouth,3,Second address is outside the UK,644
+E07000146,King's Lynn and West Norfolk,1,No second address,148442
+E07000146,King's Lynn and West Norfolk,2,Second address is in the UK,4867
+E07000146,King's Lynn and West Norfolk,3,Second address is outside the UK,1016
+E07000147,North Norfolk,1,No second address,98492
+E07000147,North Norfolk,2,Second address is in the UK,3746
+E07000147,North Norfolk,3,Second address is outside the UK,742
+E07000148,Norwich,1,No second address,126587
+E07000148,Norwich,2,Second address is in the UK,15022
+E07000148,Norwich,3,Second address is outside the UK,2312
+E07000149,South Norfolk,1,No second address,135519
+E07000149,South Norfolk,2,Second address is in the UK,5350
+E07000149,South Norfolk,3,Second address is outside the UK,1079
+E07000163,Craven,1,No second address,54276
+E07000163,Craven,2,Second address is in the UK,2101
+E07000163,Craven,3,Second address is outside the UK,550
+E07000164,Hambleton,1,No second address,86639
+E07000164,Hambleton,2,Second address is in the UK,3260
+E07000164,Hambleton,3,Second address is outside the UK,791
+E07000165,Harrogate,1,No second address,152643
+E07000165,Harrogate,2,Second address is in the UK,7960
+E07000165,Harrogate,3,Second address is outside the UK,2064
+E07000166,Richmondshire,1,No second address,46380
+E07000166,Richmondshire,2,Second address is in the UK,2932
+E07000166,Richmondshire,3,Second address is outside the UK,464
+E07000167,Ryedale,1,No second address,52213
+E07000167,Ryedale,2,Second address is in the UK,2020
+E07000167,Ryedale,3,Second address is outside the UK,474
+E07000168,Scarborough,1,No second address,104043
+E07000168,Scarborough,2,Second address is in the UK,3719
+E07000168,Scarborough,3,Second address is outside the UK,973
+E07000169,Selby,1,No second address,88259
+E07000169,Selby,2,Second address is in the UK,3072
+E07000169,Selby,3,Second address is outside the UK,657
+E07000170,Ashfield,1,No second address,122339
+E07000170,Ashfield,2,Second address is in the UK,3545
+E07000170,Ashfield,3,Second address is outside the UK,416
+E07000171,Bassetlaw,1,No second address,113424
+E07000171,Bassetlaw,2,Second address is in the UK,3720
+E07000171,Bassetlaw,3,Second address is outside the UK,660
+E07000172,Broxtowe,1,No second address,104360
+E07000172,Broxtowe,2,Second address is in the UK,5500
+E07000172,Broxtowe,3,Second address is outside the UK,1080
+E07000173,Gedling,1,No second address,113003
+E07000173,Gedling,2,Second address is in the UK,3536
+E07000173,Gedling,3,Second address is outside the UK,724
+E07000174,Mansfield,1,No second address,106723
+E07000174,Mansfield,2,Second address is in the UK,3215
+E07000174,Mansfield,3,Second address is outside the UK,544
+E07000175,Newark and Sherwood,1,No second address,117643
+E07000175,Newark and Sherwood,2,Second address is in the UK,4433
+E07000175,Newark and Sherwood,3,Second address is outside the UK,880
+E07000176,Rushcliffe,1,No second address,111658
+E07000176,Rushcliffe,2,Second address is in the UK,6193
+E07000176,Rushcliffe,3,Second address is outside the UK,1226
+E07000177,Cherwell,1,No second address,153784
+E07000177,Cherwell,2,Second address is in the UK,5495
+E07000177,Cherwell,3,Second address is outside the UK,1737
+E07000178,Oxford,1,No second address,128865
+E07000178,Oxford,2,Second address is in the UK,25270
+E07000178,Oxford,3,Second address is outside the UK,7906
+E07000179,South Oxfordshire,1,No second address,141005
+E07000179,South Oxfordshire,2,Second address is in the UK,5962
+E07000179,South Oxfordshire,3,Second address is outside the UK,2118
+E07000180,Vale of White Horse,1,No second address,130906
+E07000180,Vale of White Horse,2,Second address is in the UK,6064
+E07000180,Vale of White Horse,3,Second address is outside the UK,1943
+E07000181,West Oxfordshire,1,No second address,107585
+E07000181,West Oxfordshire,2,Second address is in the UK,5360
+E07000181,West Oxfordshire,3,Second address is outside the UK,1292
+E07000187,Mendip,1,No second address,109689
+E07000187,Mendip,2,Second address is in the UK,5022
+E07000187,Mendip,3,Second address is outside the UK,1378
+E07000188,Sedgemoor,1,No second address,120297
+E07000188,Sedgemoor,2,Second address is in the UK,4120
+E07000188,Sedgemoor,3,Second address is outside the UK,926
+E07000189,South Somerset,1,No second address,164519
+E07000189,South Somerset,2,Second address is in the UK,6898
+E07000189,South Somerset,3,Second address is outside the UK,1254
+E07000192,Cannock Chase,1,No second address,97303
+E07000192,Cannock Chase,2,Second address is in the UK,2830
+E07000192,Cannock Chase,3,Second address is outside the UK,386
+E07000193,East Staffordshire,1,No second address,119418
+E07000193,East Staffordshire,2,Second address is in the UK,3589
+E07000193,East Staffordshire,3,Second address is outside the UK,1012
+E07000194,Lichfield,1,No second address,101971
+E07000194,Lichfield,2,Second address is in the UK,3590
+E07000194,Lichfield,3,Second address is outside the UK,875
+E07000195,Newcastle-under-Lyme,1,No second address,114766
+E07000195,Newcastle-under-Lyme,2,Second address is in the UK,7660
+E07000195,Newcastle-under-Lyme,3,Second address is outside the UK,873
+E07000196,South Staffordshire,1,No second address,106382
+E07000196,South Staffordshire,2,Second address is in the UK,3468
+E07000196,South Staffordshire,3,Second address is outside the UK,620
+E07000197,Stafford,1,No second address,130928
+E07000197,Stafford,2,Second address is in the UK,4984
+E07000197,Stafford,3,Second address is outside the UK,955
+E07000198,Staffordshire Moorlands,1,No second address,92371
+E07000198,Staffordshire Moorlands,2,Second address is in the UK,2902
+E07000198,Staffordshire Moorlands,3,Second address is outside the UK,574
+E07000199,Tamworth,1,No second address,76215
+E07000199,Tamworth,2,Second address is in the UK,2064
+E07000199,Tamworth,3,Second address is outside the UK,368
+E07000200,Babergh,1,No second address,88331
+E07000200,Babergh,2,Second address is in the UK,3256
+E07000200,Babergh,3,Second address is outside the UK,754
+E07000202,Ipswich,1,No second address,134103
+E07000202,Ipswich,2,Second address is in the UK,4457
+E07000202,Ipswich,3,Second address is outside the UK,1082
+E07000203,Mid Suffolk,1,No second address,98511
+E07000203,Mid Suffolk,2,Second address is in the UK,3470
+E07000203,Mid Suffolk,3,Second address is outside the UK,718
+E07000207,Elmbridge,1,No second address,130758
+E07000207,Elmbridge,2,Second address is in the UK,4827
+E07000207,Elmbridge,3,Second address is outside the UK,3170
+E07000208,Epsom and Ewell,1,No second address,76898
+E07000208,Epsom and Ewell,2,Second address is in the UK,2789
+E07000208,Epsom and Ewell,3,Second address is outside the UK,1250
+E07000209,Guildford,1,No second address,127096
+E07000209,Guildford,2,Second address is in the UK,12951
+E07000209,Guildford,3,Second address is outside the UK,3603
+E07000210,Mole Valley,1,No second address,83221
+E07000210,Mole Valley,2,Second address is in the UK,2937
+E07000210,Mole Valley,3,Second address is outside the UK,1228
+E07000211,Reigate and Banstead,1,No second address,143985
+E07000211,Reigate and Banstead,2,Second address is in the UK,4843
+E07000211,Reigate and Banstead,3,Second address is outside the UK,2018
+E07000212,Runnymede,1,No second address,78729
+E07000212,Runnymede,2,Second address is in the UK,7064
+E07000212,Runnymede,3,Second address is outside the UK,2286
+E07000213,Spelthorne,1,No second address,99097
+E07000213,Spelthorne,2,Second address is in the UK,2675
+E07000213,Spelthorne,3,Second address is outside the UK,1184
+E07000214,Surrey Heath,1,No second address,86193
+E07000214,Surrey Heath,2,Second address is in the UK,3059
+E07000214,Surrey Heath,3,Second address is outside the UK,1201
+E07000215,Tandridge,1,No second address,83217
+E07000215,Tandridge,2,Second address is in the UK,3444
+E07000215,Tandridge,3,Second address is outside the UK,1213
+E07000216,Waverley,1,No second address,119022
+E07000216,Waverley,2,Second address is in the UK,6864
+E07000216,Waverley,3,Second address is outside the UK,2343
+E07000217,Woking,1,No second address,99202
+E07000217,Woking,2,Second address is in the UK,2932
+E07000217,Woking,3,Second address is outside the UK,1809
+E07000218,North Warwickshire,1,No second address,62729
+E07000218,North Warwickshire,2,Second address is in the UK,1942
+E07000218,North Warwickshire,3,Second address is outside the UK,364
+E07000219,Nuneaton and Bedworth,1,No second address,129622
+E07000219,Nuneaton and Bedworth,2,Second address is in the UK,3819
+E07000219,Nuneaton and Bedworth,3,Second address is outside the UK,756
+E07000220,Rugby,1,No second address,109230
+E07000220,Rugby,2,Second address is in the UK,4006
+E07000220,Rugby,3,Second address is outside the UK,1127
+E07000221,Stratford-on-Avon,1,No second address,128142
+E07000221,Stratford-on-Avon,2,Second address is in the UK,5070
+E07000221,Stratford-on-Avon,3,Second address is outside the UK,1513
+E07000222,Warwick,1,No second address,134867
+E07000222,Warwick,2,Second address is in the UK,10221
+E07000222,Warwick,3,Second address is outside the UK,3363
+E07000223,Adur,1,No second address,62214
+E07000223,Adur,2,Second address is in the UK,1820
+E07000223,Adur,3,Second address is outside the UK,510
+E07000224,Arun,1,No second address,158286
+E07000224,Arun,2,Second address is in the UK,4908
+E07000224,Arun,3,Second address is outside the UK,1695
+E07000225,Chichester,1,No second address,114740
+E07000225,Chichester,2,Second address is in the UK,7357
+E07000225,Chichester,3,Second address is outside the UK,1971
+E07000226,Crawley,1,No second address,114302
+E07000226,Crawley,2,Second address is in the UK,2840
+E07000226,Crawley,3,Second address is outside the UK,1352
+E07000227,Horsham,1,No second address,139395
+E07000227,Horsham,2,Second address is in the UK,5286
+E07000227,Horsham,3,Second address is outside the UK,2097
+E07000228,Mid Sussex,1,No second address,145403
+E07000228,Mid Sussex,2,Second address is in the UK,5166
+E07000228,Mid Sussex,3,Second address is outside the UK,1997
+E07000229,Worthing,1,No second address,107060
+E07000229,Worthing,2,Second address is in the UK,3268
+E07000229,Worthing,3,Second address is outside the UK,1010
+E07000234,Bromsgrove,1,No second address,94746
+E07000234,Bromsgrove,2,Second address is in the UK,3577
+E07000234,Bromsgrove,3,Second address is outside the UK,860
+E07000235,Malvern Hills,1,No second address,75551
+E07000235,Malvern Hills,2,Second address is in the UK,3077
+E07000235,Malvern Hills,3,Second address is outside the UK,858
+E07000236,Redditch,1,No second address,84252
+E07000236,Redditch,2,Second address is in the UK,2338
+E07000236,Redditch,3,Second address is outside the UK,445
+E07000237,Worcester,1,No second address,97390
+E07000237,Worcester,2,Second address is in the UK,5541
+E07000237,Worcester,3,Second address is outside the UK,941
+E07000238,Wychavon,1,No second address,127135
+E07000238,Wychavon,2,Second address is in the UK,4236
+E07000238,Wychavon,3,Second address is outside the UK,1123
+E07000239,Wyre Forest,1,No second address,97790
+E07000239,Wyre Forest,2,Second address is in the UK,3276
+E07000239,Wyre Forest,3,Second address is outside the UK,541
+E07000240,St Albans,1,No second address,140925
+E07000240,St Albans,2,Second address is in the UK,5123
+E07000240,St Albans,3,Second address is outside the UK,2119
+E07000241,Welwyn Hatfield,1,No second address,109748
+E07000241,Welwyn Hatfield,2,Second address is in the UK,7731
+E07000241,Welwyn Hatfield,3,Second address is outside the UK,2357
+E07000242,East Hertfordshire,1,No second address,143099
+E07000242,East Hertfordshire,2,Second address is in the UK,5104
+E07000242,East Hertfordshire,3,Second address is outside the UK,1955
+E07000243,Stevenage,1,No second address,86308
+E07000243,Stevenage,2,Second address is in the UK,2444
+E07000243,Stevenage,3,Second address is outside the UK,743
+E07000244,East Suffolk,1,No second address,235484
+E07000244,East Suffolk,2,Second address is in the UK,8686
+E07000244,East Suffolk,3,Second address is outside the UK,1888
+E07000245,West Suffolk,1,No second address,172511
+E07000245,West Suffolk,2,Second address is in the UK,5782
+E07000245,West Suffolk,3,Second address is outside the UK,1657
+E07000246,Somerset West and Taunton,1,No second address,149836
+E07000246,Somerset West and Taunton,2,Second address is in the UK,6113
+E07000246,Somerset West and Taunton,3,Second address is outside the UK,1495
+E08000001,Bolton,1,No second address,285759
+E08000001,Bolton,2,Second address is in the UK,8032
+E08000001,Bolton,3,Second address is outside the UK,2172
+E08000002,Bury,1,No second address,186509
+E08000002,Bury,2,Second address is in the UK,5780
+E08000002,Bury,3,Second address is outside the UK,1562
+E08000003,Manchester,1,No second address,499818
+E08000003,Manchester,2,Second address is in the UK,40339
+E08000003,Manchester,3,Second address is outside the UK,11781
+E08000004,Oldham,1,No second address,235335
+E08000004,Oldham,2,Second address is in the UK,5345
+E08000004,Oldham,3,Second address is outside the UK,1408
+E08000005,Rochdale,1,No second address,216940
+E08000005,Rochdale,2,Second address is in the UK,5358
+E08000005,Rochdale,3,Second address is outside the UK,1475
+E08000006,Salford,1,No second address,253994
+E08000006,Salford,2,Second address is in the UK,12924
+E08000006,Salford,3,Second address is outside the UK,3004
+E08000007,Stockport,1,No second address,282780
+E08000007,Stockport,2,Second address is in the UK,9591
+E08000007,Stockport,3,Second address is outside the UK,2402
+E08000008,Tameside,1,No second address,223433
+E08000008,Tameside,2,Second address is in the UK,6338
+E08000008,Tameside,3,Second address is outside the UK,1299
+E08000009,Trafford,1,No second address,224661
+E08000009,Trafford,2,Second address is in the UK,7773
+E08000009,Trafford,3,Second address is outside the UK,2618
+E08000010,Wigan,1,No second address,317532
+E08000010,Wigan,2,Second address is in the UK,10051
+E08000010,Wigan,3,Second address is outside the UK,1747
+E08000011,Knowsley,1,No second address,150806
+E08000011,Knowsley,2,Second address is in the UK,3117
+E08000011,Knowsley,3,Second address is outside the UK,596
+E08000012,Liverpool,1,No second address,442326
+E08000012,Liverpool,2,Second address is in the UK,37310
+E08000012,Liverpool,3,Second address is outside the UK,6452
+E08000013,St. Helens,1,No second address,177136
+E08000013,St. Helens,2,Second address is in the UK,5199
+E08000013,St. Helens,3,Second address is outside the UK,912
+E08000014,Sefton,1,No second address,269821
+E08000014,Sefton,2,Second address is in the UK,7243
+E08000014,Sefton,3,Second address is outside the UK,2169
+E08000015,Wirral,1,No second address,309040
+E08000015,Wirral,2,Second address is in the UK,9112
+E08000015,Wirral,3,Second address is outside the UK,2046
+E08000016,Barnsley,1,No second address,235766
+E08000016,Barnsley,2,Second address is in the UK,7569
+E08000016,Barnsley,3,Second address is outside the UK,1237
+E08000017,Doncaster,1,No second address,297702
+E08000017,Doncaster,2,Second address is in the UK,8581
+E08000017,Doncaster,3,Second address is outside the UK,1823
+E08000018,Rotherham,1,No second address,257125
+E08000018,Rotherham,2,Second address is in the UK,7520
+E08000018,Rotherham,3,Second address is outside the UK,1163
+E08000019,Sheffield,1,No second address,511326
+E08000019,Sheffield,2,Second address is in the UK,38383
+E08000019,Sheffield,3,Second address is outside the UK,6810
+E08000021,Newcastle upon Tyne,1,No second address,263293
+E08000021,Newcastle upon Tyne,2,Second address is in the UK,31820
+E08000021,Newcastle upon Tyne,3,Second address is outside the UK,5012
+E08000022,North Tyneside,1,No second address,201130
+E08000022,North Tyneside,2,Second address is in the UK,6499
+E08000022,North Tyneside,3,Second address is outside the UK,1338
+E08000023,South Tyneside,1,No second address,142786
+E08000023,South Tyneside,2,Second address is in the UK,4169
+E08000023,South Tyneside,3,Second address is outside the UK,822
+E08000024,Sunderland,1,No second address,264701
+E08000024,Sunderland,2,Second address is in the UK,7867
+E08000024,Sunderland,3,Second address is outside the UK,1604
+E08000025,Birmingham,1,No second address,1083243
+E08000025,Birmingham,2,Second address is in the UK,50011
+E08000025,Birmingham,3,Second address is outside the UK,11667
+E08000026,Coventry,1,No second address,318070
+E08000026,Coventry,2,Second address is in the UK,20940
+E08000026,Coventry,3,Second address is outside the UK,6314
+E08000027,Dudley,1,No second address,313681
+E08000027,Dudley,2,Second address is in the UK,8527
+E08000027,Dudley,3,Second address is outside the UK,1280
+E08000028,Sandwell,1,No second address,333691
+E08000028,Sandwell,2,Second address is in the UK,6601
+E08000028,Sandwell,3,Second address is outside the UK,1540
+E08000029,Solihull,1,No second address,207938
+E08000029,Solihull,2,Second address is in the UK,6393
+E08000029,Solihull,3,Second address is outside the UK,1906
+E08000030,Walsall,1,No second address,276595
+E08000030,Walsall,2,Second address is in the UK,6302
+E08000030,Walsall,3,Second address is outside the UK,1227
+E08000031,Wolverhampton,1,No second address,255127
+E08000031,Wolverhampton,2,Second address is in the UK,6940
+E08000031,Wolverhampton,3,Second address is outside the UK,1658
+E08000032,Bradford,1,No second address,528302
+E08000032,Bradford,2,Second address is in the UK,14467
+E08000032,Bradford,3,Second address is outside the UK,3642
+E08000033,Calderdale,1,No second address,198337
+E08000033,Calderdale,2,Second address is in the UK,6843
+E08000033,Calderdale,3,Second address is outside the UK,1452
+E08000034,Kirklees,1,No second address,414678
+E08000034,Kirklees,2,Second address is in the UK,15100
+E08000034,Kirklees,3,Second address is outside the UK,3438
+E08000035,Leeds,1,No second address,748805
+E08000035,Leeds,2,Second address is in the UK,53388
+E08000035,Leeds,3,Second address is outside the UK,9760
+E08000036,Wakefield,1,No second address,340513
+E08000036,Wakefield,2,Second address is in the UK,10943
+E08000036,Wakefield,3,Second address is outside the UK,1914
+E08000037,Gateshead,1,No second address,188916
+E08000037,Gateshead,2,Second address is in the UK,6038
+E08000037,Gateshead,3,Second address is outside the UK,1197
+E09000001,City of London,1,No second address,6942
+E09000001,City of London,2,Second address is in the UK,875
+E09000001,City of London,3,Second address is outside the UK,766
+E09000002,Barking and Dagenham,1,No second address,212226
+E09000002,Barking and Dagenham,2,Second address is in the UK,3736
+E09000002,Barking and Dagenham,3,Second address is outside the UK,2907
+E09000003,Barnet,1,No second address,369133
+E09000003,Barnet,2,Second address is in the UK,10073
+E09000003,Barnet,3,Second address is outside the UK,10139
+E09000004,Bexley,1,No second address,238084
+E09000004,Bexley,2,Second address is in the UK,6025
+E09000004,Bexley,3,Second address is outside the UK,2363
+E09000005,Brent,1,No second address,322134
+E09000005,Brent,2,Second address is in the UK,9182
+E09000005,Brent,3,Second address is outside the UK,8500
+E09000006,Bromley,1,No second address,316709
+E09000006,Bromley,2,Second address is in the UK,8962
+E09000006,Bromley,3,Second address is outside the UK,4320
+E09000007,Camden,1,No second address,182198
+E09000007,Camden,2,Second address is in the UK,14463
+E09000007,Camden,3,Second address is outside the UK,13477
+E09000008,Croydon,1,No second address,376507
+E09000008,Croydon,2,Second address is in the UK,9053
+E09000008,Croydon,3,Second address is outside the UK,5159
+E09000009,Ealing,1,No second address,347907
+E09000009,Ealing,2,Second address is in the UK,10293
+E09000009,Ealing,3,Second address is outside the UK,8915
+E09000010,Enfield,1,No second address,318646
+E09000010,Enfield,2,Second address is in the UK,6423
+E09000010,Enfield,3,Second address is outside the UK,4913
+E09000011,Greenwich,1,No second address,274561
+E09000011,Greenwich,2,Second address is in the UK,9112
+E09000011,Greenwich,3,Second address is outside the UK,5395
+E09000012,Hackney,1,No second address,244266
+E09000012,Hackney,2,Second address is in the UK,8780
+E09000012,Hackney,3,Second address is outside the UK,6103
+E09000013,Hammersmith and Fulham,1,No second address,162567
+E09000013,Hammersmith and Fulham,2,Second address is in the UK,11656
+E09000013,Hammersmith and Fulham,3,Second address is outside the UK,8934
+E09000014,Haringey,1,No second address,249047
+E09000014,Haringey,2,Second address is in the UK,8782
+E09000014,Haringey,3,Second address is outside the UK,6410
+E09000015,Harrow,1,No second address,249869
+E09000015,Harrow,2,Second address is in the UK,5705
+E09000015,Harrow,3,Second address is outside the UK,5629
+E09000016,Havering,1,No second address,254042
+E09000016,Havering,2,Second address is in the UK,5454
+E09000016,Havering,3,Second address is outside the UK,2558
+E09000017,Hillingdon,1,No second address,291825
+E09000017,Hillingdon,2,Second address is in the UK,9052
+E09000017,Hillingdon,3,Second address is outside the UK,5032
+E09000018,Hounslow,1,No second address,274092
+E09000018,Hounslow,2,Second address is in the UK,7248
+E09000018,Hounslow,3,Second address is outside the UK,6841
+E09000019,Islington,1,No second address,195463
+E09000019,Islington,2,Second address is in the UK,12464
+E09000019,Islington,3,Second address is outside the UK,8662
+E09000020,Kensington and Chelsea,1,No second address,117944
+E09000020,Kensington and Chelsea,2,Second address is in the UK,10603
+E09000020,Kensington and Chelsea,3,Second address is outside the UK,14828
+E09000021,Kingston upon Thames,1,No second address,157037
+E09000021,Kingston upon Thames,2,Second address is in the UK,7113
+E09000021,Kingston upon Thames,3,Second address is outside the UK,3913
+E09000022,Lambeth,1,No second address,294265
+E09000022,Lambeth,2,Second address is in the UK,15321
+E09000022,Lambeth,3,Second address is outside the UK,8068
+E09000023,Lewisham,1,No second address,285088
+E09000023,Lewisham,2,Second address is in the UK,9915
+E09000023,Lewisham,3,Second address is outside the UK,5550
+E09000024,Merton,1,No second address,203962
+E09000024,Merton,2,Second address is in the UK,6222
+E09000024,Merton,3,Second address is outside the UK,5002
+E09000025,Newham,1,No second address,334914
+E09000025,Newham,2,Second address is in the UK,8183
+E09000025,Newham,3,Second address is outside the UK,7939
+E09000026,Redbridge,1,No second address,299183
+E09000026,Redbridge,2,Second address is in the UK,6274
+E09000026,Redbridge,3,Second address is outside the UK,4802
+E09000027,Richmond upon Thames,1,No second address,180538
+E09000027,Richmond upon Thames,2,Second address is in the UK,8779
+E09000027,Richmond upon Thames,3,Second address is outside the UK,5961
+E09000028,Southwark,1,No second address,282090
+E09000028,Southwark,2,Second address is in the UK,16140
+E09000028,Southwark,3,Second address is outside the UK,9407
+E09000029,Sutton,1,No second address,202237
+E09000029,Sutton,2,Second address is in the UK,4778
+E09000029,Sutton,3,Second address is outside the UK,2625
+E09000030,Tower Hamlets,1,No second address,286904
+E09000030,Tower Hamlets,2,Second address is in the UK,12784
+E09000030,Tower Hamlets,3,Second address is outside the UK,10618
+E09000031,Waltham Forest,1,No second address,267556
+E09000031,Waltham Forest,2,Second address is in the UK,6159
+E09000031,Waltham Forest,3,Second address is outside the UK,4711
+E09000032,Wandsworth,1,No second address,298929
+E09000032,Wandsworth,2,Second address is in the UK,18378
+E09000032,Wandsworth,3,Second address is outside the UK,10199
+E09000033,Westminster,1,No second address,174011
+E09000033,Westminster,2,Second address is in the UK,12531
+E09000033,Westminster,3,Second address is outside the UK,17694
+W06000001,Isle of Anglesey,1,No second address,66165
+W06000001,Isle of Anglesey,2,Second address is in the UK,2412
+W06000001,Isle of Anglesey,3,Second address is outside the UK,301
+W06000002,Gwynedd,1,No second address,108558
+W06000002,Gwynedd,2,Second address is in the UK,7791
+W06000002,Gwynedd,3,Second address is outside the UK,1046
+W06000003,Conwy,1,No second address,110256
+W06000003,Conwy,2,Second address is in the UK,3872
+W06000003,Conwy,3,Second address is outside the UK,613
+W06000004,Denbighshire,1,No second address,92252
+W06000004,Denbighshire,2,Second address is in the UK,3052
+W06000004,Denbighshire,3,Second address is outside the UK,514
+W06000005,Flintshire,1,No second address,149424
+W06000005,Flintshire,2,Second address is in the UK,4809
+W06000005,Flintshire,3,Second address is outside the UK,728
+W06000006,Wrexham,1,No second address,130064
+W06000006,Wrexham,2,Second address is in the UK,4458
+W06000006,Wrexham,3,Second address is outside the UK,595
+W06000008,Ceredigion,1,No second address,64181
+W06000008,Ceredigion,2,Second address is in the UK,6477
+W06000008,Ceredigion,3,Second address is outside the UK,815
+W06000009,Pembrokeshire,1,No second address,118373
+W06000009,Pembrokeshire,2,Second address is in the UK,4242
+W06000009,Pembrokeshire,3,Second address is outside the UK,745
+W06000010,Carmarthenshire,1,No second address,181009
+W06000010,Carmarthenshire,2,Second address is in the UK,6128
+W06000010,Carmarthenshire,3,Second address is outside the UK,760
+W06000011,Swansea,1,No second address,220539
+W06000011,Swansea,2,Second address is in the UK,15831
+W06000011,Swansea,3,Second address is outside the UK,2120
+W06000012,Neath Port Talbot,1,No second address,135446
+W06000012,Neath Port Talbot,2,Second address is in the UK,6297
+W06000012,Neath Port Talbot,3,Second address is outside the UK,546
+W06000013,Bridgend,1,No second address,140429
+W06000013,Bridgend,2,Second address is in the UK,4494
+W06000013,Bridgend,3,Second address is outside the UK,566
+W06000014,Vale of Glamorgan,1,No second address,125831
+W06000014,Vale of Glamorgan,2,Second address is in the UK,4923
+W06000014,Vale of Glamorgan,3,Second address is outside the UK,1185
+W06000015,Cardiff,1,No second address,324222
+W06000015,Cardiff,2,Second address is in the UK,32670
+W06000015,Cardiff,3,Second address is outside the UK,5416
+W06000016,Rhondda Cynon Taf,1,No second address,227565
+W06000016,Rhondda Cynon Taf,2,Second address is in the UK,9125
+W06000016,Rhondda Cynon Taf,3,Second address is outside the UK,963
+W06000018,Caerphilly,1,No second address,169847
+W06000018,Caerphilly,2,Second address is in the UK,5603
+W06000018,Caerphilly,3,Second address is outside the UK,502
+W06000019,Blaenau Gwent,1,No second address,65090
+W06000019,Blaenau Gwent,2,Second address is in the UK,1703
+W06000019,Blaenau Gwent,3,Second address is outside the UK,114
+W06000020,Torfaen,1,No second address,89400
+W06000020,Torfaen,2,Second address is in the UK,2554
+W06000020,Torfaen,3,Second address is outside the UK,322
+W06000021,Monmouthshire,1,No second address,88964
+W06000021,Monmouthshire,2,Second address is in the UK,3225
+W06000021,Monmouthshire,3,Second address is outside the UK,768
+W06000022,Newport,1,No second address,154104
+W06000022,Newport,2,Second address is in the UK,4550
+W06000022,Newport,3,Second address is outside the UK,938
+W06000023,Powys,1,No second address,127571
+W06000023,Powys,2,Second address is in the UK,4784
+W06000023,Powys,3,Second address is outside the UK,814
+W06000024,Merthyr Tydfil,1,No second address,57054
+W06000024,Merthyr Tydfil,2,Second address is in the UK,1605
+W06000024,Merthyr Tydfil,3,Second address is outside the UK,180

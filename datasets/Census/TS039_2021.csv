@@ -1,0 +1,2318 @@
+Lower Tier Local Authorities Code,Lower Tier Local Authorities,Unpaid care (7 categories) Code,Unpaid care (7 categories),Observation
+E06000001,Hartlepool,-8,Does not apply,4982
+E06000001,Hartlepool,1,Provides no unpaid care,77802
+E06000001,Hartlepool,2,Provides 9 hours or less unpaid care a week,2410
+E06000001,Hartlepool,3,Provides 10 to 19 hours unpaid care a week,1250
+E06000001,Hartlepool,4,Provides 20 to 34 hours unpaid care a week,1062
+E06000001,Hartlepool,5,Provides 35 to 49 hours unpaid care a week,1450
+E06000001,Hartlepool,6,Provides 50 or more hours unpaid care a week,3382
+E06000002,Middlesbrough,-8,Does not apply,8928
+E06000002,Middlesbrough,1,Provides no unpaid care,122459
+E06000002,Middlesbrough,2,Provides 9 hours or less unpaid care a week,3124
+E06000002,Middlesbrough,3,Provides 10 to 19 hours unpaid care a week,1657
+E06000002,Middlesbrough,4,Provides 20 to 34 hours unpaid care a week,1467
+E06000002,Middlesbrough,5,Provides 35 to 49 hours unpaid care a week,1873
+E06000002,Middlesbrough,6,Provides 50 or more hours unpaid care a week,4416
+E06000003,Redcar and Cleveland,-8,Does not apply,6814
+E06000003,Redcar and Cleveland,1,Provides no unpaid care,115877
+E06000003,Redcar and Cleveland,2,Provides 9 hours or less unpaid care a week,3768
+E06000003,Redcar and Cleveland,3,Provides 10 to 19 hours unpaid care a week,1810
+E06000003,Redcar and Cleveland,4,Provides 20 to 34 hours unpaid care a week,1394
+E06000003,Redcar and Cleveland,5,Provides 35 to 49 hours unpaid care a week,1860
+E06000003,Redcar and Cleveland,6,Provides 50 or more hours unpaid care a week,5008
+E06000004,Stockton-on-Tees,-8,Does not apply,10733
+E06000004,Stockton-on-Tees,1,Provides no unpaid care,167639
+E06000004,Stockton-on-Tees,2,Provides 9 hours or less unpaid care a week,5353
+E06000004,Stockton-on-Tees,3,Provides 10 to 19 hours unpaid care a week,2432
+E06000004,Stockton-on-Tees,4,Provides 20 to 34 hours unpaid care a week,1867
+E06000004,Stockton-on-Tees,5,Provides 35 to 49 hours unpaid care a week,2373
+E06000004,Stockton-on-Tees,6,Provides 50 or more hours unpaid care a week,6198
+E06000005,Darlington,-8,Does not apply,5496
+E06000005,Darlington,1,Provides no unpaid care,92501
+E06000005,Darlington,2,Provides 9 hours or less unpaid care a week,3277
+E06000005,Darlington,3,Provides 10 to 19 hours unpaid care a week,1318
+E06000005,Darlington,4,Provides 20 to 34 hours unpaid care a week,900
+E06000005,Darlington,5,Provides 35 to 49 hours unpaid care a week,1208
+E06000005,Darlington,6,Provides 50 or more hours unpaid care a week,3101
+E06000006,Halton,-8,Does not apply,6954
+E06000006,Halton,1,Provides no unpaid care,107792
+E06000006,Halton,2,Provides 9 hours or less unpaid care a week,3777
+E06000006,Halton,3,Provides 10 to 19 hours unpaid care a week,1883
+E06000006,Halton,4,Provides 20 to 34 hours unpaid care a week,1497
+E06000006,Halton,5,Provides 35 to 49 hours unpaid care a week,1825
+E06000006,Halton,6,Provides 50 or more hours unpaid care a week,4747
+E06000007,Warrington,-8,Does not apply,10631
+E06000007,Warrington,1,Provides no unpaid care,181242
+E06000007,Warrington,2,Provides 9 hours or less unpaid care a week,7158
+E06000007,Warrington,3,Provides 10 to 19 hours unpaid care a week,2679
+E06000007,Warrington,4,Provides 20 to 34 hours unpaid care a week,1818
+E06000007,Warrington,5,Provides 35 to 49 hours unpaid care a week,1983
+E06000007,Warrington,6,Provides 50 or more hours unpaid care a week,5461
+E06000008,Blackburn with Darwen,-8,Does not apply,10056
+E06000008,Blackburn with Darwen,1,Provides no unpaid care,131403
+E06000008,Blackburn with Darwen,2,Provides 9 hours or less unpaid care a week,3649
+E06000008,Blackburn with Darwen,3,Provides 10 to 19 hours unpaid care a week,1835
+E06000008,Blackburn with Darwen,4,Provides 20 to 34 hours unpaid care a week,1531
+E06000008,Blackburn with Darwen,5,Provides 35 to 49 hours unpaid care a week,1865
+E06000008,Blackburn with Darwen,6,Provides 50 or more hours unpaid care a week,4399
+E06000009,Blackpool,-8,Does not apply,7360
+E06000009,Blackpool,1,Provides no unpaid care,119063
+E06000009,Blackpool,2,Provides 9 hours or less unpaid care a week,3856
+E06000009,Blackpool,3,Provides 10 to 19 hours unpaid care a week,1973
+E06000009,Blackpool,4,Provides 20 to 34 hours unpaid care a week,1534
+E06000009,Blackpool,5,Provides 35 to 49 hours unpaid care a week,1989
+E06000009,Blackpool,6,Provides 50 or more hours unpaid care a week,5261
+E06000010,Kingston upon Hull,-8,Does not apply,15954
+E06000010,Kingston upon Hull,1,Provides no unpaid care,229820
+E06000010,Kingston upon Hull,2,Provides 9 hours or less unpaid care a week,5515
+E06000010,Kingston upon Hull,3,Provides 10 to 19 hours unpaid care a week,2633
+E06000010,Kingston upon Hull,4,Provides 20 to 34 hours unpaid care a week,2025
+E06000010,Kingston upon Hull,5,Provides 35 to 49 hours unpaid care a week,3122
+E06000010,Kingston upon Hull,6,Provides 50 or more hours unpaid care a week,7946
+E06000011,East Riding of Yorkshire,-8,Does not apply,14687
+E06000011,East Riding of Yorkshire,1,Provides no unpaid care,296909
+E06000011,East Riding of Yorkshire,2,Provides 9 hours or less unpaid care a week,11286
+E06000011,East Riding of Yorkshire,3,Provides 10 to 19 hours unpaid care a week,3997
+E06000011,East Riding of Yorkshire,4,Provides 20 to 34 hours unpaid care a week,2662
+E06000011,East Riding of Yorkshire,5,Provides 35 to 49 hours unpaid care a week,2989
+E06000011,East Riding of Yorkshire,6,Provides 50 or more hours unpaid care a week,9684
+E06000012,North East Lincolnshire,-8,Does not apply,8455
+E06000012,North East Lincolnshire,1,Provides no unpaid care,134457
+E06000012,North East Lincolnshire,2,Provides 9 hours or less unpaid care a week,4176
+E06000012,North East Lincolnshire,3,Provides 10 to 19 hours unpaid care a week,1826
+E06000012,North East Lincolnshire,4,Provides 20 to 34 hours unpaid care a week,1359
+E06000012,North East Lincolnshire,5,Provides 35 to 49 hours unpaid care a week,1843
+E06000012,North East Lincolnshire,6,Provides 50 or more hours unpaid care a week,4849
+E06000013,North Lincolnshire,-8,Does not apply,8445
+E06000013,North Lincolnshire,1,Provides no unpaid care,145805
+E06000013,North Lincolnshire,2,Provides 9 hours or less unpaid care a week,4734
+E06000013,North Lincolnshire,3,Provides 10 to 19 hours unpaid care a week,2102
+E06000013,North Lincolnshire,4,Provides 20 to 34 hours unpaid care a week,1562
+E06000013,North Lincolnshire,5,Provides 35 to 49 hours unpaid care a week,1846
+E06000013,North Lincolnshire,6,Provides 50 or more hours unpaid care a week,5186
+E06000014,York,-8,Does not apply,8615
+E06000014,York,1,Provides no unpaid care,179338
+E06000014,York,2,Provides 9 hours or less unpaid care a week,6550
+E06000014,York,3,Provides 10 to 19 hours unpaid care a week,2070
+E06000014,York,4,Provides 20 to 34 hours unpaid care a week,1229
+E06000014,York,5,Provides 35 to 49 hours unpaid care a week,1216
+E06000014,York,6,Provides 50 or more hours unpaid care a week,3803
+E06000015,Derby,-8,Does not apply,15220
+E06000015,Derby,1,Provides no unpaid care,223874
+E06000015,Derby,2,Provides 9 hours or less unpaid care a week,7096
+E06000015,Derby,3,Provides 10 to 19 hours unpaid care a week,2956
+E06000015,Derby,4,Provides 20 to 34 hours unpaid care a week,2392
+E06000015,Derby,5,Provides 35 to 49 hours unpaid care a week,2765
+E06000015,Derby,6,Provides 50 or more hours unpaid care a week,7061
+E06000016,Leicester,-8,Does not apply,22302
+E06000016,Leicester,1,Provides no unpaid care,319742
+E06000016,Leicester,2,Provides 9 hours or less unpaid care a week,7262
+E06000016,Leicester,3,Provides 10 to 19 hours unpaid care a week,3701
+E06000016,Leicester,4,Provides 20 to 34 hours unpaid care a week,3222
+E06000016,Leicester,5,Provides 35 to 49 hours unpaid care a week,3832
+E06000016,Leicester,6,Provides 50 or more hours unpaid care a week,8510
+E06000017,Rutland,-8,Does not apply,1642
+E06000017,Rutland,1,Provides no unpaid care,36234
+E06000017,Rutland,2,Provides 9 hours or less unpaid care a week,1419
+E06000017,Rutland,3,Provides 10 to 19 hours unpaid care a week,398
+E06000017,Rutland,4,Provides 20 to 34 hours unpaid care a week,226
+E06000017,Rutland,5,Provides 35 to 49 hours unpaid care a week,250
+E06000017,Rutland,6,Provides 50 or more hours unpaid care a week,878
+E06000018,Nottingham,-8,Does not apply,17819
+E06000018,Nottingham,1,Provides no unpaid care,281467
+E06000018,Nottingham,2,Provides 9 hours or less unpaid care a week,7365
+E06000018,Nottingham,3,Provides 10 to 19 hours unpaid care a week,3245
+E06000018,Nottingham,4,Provides 20 to 34 hours unpaid care a week,2707
+E06000018,Nottingham,5,Provides 35 to 49 hours unpaid care a week,3319
+E06000018,Nottingham,6,Provides 50 or more hours unpaid care a week,7710
+E06000019,Herefordshire,-8,Does not apply,8429
+E06000019,Herefordshire,1,Provides no unpaid care,162028
+E06000019,Herefordshire,2,Provides 9 hours or less unpaid care a week,6510
+E06000019,Herefordshire,3,Provides 10 to 19 hours unpaid care a week,2305
+E06000019,Herefordshire,4,Provides 20 to 34 hours unpaid care a week,1448
+E06000019,Herefordshire,5,Provides 35 to 49 hours unpaid care a week,1504
+E06000019,Herefordshire,6,Provides 50 or more hours unpaid care a week,4810
+E06000020,Telford and Wrekin,-8,Does not apply,10562
+E06000020,Telford and Wrekin,1,Provides no unpaid care,156954
+E06000020,Telford and Wrekin,2,Provides 9 hours or less unpaid care a week,5959
+E06000020,Telford and Wrekin,3,Provides 10 to 19 hours unpaid care a week,2255
+E06000020,Telford and Wrekin,4,Provides 20 to 34 hours unpaid care a week,1773
+E06000020,Telford and Wrekin,5,Provides 35 to 49 hours unpaid care a week,2140
+E06000020,Telford and Wrekin,6,Provides 50 or more hours unpaid care a week,5899
+E06000021,Stoke-on-Trent,-8,Does not apply,15625
+E06000021,Stoke-on-Trent,1,Provides no unpaid care,219182
+E06000021,Stoke-on-Trent,2,Provides 9 hours or less unpaid care a week,6785
+E06000021,Stoke-on-Trent,3,Provides 10 to 19 hours unpaid care a week,3229
+E06000021,Stoke-on-Trent,4,Provides 20 to 34 hours unpaid care a week,2419
+E06000021,Stoke-on-Trent,5,Provides 35 to 49 hours unpaid care a week,3086
+E06000021,Stoke-on-Trent,6,Provides 50 or more hours unpaid care a week,8043
+E06000022,Bath and North East Somerset,-8,Does not apply,9019
+E06000022,Bath and North East Somerset,1,Provides no unpaid care,169418
+E06000022,Bath and North East Somerset,2,Provides 9 hours or less unpaid care a week,6485
+E06000022,Bath and North East Somerset,3,Provides 10 to 19 hours unpaid care a week,2085
+E06000022,Bath and North East Somerset,4,Provides 20 to 34 hours unpaid care a week,1282
+E06000022,Bath and North East Somerset,5,Provides 35 to 49 hours unpaid care a week,1269
+E06000022,Bath and North East Somerset,6,Provides 50 or more hours unpaid care a week,3849
+E06000023,Bristol,-8,Does not apply,25942
+E06000023,Bristol,1,Provides no unpaid care,412550
+E06000023,Bristol,2,Provides 9 hours or less unpaid care a week,13233
+E06000023,Bristol,3,Provides 10 to 19 hours unpaid care a week,4506
+E06000023,Bristol,4,Provides 20 to 34 hours unpaid care a week,3194
+E06000023,Bristol,5,Provides 35 to 49 hours unpaid care a week,3722
+E06000023,Bristol,6,Provides 50 or more hours unpaid care a week,9318
+E06000024,North Somerset,-8,Does not apply,10662
+E06000024,North Somerset,1,Provides no unpaid care,187306
+E06000024,North Somerset,2,Provides 9 hours or less unpaid care a week,7693
+E06000024,North Somerset,3,Provides 10 to 19 hours unpaid care a week,2473
+E06000024,North Somerset,4,Provides 20 to 34 hours unpaid care a week,1602
+E06000024,North Somerset,5,Provides 35 to 49 hours unpaid care a week,1643
+E06000024,North Somerset,6,Provides 50 or more hours unpaid care a week,5351
+E06000025,South Gloucestershire,-8,Does not apply,16119
+E06000025,South Gloucestershire,1,Provides no unpaid care,250653
+E06000025,South Gloucestershire,2,Provides 9 hours or less unpaid care a week,9668
+E06000025,South Gloucestershire,3,Provides 10 to 19 hours unpaid care a week,3339
+E06000025,South Gloucestershire,4,Provides 20 to 34 hours unpaid care a week,2088
+E06000025,South Gloucestershire,5,Provides 35 to 49 hours unpaid care a week,2116
+E06000025,South Gloucestershire,6,Provides 50 or more hours unpaid care a week,6441
+E06000026,Plymouth,-8,Does not apply,13205
+E06000026,Plymouth,1,Provides no unpaid care,227533
+E06000026,Plymouth,2,Provides 9 hours or less unpaid care a week,7641
+E06000026,Plymouth,3,Provides 10 to 19 hours unpaid care a week,3005
+E06000026,Plymouth,4,Provides 20 to 34 hours unpaid care a week,2403
+E06000026,Plymouth,5,Provides 35 to 49 hours unpaid care a week,2864
+E06000026,Plymouth,6,Provides 50 or more hours unpaid care a week,8043
+E06000027,Torbay,-8,Does not apply,6059
+E06000027,Torbay,1,Provides no unpaid care,118359
+E06000027,Torbay,2,Provides 9 hours or less unpaid care a week,4498
+E06000027,Torbay,3,Provides 10 to 19 hours unpaid care a week,2016
+E06000027,Torbay,4,Provides 20 to 34 hours unpaid care a week,1553
+E06000027,Torbay,5,Provides 35 to 49 hours unpaid care a week,1654
+E06000027,Torbay,6,Provides 50 or more hours unpaid care a week,5185
+E06000030,Swindon,-8,Does not apply,13626
+E06000030,Swindon,1,Provides no unpaid care,201466
+E06000030,Swindon,2,Provides 9 hours or less unpaid care a week,6595
+E06000030,Swindon,3,Provides 10 to 19 hours unpaid care a week,2465
+E06000030,Swindon,4,Provides 20 to 34 hours unpaid care a week,1759
+E06000030,Swindon,5,Provides 35 to 49 hours unpaid care a week,2047
+E06000030,Swindon,6,Provides 50 or more hours unpaid care a week,5452
+E06000031,Peterborough,-8,Does not apply,14163
+E06000031,Peterborough,1,Provides no unpaid care,185265
+E06000031,Peterborough,2,Provides 9 hours or less unpaid care a week,5216
+E06000031,Peterborough,3,Provides 10 to 19 hours unpaid care a week,2097
+E06000031,Peterborough,4,Provides 20 to 34 hours unpaid care a week,1712
+E06000031,Peterborough,5,Provides 35 to 49 hours unpaid care a week,2141
+E06000031,Peterborough,6,Provides 50 or more hours unpaid care a week,5078
+E06000032,Luton,-8,Does not apply,15960
+E06000032,Luton,1,Provides no unpaid care,193203
+E06000032,Luton,2,Provides 9 hours or less unpaid care a week,4738
+E06000032,Luton,3,Provides 10 to 19 hours unpaid care a week,2374
+E06000032,Luton,4,Provides 20 to 34 hours unpaid care a week,1925
+E06000032,Luton,5,Provides 35 to 49 hours unpaid care a week,2189
+E06000032,Luton,6,Provides 50 or more hours unpaid care a week,4873
+E06000033,Southend-on-Sea,-8,Does not apply,10242
+E06000033,Southend-on-Sea,1,Provides no unpaid care,155425
+E06000033,Southend-on-Sea,2,Provides 9 hours or less unpaid care a week,5320
+E06000033,Southend-on-Sea,3,Provides 10 to 19 hours unpaid care a week,2085
+E06000033,Southend-on-Sea,4,Provides 20 to 34 hours unpaid care a week,1390
+E06000033,Southend-on-Sea,5,Provides 35 to 49 hours unpaid care a week,1656
+E06000033,Southend-on-Sea,6,Provides 50 or more hours unpaid care a week,4568
+E06000034,Thurrock,-8,Does not apply,12261
+E06000034,Thurrock,1,Provides no unpaid care,151068
+E06000034,Thurrock,2,Provides 9 hours or less unpaid care a week,4067
+E06000034,Thurrock,3,Provides 10 to 19 hours unpaid care a week,1665
+E06000034,Thurrock,4,Provides 20 to 34 hours unpaid care a week,1269
+E06000034,Thurrock,5,Provides 35 to 49 hours unpaid care a week,1587
+E06000034,Thurrock,6,Provides 50 or more hours unpaid care a week,4083
+E06000035,Medway,-8,Does not apply,17308
+E06000035,Medway,1,Provides no unpaid care,239847
+E06000035,Medway,2,Provides 9 hours or less unpaid care a week,7265
+E06000035,Medway,3,Provides 10 to 19 hours unpaid care a week,3041
+E06000035,Medway,4,Provides 20 to 34 hours unpaid care a week,2184
+E06000035,Medway,5,Provides 35 to 49 hours unpaid care a week,2748
+E06000035,Medway,6,Provides 50 or more hours unpaid care a week,7380
+E06000036,Bracknell Forest,-8,Does not apply,7119
+E06000036,Bracknell Forest,1,Provides no unpaid care,108718
+E06000036,Bracknell Forest,2,Provides 9 hours or less unpaid care a week,3628
+E06000036,Bracknell Forest,3,Provides 10 to 19 hours unpaid care a week,1174
+E06000036,Bracknell Forest,4,Provides 20 to 34 hours unpaid care a week,710
+E06000036,Bracknell Forest,5,Provides 35 to 49 hours unpaid care a week,845
+E06000036,Bracknell Forest,6,Provides 50 or more hours unpaid care a week,2413
+E06000037,West Berkshire,-8,Does not apply,8310
+E06000037,West Berkshire,1,Provides no unpaid care,141112
+E06000037,West Berkshire,2,Provides 9 hours or less unpaid care a week,5324
+E06000037,West Berkshire,3,Provides 10 to 19 hours unpaid care a week,1559
+E06000037,West Berkshire,4,Provides 20 to 34 hours unpaid care a week,924
+E06000037,West Berkshire,5,Provides 35 to 49 hours unpaid care a week,1008
+E06000037,West Berkshire,6,Provides 50 or more hours unpaid care a week,3211
+E06000038,Reading,-8,Does not apply,10238
+E06000038,Reading,1,Provides no unpaid care,153003
+E06000038,Reading,2,Provides 9 hours or less unpaid care a week,4003
+E06000038,Reading,3,Provides 10 to 19 hours unpaid care a week,1441
+E06000038,Reading,4,Provides 20 to 34 hours unpaid care a week,1070
+E06000038,Reading,5,Provides 35 to 49 hours unpaid care a week,1423
+E06000038,Reading,6,Provides 50 or more hours unpaid care a week,3049
+E06000039,Slough,-8,Does not apply,11772
+E06000039,Slough,1,Provides no unpaid care,136585
+E06000039,Slough,2,Provides 9 hours or less unpaid care a week,3042
+E06000039,Slough,3,Provides 10 to 19 hours unpaid care a week,1464
+E06000039,Slough,4,Provides 20 to 34 hours unpaid care a week,1237
+E06000039,Slough,5,Provides 35 to 49 hours unpaid care a week,1407
+E06000039,Slough,6,Provides 50 or more hours unpaid care a week,2994
+E06000040,Windsor and Maidenhead,-8,Does not apply,8021
+E06000040,Windsor and Maidenhead,1,Provides no unpaid care,134701
+E06000040,Windsor and Maidenhead,2,Provides 9 hours or less unpaid care a week,4725
+E06000040,Windsor and Maidenhead,3,Provides 10 to 19 hours unpaid care a week,1450
+E06000040,Windsor and Maidenhead,4,Provides 20 to 34 hours unpaid care a week,945
+E06000040,Windsor and Maidenhead,5,Provides 35 to 49 hours unpaid care a week,930
+E06000040,Windsor and Maidenhead,6,Provides 50 or more hours unpaid care a week,2725
+E06000041,Wokingham,-8,Does not apply,9852
+E06000041,Wokingham,1,Provides no unpaid care,155455
+E06000041,Wokingham,2,Provides 9 hours or less unpaid care a week,5600
+E06000041,Wokingham,3,Provides 10 to 19 hours unpaid care a week,1595
+E06000041,Wokingham,4,Provides 20 to 34 hours unpaid care a week,990
+E06000041,Wokingham,5,Provides 35 to 49 hours unpaid care a week,986
+E06000041,Wokingham,6,Provides 50 or more hours unpaid care a week,3024
+E06000042,Milton Keynes,-8,Does not apply,17733
+E06000042,Milton Keynes,1,Provides no unpaid care,248723
+E06000042,Milton Keynes,2,Provides 9 hours or less unpaid care a week,7471
+E06000042,Milton Keynes,3,Provides 10 to 19 hours unpaid care a week,2714
+E06000042,Milton Keynes,4,Provides 20 to 34 hours unpaid care a week,2075
+E06000042,Milton Keynes,5,Provides 35 to 49 hours unpaid care a week,2343
+E06000042,Milton Keynes,6,Provides 50 or more hours unpaid care a week,6001
+E06000043,Brighton and Hove,-8,Does not apply,11751
+E06000043,Brighton and Hove,1,Provides no unpaid care,244548
+E06000043,Brighton and Hove,2,Provides 9 hours or less unpaid care a week,8679
+E06000043,Brighton and Hove,3,Provides 10 to 19 hours unpaid care a week,2655
+E06000043,Brighton and Hove,4,Provides 20 to 34 hours unpaid care a week,1981
+E06000043,Brighton and Hove,5,Provides 35 to 49 hours unpaid care a week,2059
+E06000043,Brighton and Hove,6,Provides 50 or more hours unpaid care a week,5430
+E06000044,Portsmouth,-8,Does not apply,11280
+E06000044,Portsmouth,1,Provides no unpaid care,181418
+E06000044,Portsmouth,2,Provides 9 hours or less unpaid care a week,5280
+E06000044,Portsmouth,3,Provides 10 to 19 hours unpaid care a week,2083
+E06000044,Portsmouth,4,Provides 20 to 34 hours unpaid care a week,1488
+E06000044,Portsmouth,5,Provides 35 to 49 hours unpaid care a week,1769
+E06000044,Portsmouth,6,Provides 50 or more hours unpaid care a week,4684
+E06000045,Southampton,-8,Does not apply,13796
+E06000045,Southampton,1,Provides no unpaid care,216988
+E06000045,Southampton,2,Provides 9 hours or less unpaid care a week,6118
+E06000045,Southampton,3,Provides 10 to 19 hours unpaid care a week,2281
+E06000045,Southampton,4,Provides 20 to 34 hours unpaid care a week,1766
+E06000045,Southampton,5,Provides 35 to 49 hours unpaid care a week,2240
+E06000045,Southampton,6,Provides 50 or more hours unpaid care a week,5733
+E06000046,Isle of Wight,-8,Does not apply,5552
+E06000046,Isle of Wight,1,Provides no unpaid care,120702
+E06000046,Isle of Wight,2,Provides 9 hours or less unpaid care a week,4819
+E06000046,Isle of Wight,3,Provides 10 to 19 hours unpaid care a week,1834
+E06000046,Isle of Wight,4,Provides 20 to 34 hours unpaid care a week,1286
+E06000046,Isle of Wight,5,Provides 35 to 49 hours unpaid care a week,1380
+E06000046,Isle of Wight,6,Provides 50 or more hours unpaid care a week,4886
+E06000047,County Durham,-8,Does not apply,24752
+E06000047,County Durham,1,Provides no unpaid care,444638
+E06000047,County Durham,2,Provides 9 hours or less unpaid care a week,15557
+E06000047,County Durham,3,Provides 10 to 19 hours unpaid care a week,6887
+E06000047,County Durham,4,Provides 20 to 34 hours unpaid care a week,5056
+E06000047,County Durham,5,Provides 35 to 49 hours unpaid care a week,6852
+E06000047,County Durham,6,Provides 50 or more hours unpaid care a week,18326
+E06000049,Cheshire East,-8,Does not apply,19930
+E06000049,Cheshire East,1,Provides no unpaid care,344383
+E06000049,Cheshire East,2,Provides 9 hours or less unpaid care a week,14028
+E06000049,Cheshire East,3,Provides 10 to 19 hours unpaid care a week,4675
+E06000049,Cheshire East,4,Provides 20 to 34 hours unpaid care a week,3001
+E06000049,Cheshire East,5,Provides 35 to 49 hours unpaid care a week,3137
+E06000049,Cheshire East,6,Provides 50 or more hours unpaid care a week,9615
+E06000050,Cheshire West and Chester,-8,Does not apply,17618
+E06000050,Cheshire West and Chester,1,Provides no unpaid care,306894
+E06000050,Cheshire West and Chester,2,Provides 9 hours or less unpaid care a week,11955
+E06000050,Cheshire West and Chester,3,Provides 10 to 19 hours unpaid care a week,4466
+E06000050,Cheshire West and Chester,4,Provides 20 to 34 hours unpaid care a week,2999
+E06000050,Cheshire West and Chester,5,Provides 35 to 49 hours unpaid care a week,3313
+E06000050,Cheshire West and Chester,6,Provides 50 or more hours unpaid care a week,9905
+E06000051,Shropshire,-8,Does not apply,14422
+E06000051,Shropshire,1,Provides no unpaid care,279482
+E06000051,Shropshire,2,Provides 9 hours or less unpaid care a week,11637
+E06000051,Shropshire,3,Provides 10 to 19 hours unpaid care a week,4044
+E06000051,Shropshire,4,Provides 20 to 34 hours unpaid care a week,2721
+E06000051,Shropshire,5,Provides 35 to 49 hours unpaid care a week,2771
+E06000051,Shropshire,6,Provides 50 or more hours unpaid care a week,8531
+E06000052,Cornwall,-8,Does not apply,25532
+E06000052,Cornwall,1,Provides no unpaid care,490220
+E06000052,Cornwall,2,Provides 9 hours or less unpaid care a week,19107
+E06000052,Cornwall,3,Provides 10 to 19 hours unpaid care a week,7315
+E06000052,Cornwall,4,Provides 20 to 34 hours unpaid care a week,5283
+E06000052,Cornwall,5,Provides 35 to 49 hours unpaid care a week,5394
+E06000052,Cornwall,6,Provides 50 or more hours unpaid care a week,17453
+E06000053,Isles of Scilly,-8,Does not apply,96
+E06000053,Isles of Scilly,1,Provides no unpaid care,1758
+E06000053,Isles of Scilly,2,Provides 9 hours or less unpaid care a week,87
+E06000053,Isles of Scilly,3,Provides 10 to 19 hours unpaid care a week,31
+E06000053,Isles of Scilly,4,Provides 20 to 34 hours unpaid care a week,19
+E06000053,Isles of Scilly,5,Provides 35 to 49 hours unpaid care a week,8
+E06000053,Isles of Scilly,6,Provides 50 or more hours unpaid care a week,54
+E06000054,Wiltshire,-8,Does not apply,25629
+E06000054,Wiltshire,1,Provides no unpaid care,442444
+E06000054,Wiltshire,2,Provides 9 hours or less unpaid care a week,17386
+E06000054,Wiltshire,3,Provides 10 to 19 hours unpaid care a week,5546
+E06000054,Wiltshire,4,Provides 20 to 34 hours unpaid care a week,3675
+E06000054,Wiltshire,5,Provides 35 to 49 hours unpaid care a week,3847
+E06000054,Wiltshire,6,Provides 50 or more hours unpaid care a week,11806
+E06000055,Bedford,-8,Does not apply,11163
+E06000055,Bedford,1,Provides no unpaid care,159730
+E06000055,Bedford,2,Provides 9 hours or less unpaid care a week,5415
+E06000055,Bedford,3,Provides 10 to 19 hours unpaid care a week,2006
+E06000055,Bedford,4,Provides 20 to 34 hours unpaid care a week,1397
+E06000055,Bedford,5,Provides 35 to 49 hours unpaid care a week,1632
+E06000055,Bedford,6,Provides 50 or more hours unpaid care a week,3882
+E06000056,Central Bedfordshire,-8,Does not apply,17805
+E06000056,Central Bedfordshire,1,Provides no unpaid care,252896
+E06000056,Central Bedfordshire,2,Provides 9 hours or less unpaid care a week,9600
+E06000056,Central Bedfordshire,3,Provides 10 to 19 hours unpaid care a week,3287
+E06000056,Central Bedfordshire,4,Provides 20 to 34 hours unpaid care a week,2035
+E06000056,Central Bedfordshire,5,Provides 35 to 49 hours unpaid care a week,2137
+E06000056,Central Bedfordshire,6,Provides 50 or more hours unpaid care a week,6492
+E06000057,Northumberland,-8,Does not apply,14235
+E06000057,Northumberland,1,Provides no unpaid care,275216
+E06000057,Northumberland,2,Provides 9 hours or less unpaid care a week,10578
+E06000057,Northumberland,3,Provides 10 to 19 hours unpaid care a week,4152
+E06000057,Northumberland,4,Provides 20 to 34 hours unpaid care a week,2995
+E06000057,Northumberland,5,Provides 35 to 49 hours unpaid care a week,3434
+E06000057,Northumberland,6,Provides 50 or more hours unpaid care a week,9957
+E06000058,"Bournemouth, Christchurch and Poole",-8,Does not apply,18878
+E06000058,"Bournemouth, Christchurch and Poole",1,Provides no unpaid care,347966
+E06000058,"Bournemouth, Christchurch and Poole",2,Provides 9 hours or less unpaid care a week,12863
+E06000058,"Bournemouth, Christchurch and Poole",3,Provides 10 to 19 hours unpaid care a week,4531
+E06000058,"Bournemouth, Christchurch and Poole",4,Provides 20 to 34 hours unpaid care a week,3010
+E06000058,"Bournemouth, Christchurch and Poole",5,Provides 35 to 49 hours unpaid care a week,3324
+E06000058,"Bournemouth, Christchurch and Poole",6,Provides 50 or more hours unpaid care a week,9624
+E06000059,Dorset,-8,Does not apply,15024
+E06000059,Dorset,1,Provides no unpaid care,329043
+E06000059,Dorset,2,Provides 9 hours or less unpaid care a week,14036
+E06000059,Dorset,3,Provides 10 to 19 hours unpaid care a week,4802
+E06000059,Dorset,4,Provides 20 to 34 hours unpaid care a week,3021
+E06000059,Dorset,5,Provides 35 to 49 hours unpaid care a week,3081
+E06000059,Dorset,6,Provides 50 or more hours unpaid care a week,10572
+E06000060,Buckinghamshire,-8,Does not apply,30888
+E06000060,Buckinghamshire,1,Provides no unpaid care,480417
+E06000060,Buckinghamshire,2,Provides 9 hours or less unpaid care a week,18279
+E06000060,Buckinghamshire,3,Provides 10 to 19 hours unpaid care a week,5546
+E06000060,Buckinghamshire,4,Provides 20 to 34 hours unpaid care a week,3561
+E06000060,Buckinghamshire,5,Provides 35 to 49 hours unpaid care a week,3716
+E06000060,Buckinghamshire,6,Provides 50 or more hours unpaid care a week,10671
+E06000061,North Northamptonshire,-8,Does not apply,20206
+E06000061,North Northamptonshire,1,Provides no unpaid care,310403
+E06000061,North Northamptonshire,2,Provides 9 hours or less unpaid care a week,10196
+E06000061,North Northamptonshire,3,Provides 10 to 19 hours unpaid care a week,3870
+E06000061,North Northamptonshire,4,Provides 20 to 34 hours unpaid care a week,2755
+E06000061,North Northamptonshire,5,Provides 35 to 49 hours unpaid care a week,3126
+E06000061,North Northamptonshire,6,Provides 50 or more hours unpaid care a week,8969
+E06000062,West Northamptonshire,-8,Does not apply,23965
+E06000062,West Northamptonshire,1,Provides no unpaid care,369994
+E06000062,West Northamptonshire,2,Provides 9 hours or less unpaid care a week,12261
+E06000062,West Northamptonshire,3,Provides 10 to 19 hours unpaid care a week,4225
+E06000062,West Northamptonshire,4,Provides 20 to 34 hours unpaid care a week,2851
+E06000062,West Northamptonshire,5,Provides 35 to 49 hours unpaid care a week,3372
+E06000062,West Northamptonshire,6,Provides 50 or more hours unpaid care a week,9057
+E07000008,Cambridge,-8,Does not apply,6347
+E07000008,Cambridge,1,Provides no unpaid care,130613
+E07000008,Cambridge,2,Provides 9 hours or less unpaid care a week,4104
+E07000008,Cambridge,3,Provides 10 to 19 hours unpaid care a week,1047
+E07000008,Cambridge,4,Provides 20 to 34 hours unpaid care a week,704
+E07000008,Cambridge,5,Provides 35 to 49 hours unpaid care a week,819
+E07000008,Cambridge,6,Provides 50 or more hours unpaid care a week,2040
+E07000009,East Cambridgeshire,-8,Does not apply,4519
+E07000009,East Cambridgeshire,1,Provides no unpaid care,76067
+E07000009,East Cambridgeshire,2,Provides 9 hours or less unpaid care a week,3072
+E07000009,East Cambridgeshire,3,Provides 10 to 19 hours unpaid care a week,1007
+E07000009,East Cambridgeshire,4,Provides 20 to 34 hours unpaid care a week,584
+E07000009,East Cambridgeshire,5,Provides 35 to 49 hours unpaid care a week,601
+E07000009,East Cambridgeshire,6,Provides 50 or more hours unpaid care a week,1912
+E07000010,Fenland,-8,Does not apply,5169
+E07000010,Fenland,1,Provides no unpaid care,87974
+E07000010,Fenland,2,Provides 9 hours or less unpaid care a week,2870
+E07000010,Fenland,3,Provides 10 to 19 hours unpaid care a week,1176
+E07000010,Fenland,4,Provides 20 to 34 hours unpaid care a week,895
+E07000010,Fenland,5,Provides 35 to 49 hours unpaid care a week,1103
+E07000010,Fenland,6,Provides 50 or more hours unpaid care a week,3272
+E07000011,Huntingdonshire,-8,Does not apply,9660
+E07000011,Huntingdonshire,1,Provides no unpaid care,157021
+E07000011,Huntingdonshire,2,Provides 9 hours or less unpaid care a week,5743
+E07000011,Huntingdonshire,3,Provides 10 to 19 hours unpaid care a week,1902
+E07000011,Huntingdonshire,4,Provides 20 to 34 hours unpaid care a week,1230
+E07000011,Huntingdonshire,5,Provides 35 to 49 hours unpaid care a week,1236
+E07000011,Huntingdonshire,6,Provides 50 or more hours unpaid care a week,4040
+E07000012,South Cambridgeshire,-8,Does not apply,8772
+E07000012,South Cambridgeshire,1,Provides no unpaid care,140468
+E07000012,South Cambridgeshire,2,Provides 9 hours or less unpaid care a week,6114
+E07000012,South Cambridgeshire,3,Provides 10 to 19 hours unpaid care a week,1755
+E07000012,South Cambridgeshire,4,Provides 20 to 34 hours unpaid care a week,979
+E07000012,South Cambridgeshire,5,Provides 35 to 49 hours unpaid care a week,1019
+E07000012,South Cambridgeshire,6,Provides 50 or more hours unpaid care a week,3012
+E07000026,Allerdale,-8,Does not apply,4341
+E07000026,Allerdale,1,Provides no unpaid care,82804
+E07000026,Allerdale,2,Provides 9 hours or less unpaid care a week,3105
+E07000026,Allerdale,3,Provides 10 to 19 hours unpaid care a week,1272
+E07000026,Allerdale,4,Provides 20 to 34 hours unpaid care a week,865
+E07000026,Allerdale,5,Provides 35 to 49 hours unpaid care a week,972
+E07000026,Allerdale,6,Provides 50 or more hours unpaid care a week,2797
+E07000027,Barrow-in-Furness,-8,Does not apply,3486
+E07000027,Barrow-in-Furness,1,Provides no unpaid care,57590
+E07000027,Barrow-in-Furness,2,Provides 9 hours or less unpaid care a week,1968
+E07000027,Barrow-in-Furness,3,Provides 10 to 19 hours unpaid care a week,944
+E07000027,Barrow-in-Furness,4,Provides 20 to 34 hours unpaid care a week,624
+E07000027,Barrow-in-Furness,5,Provides 35 to 49 hours unpaid care a week,766
+E07000027,Barrow-in-Furness,6,Provides 50 or more hours unpaid care a week,2029
+E07000028,Carlisle,-8,Does not apply,5377
+E07000028,Carlisle,1,Provides no unpaid care,95426
+E07000028,Carlisle,2,Provides 9 hours or less unpaid care a week,3335
+E07000028,Carlisle,3,Provides 10 to 19 hours unpaid care a week,1316
+E07000028,Carlisle,4,Provides 20 to 34 hours unpaid care a week,921
+E07000028,Carlisle,5,Provides 35 to 49 hours unpaid care a week,955
+E07000028,Carlisle,6,Provides 50 or more hours unpaid care a week,2694
+E07000029,Copeland,-8,Does not apply,3131
+E07000029,Copeland,1,Provides no unpaid care,57470
+E07000029,Copeland,2,Provides 9 hours or less unpaid care a week,1963
+E07000029,Copeland,3,Provides 10 to 19 hours unpaid care a week,923
+E07000029,Copeland,4,Provides 20 to 34 hours unpaid care a week,620
+E07000029,Copeland,5,Provides 35 to 49 hours unpaid care a week,770
+E07000029,Copeland,6,Provides 50 or more hours unpaid care a week,2199
+E07000030,Eden,-8,Does not apply,2150
+E07000030,Eden,1,Provides no unpaid care,47803
+E07000030,Eden,2,Provides 9 hours or less unpaid care a week,2000
+E07000030,Eden,3,Provides 10 to 19 hours unpaid care a week,669
+E07000030,Eden,4,Provides 20 to 34 hours unpaid care a week,436
+E07000030,Eden,5,Provides 35 to 49 hours unpaid care a week,400
+E07000030,Eden,6,Provides 50 or more hours unpaid care a week,1275
+E07000031,South Lakeland,-8,Does not apply,3917
+E07000031,South Lakeland,1,Provides no unpaid care,91546
+E07000031,South Lakeland,2,Provides 9 hours or less unpaid care a week,3827
+E07000031,South Lakeland,3,Provides 10 to 19 hours unpaid care a week,1295
+E07000031,South Lakeland,4,Provides 20 to 34 hours unpaid care a week,750
+E07000031,South Lakeland,5,Provides 35 to 49 hours unpaid care a week,688
+E07000031,South Lakeland,6,Provides 50 or more hours unpaid care a week,2430
+E07000032,Amber Valley,-8,Does not apply,6073
+E07000032,Amber Valley,1,Provides no unpaid care,107579
+E07000032,Amber Valley,2,Provides 9 hours or less unpaid care a week,4711
+E07000032,Amber Valley,3,Provides 10 to 19 hours unpaid care a week,1722
+E07000032,Amber Valley,4,Provides 20 to 34 hours unpaid care a week,1115
+E07000032,Amber Valley,5,Provides 35 to 49 hours unpaid care a week,1246
+E07000032,Amber Valley,6,Provides 50 or more hours unpaid care a week,3764
+E07000033,Bolsover,-8,Does not apply,4102
+E07000033,Bolsover,1,Provides no unpaid care,67663
+E07000033,Bolsover,2,Provides 9 hours or less unpaid care a week,2562
+E07000033,Bolsover,3,Provides 10 to 19 hours unpaid care a week,1171
+E07000033,Bolsover,4,Provides 20 to 34 hours unpaid care a week,892
+E07000033,Bolsover,5,Provides 35 to 49 hours unpaid care a week,1023
+E07000033,Bolsover,6,Provides 50 or more hours unpaid care a week,2860
+E07000034,Chesterfield,-8,Does not apply,5080
+E07000034,Chesterfield,1,Provides no unpaid care,87778
+E07000034,Chesterfield,2,Provides 9 hours or less unpaid care a week,3621
+E07000034,Chesterfield,3,Provides 10 to 19 hours unpaid care a week,1437
+E07000034,Chesterfield,4,Provides 20 to 34 hours unpaid care a week,989
+E07000034,Chesterfield,5,Provides 35 to 49 hours unpaid care a week,1207
+E07000034,Chesterfield,6,Provides 50 or more hours unpaid care a week,3458
+E07000035,Derbyshire Dales,-8,Does not apply,2636
+E07000035,Derbyshire Dales,1,Provides no unpaid care,62027
+E07000035,Derbyshire Dales,2,Provides 9 hours or less unpaid care a week,3048
+E07000035,Derbyshire Dales,3,Provides 10 to 19 hours unpaid care a week,984
+E07000035,Derbyshire Dales,4,Provides 20 to 34 hours unpaid care a week,522
+E07000035,Derbyshire Dales,5,Provides 35 to 49 hours unpaid care a week,533
+E07000035,Derbyshire Dales,6,Provides 50 or more hours unpaid care a week,1790
+E07000036,Erewash,-8,Does not apply,5493
+E07000036,Erewash,1,Provides no unpaid care,96677
+E07000036,Erewash,2,Provides 9 hours or less unpaid care a week,3950
+E07000036,Erewash,3,Provides 10 to 19 hours unpaid care a week,1425
+E07000036,Erewash,4,Provides 20 to 34 hours unpaid care a week,960
+E07000036,Erewash,5,Provides 35 to 49 hours unpaid care a week,1114
+E07000036,Erewash,6,Provides 50 or more hours unpaid care a week,3287
+E07000037,High Peak,-8,Does not apply,4329
+E07000037,High Peak,1,Provides no unpaid care,78503
+E07000037,High Peak,2,Provides 9 hours or less unpaid care a week,3331
+E07000037,High Peak,3,Provides 10 to 19 hours unpaid care a week,1126
+E07000037,High Peak,4,Provides 20 to 34 hours unpaid care a week,692
+E07000037,High Peak,5,Provides 35 to 49 hours unpaid care a week,730
+E07000037,High Peak,6,Provides 50 or more hours unpaid care a week,2224
+E07000038,North East Derbyshire,-8,Does not apply,4839
+E07000038,North East Derbyshire,1,Provides no unpaid care,86564
+E07000038,North East Derbyshire,2,Provides 9 hours or less unpaid care a week,3754
+E07000038,North East Derbyshire,3,Provides 10 to 19 hours unpaid care a week,1510
+E07000038,North East Derbyshire,4,Provides 20 to 34 hours unpaid care a week,925
+E07000038,North East Derbyshire,5,Provides 35 to 49 hours unpaid care a week,1038
+E07000038,North East Derbyshire,6,Provides 50 or more hours unpaid care a week,3371
+E07000039,South Derbyshire,-8,Does not apply,5762
+E07000039,South Derbyshire,1,Provides no unpaid care,92098
+E07000039,South Derbyshire,2,Provides 9 hours or less unpaid care a week,3603
+E07000039,South Derbyshire,3,Provides 10 to 19 hours unpaid care a week,1246
+E07000039,South Derbyshire,4,Provides 20 to 34 hours unpaid care a week,870
+E07000039,South Derbyshire,5,Provides 35 to 49 hours unpaid care a week,934
+E07000039,South Derbyshire,6,Provides 50 or more hours unpaid care a week,2696
+E07000040,East Devon,-8,Does not apply,6491
+E07000040,East Devon,1,Provides no unpaid care,130146
+E07000040,East Devon,2,Provides 9 hours or less unpaid care a week,5580
+E07000040,East Devon,3,Provides 10 to 19 hours unpaid care a week,1904
+E07000040,East Devon,4,Provides 20 to 34 hours unpaid care a week,1214
+E07000040,East Devon,5,Provides 35 to 49 hours unpaid care a week,1257
+E07000040,East Devon,6,Provides 50 or more hours unpaid care a week,4236
+E07000041,Exeter,-8,Does not apply,5884
+E07000041,Exeter,1,Provides no unpaid care,114847
+E07000041,Exeter,2,Provides 9 hours or less unpaid care a week,4069
+E07000041,Exeter,3,Provides 10 to 19 hours unpaid care a week,1304
+E07000041,Exeter,4,Provides 20 to 34 hours unpaid care a week,908
+E07000041,Exeter,5,Provides 35 to 49 hours unpaid care a week,978
+E07000041,Exeter,6,Provides 50 or more hours unpaid care a week,2719
+E07000042,Mid Devon,-8,Does not apply,4022
+E07000042,Mid Devon,1,Provides no unpaid care,71328
+E07000042,Mid Devon,2,Provides 9 hours or less unpaid care a week,2990
+E07000042,Mid Devon,3,Provides 10 to 19 hours unpaid care a week,999
+E07000042,Mid Devon,4,Provides 20 to 34 hours unpaid care a week,670
+E07000042,Mid Devon,5,Provides 35 to 49 hours unpaid care a week,709
+E07000042,Mid Devon,6,Provides 50 or more hours unpaid care a week,2134
+E07000043,North Devon,-8,Does not apply,4512
+E07000043,North Devon,1,Provides no unpaid care,85130
+E07000043,North Devon,2,Provides 9 hours or less unpaid care a week,3248
+E07000043,North Devon,3,Provides 10 to 19 hours unpaid care a week,1211
+E07000043,North Devon,4,Provides 20 to 34 hours unpaid care a week,787
+E07000043,North Devon,5,Provides 35 to 49 hours unpaid care a week,875
+E07000043,North Devon,6,Provides 50 or more hours unpaid care a week,2847
+E07000044,South Hams,-8,Does not apply,3529
+E07000044,South Hams,1,Provides no unpaid care,76521
+E07000044,South Hams,2,Provides 9 hours or less unpaid care a week,3628
+E07000044,South Hams,3,Provides 10 to 19 hours unpaid care a week,1173
+E07000044,South Hams,4,Provides 20 to 34 hours unpaid care a week,751
+E07000044,South Hams,5,Provides 35 to 49 hours unpaid care a week,733
+E07000044,South Hams,6,Provides 50 or more hours unpaid care a week,2294
+E07000045,Teignbridge,-8,Does not apply,5906
+E07000045,Teignbridge,1,Provides no unpaid care,115676
+E07000045,Teignbridge,2,Provides 9 hours or less unpaid care a week,5153
+E07000045,Teignbridge,3,Provides 10 to 19 hours unpaid care a week,1753
+E07000045,Teignbridge,4,Provides 20 to 34 hours unpaid care a week,1166
+E07000045,Teignbridge,5,Provides 35 to 49 hours unpaid care a week,1210
+E07000045,Teignbridge,6,Provides 50 or more hours unpaid care a week,3936
+E07000046,Torridge,-8,Does not apply,2803
+E07000046,Torridge,1,Provides no unpaid care,58683
+E07000046,Torridge,2,Provides 9 hours or less unpaid care a week,2377
+E07000046,Torridge,3,Provides 10 to 19 hours unpaid care a week,843
+E07000046,Torridge,4,Provides 20 to 34 hours unpaid care a week,602
+E07000046,Torridge,5,Provides 35 to 49 hours unpaid care a week,644
+E07000046,Torridge,6,Provides 50 or more hours unpaid care a week,2161
+E07000047,West Devon,-8,Does not apply,2196
+E07000047,West Devon,1,Provides no unpaid care,49222
+E07000047,West Devon,2,Provides 9 hours or less unpaid care a week,2269
+E07000047,West Devon,3,Provides 10 to 19 hours unpaid care a week,771
+E07000047,West Devon,4,Provides 20 to 34 hours unpaid care a week,495
+E07000047,West Devon,5,Provides 35 to 49 hours unpaid care a week,463
+E07000047,West Devon,6,Provides 50 or more hours unpaid care a week,1680
+E07000061,Eastbourne,-8,Does not apply,4717
+E07000061,Eastbourne,1,Provides no unpaid care,87553
+E07000061,Eastbourne,2,Provides 9 hours or less unpaid care a week,3157
+E07000061,Eastbourne,3,Provides 10 to 19 hours unpaid care a week,1187
+E07000061,Eastbourne,4,Provides 20 to 34 hours unpaid care a week,887
+E07000061,Eastbourne,5,Provides 35 to 49 hours unpaid care a week,1059
+E07000061,Eastbourne,6,Provides 50 or more hours unpaid care a week,3125
+E07000062,Hastings,-8,Does not apply,4821
+E07000062,Hastings,1,Provides no unpaid care,77509
+E07000062,Hastings,2,Provides 9 hours or less unpaid care a week,2835
+E07000062,Hastings,3,Provides 10 to 19 hours unpaid care a week,1050
+E07000062,Hastings,4,Provides 20 to 34 hours unpaid care a week,839
+E07000062,Hastings,5,Provides 35 to 49 hours unpaid care a week,1103
+E07000062,Hastings,6,Provides 50 or more hours unpaid care a week,2838
+E07000063,Lewes,-8,Does not apply,4541
+E07000063,Lewes,1,Provides no unpaid care,85555
+E07000063,Lewes,2,Provides 9 hours or less unpaid care a week,3986
+E07000063,Lewes,3,Provides 10 to 19 hours unpaid care a week,1334
+E07000063,Lewes,4,Provides 20 to 34 hours unpaid care a week,840
+E07000063,Lewes,5,Provides 35 to 49 hours unpaid care a week,795
+E07000063,Lewes,6,Provides 50 or more hours unpaid care a week,2855
+E07000064,Rother,-8,Does not apply,3732
+E07000064,Rother,1,Provides no unpaid care,80049
+E07000064,Rother,2,Provides 9 hours or less unpaid care a week,3451
+E07000064,Rother,3,Provides 10 to 19 hours unpaid care a week,1188
+E07000064,Rother,4,Provides 20 to 34 hours unpaid care a week,843
+E07000064,Rother,5,Provides 35 to 49 hours unpaid care a week,873
+E07000064,Rother,6,Provides 50 or more hours unpaid care a week,2974
+E07000065,Wealden,-8,Does not apply,7181
+E07000065,Wealden,1,Provides no unpaid care,138783
+E07000065,Wealden,2,Provides 9 hours or less unpaid care a week,6052
+E07000065,Wealden,3,Provides 10 to 19 hours unpaid care a week,1881
+E07000065,Wealden,4,Provides 20 to 34 hours unpaid care a week,1232
+E07000065,Wealden,5,Provides 35 to 49 hours unpaid care a week,1177
+E07000065,Wealden,6,Provides 50 or more hours unpaid care a week,3845
+E07000066,Basildon,-8,Does not apply,12196
+E07000066,Basildon,1,Provides no unpaid care,159932
+E07000066,Basildon,2,Provides 9 hours or less unpaid care a week,5285
+E07000066,Basildon,3,Provides 10 to 19 hours unpaid care a week,2052
+E07000066,Basildon,4,Provides 20 to 34 hours unpaid care a week,1446
+E07000066,Basildon,5,Provides 35 to 49 hours unpaid care a week,1694
+E07000066,Basildon,6,Provides 50 or more hours unpaid care a week,4966
+E07000067,Braintree,-8,Does not apply,8453
+E07000067,Braintree,1,Provides no unpaid care,134162
+E07000067,Braintree,2,Provides 9 hours or less unpaid care a week,4868
+E07000067,Braintree,3,Provides 10 to 19 hours unpaid care a week,1619
+E07000067,Braintree,4,Provides 20 to 34 hours unpaid care a week,1132
+E07000067,Braintree,5,Provides 35 to 49 hours unpaid care a week,1238
+E07000067,Braintree,6,Provides 50 or more hours unpaid care a week,3796
+E07000068,Brentwood,-8,Does not apply,4280
+E07000068,Brentwood,1,Provides no unpaid care,66768
+E07000068,Brentwood,2,Provides 9 hours or less unpaid care a week,2616
+E07000068,Brentwood,3,Provides 10 to 19 hours unpaid care a week,846
+E07000068,Brentwood,4,Provides 20 to 34 hours unpaid care a week,462
+E07000068,Brentwood,5,Provides 35 to 49 hours unpaid care a week,514
+E07000068,Brentwood,6,Provides 50 or more hours unpaid care a week,1561
+E07000069,Castle Point,-8,Does not apply,4313
+E07000069,Castle Point,1,Provides no unpaid care,77144
+E07000069,Castle Point,2,Provides 9 hours or less unpaid care a week,2749
+E07000069,Castle Point,3,Provides 10 to 19 hours unpaid care a week,1121
+E07000069,Castle Point,4,Provides 20 to 34 hours unpaid care a week,804
+E07000069,Castle Point,5,Provides 35 to 49 hours unpaid care a week,842
+E07000069,Castle Point,6,Provides 50 or more hours unpaid care a week,2614
+E07000070,Chelmsford,-8,Does not apply,9881
+E07000070,Chelmsford,1,Provides no unpaid care,157942
+E07000070,Chelmsford,2,Provides 9 hours or less unpaid care a week,5867
+E07000070,Chelmsford,3,Provides 10 to 19 hours unpaid care a week,1770
+E07000070,Chelmsford,4,Provides 20 to 34 hours unpaid care a week,1149
+E07000070,Chelmsford,5,Provides 35 to 49 hours unpaid care a week,1223
+E07000070,Chelmsford,6,Provides 50 or more hours unpaid care a week,3691
+E07000071,Colchester,-8,Does not apply,10833
+E07000071,Colchester,1,Provides no unpaid care,167005
+E07000071,Colchester,2,Provides 9 hours or less unpaid care a week,5765
+E07000071,Colchester,3,Provides 10 to 19 hours unpaid care a week,1912
+E07000071,Colchester,4,Provides 20 to 34 hours unpaid care a week,1302
+E07000071,Colchester,5,Provides 35 to 49 hours unpaid care a week,1558
+E07000071,Colchester,6,Provides 50 or more hours unpaid care a week,4343
+E07000072,Epping Forest,-8,Does not apply,7921
+E07000072,Epping Forest,1,Provides no unpaid care,116589
+E07000072,Epping Forest,2,Provides 9 hours or less unpaid care a week,4303
+E07000072,Epping Forest,3,Provides 10 to 19 hours unpaid care a week,1461
+E07000072,Epping Forest,4,Provides 20 to 34 hours unpaid care a week,916
+E07000072,Epping Forest,5,Provides 35 to 49 hours unpaid care a week,934
+E07000072,Epping Forest,6,Provides 50 or more hours unpaid care a week,2856
+E07000073,Harlow,-8,Does not apply,6251
+E07000073,Harlow,1,Provides no unpaid care,79832
+E07000073,Harlow,2,Provides 9 hours or less unpaid care a week,2506
+E07000073,Harlow,3,Provides 10 to 19 hours unpaid care a week,923
+E07000073,Harlow,4,Provides 20 to 34 hours unpaid care a week,734
+E07000073,Harlow,5,Provides 35 to 49 hours unpaid care a week,876
+E07000073,Harlow,6,Provides 50 or more hours unpaid care a week,2207
+E07000074,Maldon,-8,Does not apply,3042
+E07000074,Maldon,1,Provides no unpaid care,56938
+E07000074,Maldon,2,Provides 9 hours or less unpaid care a week,2439
+E07000074,Maldon,3,Provides 10 to 19 hours unpaid care a week,879
+E07000074,Maldon,4,Provides 20 to 34 hours unpaid care a week,541
+E07000074,Maldon,5,Provides 35 to 49 hours unpaid care a week,553
+E07000074,Maldon,6,Provides 50 or more hours unpaid care a week,1816
+E07000075,Rochford,-8,Does not apply,4258
+E07000075,Rochford,1,Provides no unpaid care,74189
+E07000075,Rochford,2,Provides 9 hours or less unpaid care a week,2902
+E07000075,Rochford,3,Provides 10 to 19 hours unpaid care a week,1024
+E07000075,Rochford,4,Provides 20 to 34 hours unpaid care a week,630
+E07000075,Rochford,5,Provides 35 to 49 hours unpaid care a week,575
+E07000075,Rochford,6,Provides 50 or more hours unpaid care a week,2084
+E07000076,Tendring,-8,Does not apply,6690
+E07000076,Tendring,1,Provides no unpaid care,125893
+E07000076,Tendring,2,Provides 9 hours or less unpaid care a week,4590
+E07000076,Tendring,3,Provides 10 to 19 hours unpaid care a week,1997
+E07000076,Tendring,4,Provides 20 to 34 hours unpaid care a week,1483
+E07000076,Tendring,5,Provides 35 to 49 hours unpaid care a week,1792
+E07000076,Tendring,6,Provides 50 or more hours unpaid care a week,5847
+E07000077,Uttlesford,-8,Does not apply,5026
+E07000077,Uttlesford,1,Provides no unpaid care,79545
+E07000077,Uttlesford,2,Provides 9 hours or less unpaid care a week,3216
+E07000077,Uttlesford,3,Provides 10 to 19 hours unpaid care a week,884
+E07000077,Uttlesford,4,Provides 20 to 34 hours unpaid care a week,503
+E07000077,Uttlesford,5,Provides 35 to 49 hours unpaid care a week,530
+E07000077,Uttlesford,6,Provides 50 or more hours unpaid care a week,1637
+E07000078,Cheltenham,-8,Does not apply,5857
+E07000078,Cheltenham,1,Provides no unpaid care,104564
+E07000078,Cheltenham,2,Provides 9 hours or less unpaid care a week,3729
+E07000078,Cheltenham,3,Provides 10 to 19 hours unpaid care a week,1062
+E07000078,Cheltenham,4,Provides 20 to 34 hours unpaid care a week,658
+E07000078,Cheltenham,5,Provides 35 to 49 hours unpaid care a week,790
+E07000078,Cheltenham,6,Provides 50 or more hours unpaid care a week,2172
+E07000079,Cotswold,-8,Does not apply,4015
+E07000079,Cotswold,1,Provides no unpaid care,79821
+E07000079,Cotswold,2,Provides 9 hours or less unpaid care a week,3151
+E07000079,Cotswold,3,Provides 10 to 19 hours unpaid care a week,893
+E07000079,Cotswold,4,Provides 20 to 34 hours unpaid care a week,584
+E07000079,Cotswold,5,Provides 35 to 49 hours unpaid care a week,500
+E07000079,Cotswold,6,Provides 50 or more hours unpaid care a week,1868
+E07000080,Forest of Dean,-8,Does not apply,3977
+E07000080,Forest of Dean,1,Provides no unpaid care,74977
+E07000080,Forest of Dean,2,Provides 9 hours or less unpaid care a week,3086
+E07000080,Forest of Dean,3,Provides 10 to 19 hours unpaid care a week,1113
+E07000080,Forest of Dean,4,Provides 20 to 34 hours unpaid care a week,714
+E07000080,Forest of Dean,5,Provides 35 to 49 hours unpaid care a week,722
+E07000080,Forest of Dean,6,Provides 50 or more hours unpaid care a week,2415
+E07000081,Gloucester,-8,Does not apply,7459
+E07000081,Gloucester,1,Provides no unpaid care,114415
+E07000081,Gloucester,2,Provides 9 hours or less unpaid care a week,3869
+E07000081,Gloucester,3,Provides 10 to 19 hours unpaid care a week,1422
+E07000081,Gloucester,4,Provides 20 to 34 hours unpaid care a week,1052
+E07000081,Gloucester,5,Provides 35 to 49 hours unpaid care a week,1196
+E07000081,Gloucester,6,Provides 50 or more hours unpaid care a week,3003
+E07000082,Stroud,-8,Does not apply,5643
+E07000082,Stroud,1,Provides no unpaid care,105206
+E07000082,Stroud,2,Provides 9 hours or less unpaid care a week,4683
+E07000082,Stroud,3,Provides 10 to 19 hours unpaid care a week,1417
+E07000082,Stroud,4,Provides 20 to 34 hours unpaid care a week,832
+E07000082,Stroud,5,Provides 35 to 49 hours unpaid care a week,837
+E07000082,Stroud,6,Provides 50 or more hours unpaid care a week,2486
+E07000083,Tewkesbury,-8,Does not apply,5314
+E07000083,Tewkesbury,1,Provides no unpaid care,81965
+E07000083,Tewkesbury,2,Provides 9 hours or less unpaid care a week,3253
+E07000083,Tewkesbury,3,Provides 10 to 19 hours unpaid care a week,998
+E07000083,Tewkesbury,4,Provides 20 to 34 hours unpaid care a week,627
+E07000083,Tewkesbury,5,Provides 35 to 49 hours unpaid care a week,613
+E07000083,Tewkesbury,6,Provides 50 or more hours unpaid care a week,2114
+E07000084,Basingstoke and Deane,-8,Does not apply,10555
+E07000084,Basingstoke and Deane,1,Provides no unpaid care,161054
+E07000084,Basingstoke and Deane,2,Provides 9 hours or less unpaid care a week,5618
+E07000084,Basingstoke and Deane,3,Provides 10 to 19 hours unpaid care a week,1770
+E07000084,Basingstoke and Deane,4,Provides 20 to 34 hours unpaid care a week,1164
+E07000084,Basingstoke and Deane,5,Provides 35 to 49 hours unpaid care a week,1254
+E07000084,Basingstoke and Deane,6,Provides 50 or more hours unpaid care a week,3740
+E07000085,East Hampshire,-8,Does not apply,6007
+E07000085,East Hampshire,1,Provides no unpaid care,109797
+E07000085,East Hampshire,2,Provides 9 hours or less unpaid care a week,4486
+E07000085,East Hampshire,3,Provides 10 to 19 hours unpaid care a week,1305
+E07000085,East Hampshire,4,Provides 20 to 34 hours unpaid care a week,775
+E07000085,East Hampshire,5,Provides 35 to 49 hours unpaid care a week,836
+E07000085,East Hampshire,6,Provides 50 or more hours unpaid care a week,2535
+E07000086,Eastleigh,-8,Does not apply,7591
+E07000086,Eastleigh,1,Provides no unpaid care,118241
+E07000086,Eastleigh,2,Provides 9 hours or less unpaid care a week,4468
+E07000086,Eastleigh,3,Provides 10 to 19 hours unpaid care a week,1433
+E07000086,Eastleigh,4,Provides 20 to 34 hours unpaid care a week,903
+E07000086,Eastleigh,5,Provides 35 to 49 hours unpaid care a week,915
+E07000086,Eastleigh,6,Provides 50 or more hours unpaid care a week,2895
+E07000087,Fareham,-8,Does not apply,5158
+E07000087,Fareham,1,Provides no unpaid care,99717
+E07000087,Fareham,2,Provides 9 hours or less unpaid care a week,4191
+E07000087,Fareham,3,Provides 10 to 19 hours unpaid care a week,1336
+E07000087,Fareham,4,Provides 20 to 34 hours unpaid care a week,750
+E07000087,Fareham,5,Provides 35 to 49 hours unpaid care a week,780
+E07000087,Fareham,6,Provides 50 or more hours unpaid care a week,2581
+E07000088,Gosport,-8,Does not apply,4241
+E07000088,Gosport,1,Provides no unpaid care,70462
+E07000088,Gosport,2,Provides 9 hours or less unpaid care a week,2524
+E07000088,Gosport,3,Provides 10 to 19 hours unpaid care a week,997
+E07000088,Gosport,4,Provides 20 to 34 hours unpaid care a week,696
+E07000088,Gosport,5,Provides 35 to 49 hours unpaid care a week,736
+E07000088,Gosport,6,Provides 50 or more hours unpaid care a week,2296
+E07000089,Hart,-8,Does not apply,5159
+E07000089,Hart,1,Provides no unpaid care,87324
+E07000089,Hart,2,Provides 9 hours or less unpaid care a week,3233
+E07000089,Hart,3,Provides 10 to 19 hours unpaid care a week,877
+E07000089,Hart,4,Provides 20 to 34 hours unpaid care a week,528
+E07000089,Hart,5,Provides 35 to 49 hours unpaid care a week,536
+E07000089,Hart,6,Provides 50 or more hours unpaid care a week,1751
+E07000090,Havant,-8,Does not apply,6126
+E07000090,Havant,1,Provides no unpaid care,106809
+E07000090,Havant,2,Provides 9 hours or less unpaid care a week,3932
+E07000090,Havant,3,Provides 10 to 19 hours unpaid care a week,1434
+E07000090,Havant,4,Provides 20 to 34 hours unpaid care a week,979
+E07000090,Havant,5,Provides 35 to 49 hours unpaid care a week,1155
+E07000090,Havant,6,Provides 50 or more hours unpaid care a week,3773
+E07000091,New Forest,-8,Does not apply,7235
+E07000091,New Forest,1,Provides no unpaid care,152397
+E07000091,New Forest,2,Provides 9 hours or less unpaid care a week,6731
+E07000091,New Forest,3,Provides 10 to 19 hours unpaid care a week,2129
+E07000091,New Forest,4,Provides 20 to 34 hours unpaid care a week,1297
+E07000091,New Forest,5,Provides 35 to 49 hours unpaid care a week,1274
+E07000091,New Forest,6,Provides 50 or more hours unpaid care a week,4722
+E07000092,Rushmoor,-8,Does not apply,6196
+E07000092,Rushmoor,1,Provides no unpaid care,86783
+E07000092,Rushmoor,2,Provides 9 hours or less unpaid care a week,2582
+E07000092,Rushmoor,3,Provides 10 to 19 hours unpaid care a week,853
+E07000092,Rushmoor,4,Provides 20 to 34 hours unpaid care a week,653
+E07000092,Rushmoor,5,Provides 35 to 49 hours unpaid care a week,739
+E07000092,Rushmoor,6,Provides 50 or more hours unpaid care a week,1950
+E07000093,Test Valley,-8,Does not apply,6940
+E07000093,Test Valley,1,Provides no unpaid care,113332
+E07000093,Test Valley,2,Provides 9 hours or less unpaid care a week,4564
+E07000093,Test Valley,3,Provides 10 to 19 hours unpaid care a week,1276
+E07000093,Test Valley,4,Provides 20 to 34 hours unpaid care a week,812
+E07000093,Test Valley,5,Provides 35 to 49 hours unpaid care a week,883
+E07000093,Test Valley,6,Provides 50 or more hours unpaid care a week,2685
+E07000094,Winchester,-8,Does not apply,6043
+E07000094,Winchester,1,Provides no unpaid care,111991
+E07000094,Winchester,2,Provides 9 hours or less unpaid care a week,4469
+E07000094,Winchester,3,Provides 10 to 19 hours unpaid care a week,1256
+E07000094,Winchester,4,Provides 20 to 34 hours unpaid care a week,666
+E07000094,Winchester,5,Provides 35 to 49 hours unpaid care a week,663
+E07000094,Winchester,6,Provides 50 or more hours unpaid care a week,2356
+E07000095,Broxbourne,-8,Does not apply,5945
+E07000095,Broxbourne,1,Provides no unpaid care,85307
+E07000095,Broxbourne,2,Provides 9 hours or less unpaid care a week,2784
+E07000095,Broxbourne,3,Provides 10 to 19 hours unpaid care a week,1068
+E07000095,Broxbourne,4,Provides 20 to 34 hours unpaid care a week,783
+E07000095,Broxbourne,5,Provides 35 to 49 hours unpaid care a week,891
+E07000095,Broxbourne,6,Provides 50 or more hours unpaid care a week,2229
+E07000096,Dacorum,-8,Does not apply,9581
+E07000096,Dacorum,1,Provides no unpaid care,133254
+E07000096,Dacorum,2,Provides 9 hours or less unpaid care a week,5113
+E07000096,Dacorum,3,Provides 10 to 19 hours unpaid care a week,1655
+E07000096,Dacorum,4,Provides 20 to 34 hours unpaid care a week,1073
+E07000096,Dacorum,5,Provides 35 to 49 hours unpaid care a week,1138
+E07000096,Dacorum,6,Provides 50 or more hours unpaid care a week,3267
+E07000098,Hertsmere,-8,Does not apply,6297
+E07000098,Hertsmere,1,Provides no unpaid care,92970
+E07000098,Hertsmere,2,Provides 9 hours or less unpaid care a week,3526
+E07000098,Hertsmere,3,Provides 10 to 19 hours unpaid care a week,1221
+E07000098,Hertsmere,4,Provides 20 to 34 hours unpaid care a week,843
+E07000098,Hertsmere,5,Provides 35 to 49 hours unpaid care a week,825
+E07000098,Hertsmere,6,Provides 50 or more hours unpaid care a week,2145
+E07000099,North Hertfordshire,-8,Does not apply,7469
+E07000099,North Hertfordshire,1,Provides no unpaid care,114884
+E07000099,North Hertfordshire,2,Provides 9 hours or less unpaid care a week,4634
+E07000099,North Hertfordshire,3,Provides 10 to 19 hours unpaid care a week,1527
+E07000099,North Hertfordshire,4,Provides 20 to 34 hours unpaid care a week,858
+E07000099,North Hertfordshire,5,Provides 35 to 49 hours unpaid care a week,1006
+E07000099,North Hertfordshire,6,Provides 50 or more hours unpaid care a week,2832
+E07000102,Three Rivers,-8,Does not apply,5120
+E07000102,Three Rivers,1,Provides no unpaid care,81027
+E07000102,Three Rivers,2,Provides 9 hours or less unpaid care a week,3418
+E07000102,Three Rivers,3,Provides 10 to 19 hours unpaid care a week,1084
+E07000102,Three Rivers,4,Provides 20 to 34 hours unpaid care a week,685
+E07000102,Three Rivers,5,Provides 35 to 49 hours unpaid care a week,654
+E07000102,Three Rivers,6,Provides 50 or more hours unpaid care a week,1782
+E07000103,Watford,-8,Does not apply,6528
+E07000103,Watford,1,Provides no unpaid care,88545
+E07000103,Watford,2,Provides 9 hours or less unpaid care a week,2741
+E07000103,Watford,3,Provides 10 to 19 hours unpaid care a week,993
+E07000103,Watford,4,Provides 20 to 34 hours unpaid care a week,767
+E07000103,Watford,5,Provides 35 to 49 hours unpaid care a week,836
+E07000103,Watford,6,Provides 50 or more hours unpaid care a week,1836
+E07000105,Ashford,-8,Does not apply,7608
+E07000105,Ashford,1,Provides no unpaid care,113987
+E07000105,Ashford,2,Provides 9 hours or less unpaid care a week,3963
+E07000105,Ashford,3,Provides 10 to 19 hours unpaid care a week,1487
+E07000105,Ashford,4,Provides 20 to 34 hours unpaid care a week,1016
+E07000105,Ashford,5,Provides 35 to 49 hours unpaid care a week,1183
+E07000105,Ashford,6,Provides 50 or more hours unpaid care a week,3501
+E07000106,Canterbury,-8,Does not apply,6823
+E07000106,Canterbury,1,Provides no unpaid care,137222
+E07000106,Canterbury,2,Provides 9 hours or less unpaid care a week,5003
+E07000106,Canterbury,3,Provides 10 to 19 hours unpaid care a week,1740
+E07000106,Canterbury,4,Provides 20 to 34 hours unpaid care a week,1191
+E07000106,Canterbury,5,Provides 35 to 49 hours unpaid care a week,1287
+E07000106,Canterbury,6,Provides 50 or more hours unpaid care a week,4163
+E07000107,Dartford,-8,Does not apply,8282
+E07000107,Dartford,1,Provides no unpaid care,99808
+E07000107,Dartford,2,Provides 9 hours or less unpaid care a week,3107
+E07000107,Dartford,3,Provides 10 to 19 hours unpaid care a week,1155
+E07000107,Dartford,4,Provides 20 to 34 hours unpaid care a week,787
+E07000107,Dartford,5,Provides 35 to 49 hours unpaid care a week,913
+E07000107,Dartford,6,Provides 50 or more hours unpaid care a week,2701
+E07000108,Dover,-8,Does not apply,5669
+E07000108,Dover,1,Provides no unpaid care,99238
+E07000108,Dover,2,Provides 9 hours or less unpaid care a week,3791
+E07000108,Dover,3,Provides 10 to 19 hours unpaid care a week,1574
+E07000108,Dover,4,Provides 20 to 34 hours unpaid care a week,1093
+E07000108,Dover,5,Provides 35 to 49 hours unpaid care a week,1251
+E07000108,Dover,6,Provides 50 or more hours unpaid care a week,3794
+E07000109,Gravesham,-8,Does not apply,6600
+E07000109,Gravesham,1,Provides no unpaid care,91313
+E07000109,Gravesham,2,Provides 9 hours or less unpaid care a week,2933
+E07000109,Gravesham,3,Provides 10 to 19 hours unpaid care a week,1208
+E07000109,Gravesham,4,Provides 20 to 34 hours unpaid care a week,898
+E07000109,Gravesham,5,Provides 35 to 49 hours unpaid care a week,978
+E07000109,Gravesham,6,Provides 50 or more hours unpaid care a week,2969
+E07000110,Maidstone,-8,Does not apply,10390
+E07000110,Maidstone,1,Provides no unpaid care,151210
+E07000110,Maidstone,2,Provides 9 hours or less unpaid care a week,5484
+E07000110,Maidstone,3,Provides 10 to 19 hours unpaid care a week,1886
+E07000110,Maidstone,4,Provides 20 to 34 hours unpaid care a week,1200
+E07000110,Maidstone,5,Provides 35 to 49 hours unpaid care a week,1367
+E07000110,Maidstone,6,Provides 50 or more hours unpaid care a week,4245
+E07000111,Sevenoaks,-8,Does not apply,6724
+E07000111,Sevenoaks,1,Provides no unpaid care,103809
+E07000111,Sevenoaks,2,Provides 9 hours or less unpaid care a week,4234
+E07000111,Sevenoaks,3,Provides 10 to 19 hours unpaid care a week,1304
+E07000111,Sevenoaks,4,Provides 20 to 34 hours unpaid care a week,776
+E07000111,Sevenoaks,5,Provides 35 to 49 hours unpaid care a week,872
+E07000111,Sevenoaks,6,Provides 50 or more hours unpaid care a week,2797
+E07000112,Folkestone and Hythe,-8,Does not apply,5112
+E07000112,Folkestone and Hythe,1,Provides no unpaid care,93823
+E07000112,Folkestone and Hythe,2,Provides 9 hours or less unpaid care a week,3537
+E07000112,Folkestone and Hythe,3,Provides 10 to 19 hours unpaid care a week,1446
+E07000112,Folkestone and Hythe,4,Provides 20 to 34 hours unpaid care a week,1033
+E07000112,Folkestone and Hythe,5,Provides 35 to 49 hours unpaid care a week,1135
+E07000112,Folkestone and Hythe,6,Provides 50 or more hours unpaid care a week,3671
+E07000113,Swale,-8,Does not apply,8896
+E07000113,Swale,1,Provides no unpaid care,128852
+E07000113,Swale,2,Provides 9 hours or less unpaid care a week,4339
+E07000113,Swale,3,Provides 10 to 19 hours unpaid care a week,1722
+E07000113,Swale,4,Provides 20 to 34 hours unpaid care a week,1308
+E07000113,Swale,5,Provides 35 to 49 hours unpaid care a week,1576
+E07000113,Swale,6,Provides 50 or more hours unpaid care a week,4984
+E07000114,Thanet,-8,Does not apply,7334
+E07000114,Thanet,1,Provides no unpaid care,119406
+E07000114,Thanet,2,Provides 9 hours or less unpaid care a week,4100
+E07000114,Thanet,3,Provides 10 to 19 hours unpaid care a week,1772
+E07000114,Thanet,4,Provides 20 to 34 hours unpaid care a week,1295
+E07000114,Thanet,5,Provides 35 to 49 hours unpaid care a week,1604
+E07000114,Thanet,6,Provides 50 or more hours unpaid care a week,5076
+E07000115,Tonbridge and Malling,-8,Does not apply,7681
+E07000115,Tonbridge and Malling,1,Provides no unpaid care,113690
+E07000115,Tonbridge and Malling,2,Provides 9 hours or less unpaid care a week,4341
+E07000115,Tonbridge and Malling,3,Provides 10 to 19 hours unpaid care a week,1384
+E07000115,Tonbridge and Malling,4,Provides 20 to 34 hours unpaid care a week,963
+E07000115,Tonbridge and Malling,5,Provides 35 to 49 hours unpaid care a week,984
+E07000115,Tonbridge and Malling,6,Provides 50 or more hours unpaid care a week,3158
+E07000116,Tunbridge Wells,-8,Does not apply,6167
+E07000116,Tunbridge Wells,1,Provides no unpaid care,100529
+E07000116,Tunbridge Wells,2,Provides 9 hours or less unpaid care a week,3825
+E07000116,Tunbridge Wells,3,Provides 10 to 19 hours unpaid care a week,1127
+E07000116,Tunbridge Wells,4,Provides 20 to 34 hours unpaid care a week,676
+E07000116,Tunbridge Wells,5,Provides 35 to 49 hours unpaid care a week,734
+E07000116,Tunbridge Wells,6,Provides 50 or more hours unpaid care a week,2253
+E07000117,Burnley,-8,Does not apply,5760
+E07000117,Burnley,1,Provides no unpaid care,80446
+E07000117,Burnley,2,Provides 9 hours or less unpaid care a week,2463
+E07000117,Burnley,3,Provides 10 to 19 hours unpaid care a week,1141
+E07000117,Burnley,4,Provides 20 to 34 hours unpaid care a week,957
+E07000117,Burnley,5,Provides 35 to 49 hours unpaid care a week,1100
+E07000117,Burnley,6,Provides 50 or more hours unpaid care a week,2779
+E07000118,Chorley,-8,Does not apply,6062
+E07000118,Chorley,1,Provides no unpaid care,101129
+E07000118,Chorley,2,Provides 9 hours or less unpaid care a week,4050
+E07000118,Chorley,3,Provides 10 to 19 hours unpaid care a week,1489
+E07000118,Chorley,4,Provides 20 to 34 hours unpaid care a week,941
+E07000118,Chorley,5,Provides 35 to 49 hours unpaid care a week,1055
+E07000118,Chorley,6,Provides 50 or more hours unpaid care a week,3006
+E07000119,Fylde,-8,Does not apply,3313
+E07000119,Fylde,1,Provides no unpaid care,70107
+E07000119,Fylde,2,Provides 9 hours or less unpaid care a week,3021
+E07000119,Fylde,3,Provides 10 to 19 hours unpaid care a week,1069
+E07000119,Fylde,4,Provides 20 to 34 hours unpaid care a week,741
+E07000119,Fylde,5,Provides 35 to 49 hours unpaid care a week,744
+E07000119,Fylde,6,Provides 50 or more hours unpaid care a week,2379
+E07000120,Hyndburn,-8,Does not apply,4926
+E07000120,Hyndburn,1,Provides no unpaid care,69637
+E07000120,Hyndburn,2,Provides 9 hours or less unpaid care a week,2273
+E07000120,Hyndburn,3,Provides 10 to 19 hours unpaid care a week,1076
+E07000120,Hyndburn,4,Provides 20 to 34 hours unpaid care a week,790
+E07000120,Hyndburn,5,Provides 35 to 49 hours unpaid care a week,991
+E07000120,Hyndburn,6,Provides 50 or more hours unpaid care a week,2541
+E07000121,Lancaster,-8,Does not apply,6741
+E07000121,Lancaster,1,Provides no unpaid care,123638
+E07000121,Lancaster,2,Provides 9 hours or less unpaid care a week,4591
+E07000121,Lancaster,3,Provides 10 to 19 hours unpaid care a week,1712
+E07000121,Lancaster,4,Provides 20 to 34 hours unpaid care a week,1144
+E07000121,Lancaster,5,Provides 35 to 49 hours unpaid care a week,1326
+E07000121,Lancaster,6,Provides 50 or more hours unpaid care a week,3782
+E07000122,Pendle,-8,Does not apply,5952
+E07000122,Pendle,1,Provides no unpaid care,81653
+E07000122,Pendle,2,Provides 9 hours or less unpaid care a week,2559
+E07000122,Pendle,3,Provides 10 to 19 hours unpaid care a week,1088
+E07000122,Pendle,4,Provides 20 to 34 hours unpaid care a week,861
+E07000122,Pendle,5,Provides 35 to 49 hours unpaid care a week,1098
+E07000122,Pendle,6,Provides 50 or more hours unpaid care a week,2546
+E07000123,Preston,-8,Does not apply,8921
+E07000123,Preston,1,Provides no unpaid care,126770
+E07000123,Preston,2,Provides 9 hours or less unpaid care a week,3892
+E07000123,Preston,3,Provides 10 to 19 hours unpaid care a week,1768
+E07000123,Preston,4,Provides 20 to 34 hours unpaid care a week,1307
+E07000123,Preston,5,Provides 35 to 49 hours unpaid care a week,1527
+E07000123,Preston,6,Provides 50 or more hours unpaid care a week,3650
+E07000124,Ribble Valley,-8,Does not apply,2633
+E07000124,Ribble Valley,1,Provides no unpaid care,53583
+E07000124,Ribble Valley,2,Provides 9 hours or less unpaid care a week,2376
+E07000124,Ribble Valley,3,Provides 10 to 19 hours unpaid care a week,783
+E07000124,Ribble Valley,4,Provides 20 to 34 hours unpaid care a week,473
+E07000124,Ribble Valley,5,Provides 35 to 49 hours unpaid care a week,412
+E07000124,Ribble Valley,6,Provides 50 or more hours unpaid care a week,1301
+E07000125,Rossendale,-8,Does not apply,3780
+E07000125,Rossendale,1,Provides no unpaid care,60778
+E07000125,Rossendale,2,Provides 9 hours or less unpaid care a week,2136
+E07000125,Rossendale,3,Provides 10 to 19 hours unpaid care a week,864
+E07000125,Rossendale,4,Provides 20 to 34 hours unpaid care a week,614
+E07000125,Rossendale,5,Provides 35 to 49 hours unpaid care a week,730
+E07000125,Rossendale,6,Provides 50 or more hours unpaid care a week,1969
+E07000126,South Ribble,-8,Does not apply,5501
+E07000126,South Ribble,1,Provides no unpaid care,95178
+E07000126,South Ribble,2,Provides 9 hours or less unpaid care a week,4075
+E07000126,South Ribble,3,Provides 10 to 19 hours unpaid care a week,1419
+E07000126,South Ribble,4,Provides 20 to 34 hours unpaid care a week,917
+E07000126,South Ribble,5,Provides 35 to 49 hours unpaid care a week,1031
+E07000126,South Ribble,6,Provides 50 or more hours unpaid care a week,2914
+E07000127,West Lancashire,-8,Does not apply,5246
+E07000127,West Lancashire,1,Provides no unpaid care,100874
+E07000127,West Lancashire,2,Provides 9 hours or less unpaid care a week,3931
+E07000127,West Lancashire,3,Provides 10 to 19 hours unpaid care a week,1602
+E07000127,West Lancashire,4,Provides 20 to 34 hours unpaid care a week,1107
+E07000127,West Lancashire,5,Provides 35 to 49 hours unpaid care a week,1108
+E07000127,West Lancashire,6,Provides 50 or more hours unpaid care a week,3561
+E07000128,Wyre,-8,Does not apply,4890
+E07000128,Wyre,1,Provides no unpaid care,95099
+E07000128,Wyre,2,Provides 9 hours or less unpaid care a week,4008
+E07000128,Wyre,3,Provides 10 to 19 hours unpaid care a week,1601
+E07000128,Wyre,4,Provides 20 to 34 hours unpaid care a week,1083
+E07000128,Wyre,5,Provides 35 to 49 hours unpaid care a week,1258
+E07000128,Wyre,6,Provides 50 or more hours unpaid care a week,4007
+E07000129,Blaby,-8,Does not apply,5708
+E07000129,Blaby,1,Provides no unpaid care,88167
+E07000129,Blaby,2,Provides 9 hours or less unpaid care a week,3597
+E07000129,Blaby,3,Provides 10 to 19 hours unpaid care a week,1243
+E07000129,Blaby,4,Provides 20 to 34 hours unpaid care a week,851
+E07000129,Blaby,5,Provides 35 to 49 hours unpaid care a week,851
+E07000129,Blaby,6,Provides 50 or more hours unpaid care a week,2509
+E07000130,Charnwood,-8,Does not apply,9173
+E07000130,Charnwood,1,Provides no unpaid care,159858
+E07000130,Charnwood,2,Provides 9 hours or less unpaid care a week,6032
+E07000130,Charnwood,3,Provides 10 to 19 hours unpaid care a week,2061
+E07000130,Charnwood,4,Provides 20 to 34 hours unpaid care a week,1365
+E07000130,Charnwood,5,Provides 35 to 49 hours unpaid care a week,1317
+E07000130,Charnwood,6,Provides 50 or more hours unpaid care a week,4165
+E07000131,Harborough,-8,Does not apply,4719
+E07000131,Harborough,1,Provides no unpaid care,84831
+E07000131,Harborough,2,Provides 9 hours or less unpaid care a week,3605
+E07000131,Harborough,3,Provides 10 to 19 hours unpaid care a week,1168
+E07000131,Harborough,4,Provides 20 to 34 hours unpaid care a week,711
+E07000131,Harborough,5,Provides 35 to 49 hours unpaid care a week,615
+E07000131,Harborough,6,Provides 50 or more hours unpaid care a week,1976
+E07000132,Hinckley and Bosworth,-8,Does not apply,5686
+E07000132,Hinckley and Bosworth,1,Provides no unpaid care,97712
+E07000132,Hinckley and Bosworth,2,Provides 9 hours or less unpaid care a week,4097
+E07000132,Hinckley and Bosworth,3,Provides 10 to 19 hours unpaid care a week,1417
+E07000132,Hinckley and Bosworth,4,Provides 20 to 34 hours unpaid care a week,820
+E07000132,Hinckley and Bosworth,5,Provides 35 to 49 hours unpaid care a week,940
+E07000132,Hinckley and Bosworth,6,Provides 50 or more hours unpaid care a week,2968
+E07000133,Melton,-8,Does not apply,2418
+E07000133,Melton,1,Provides no unpaid care,44829
+E07000133,Melton,2,Provides 9 hours or less unpaid care a week,1876
+E07000133,Melton,3,Provides 10 to 19 hours unpaid care a week,614
+E07000133,Melton,4,Provides 20 to 34 hours unpaid care a week,348
+E07000133,Melton,5,Provides 35 to 49 hours unpaid care a week,409
+E07000133,Melton,6,Provides 50 or more hours unpaid care a week,1258
+E07000134,North West Leicestershire,-8,Does not apply,5454
+E07000134,North West Leicestershire,1,Provides no unpaid care,90048
+E07000134,North West Leicestershire,2,Provides 9 hours or less unpaid care a week,3487
+E07000134,North West Leicestershire,3,Provides 10 to 19 hours unpaid care a week,1245
+E07000134,North West Leicestershire,4,Provides 20 to 34 hours unpaid care a week,779
+E07000134,North West Leicestershire,5,Provides 35 to 49 hours unpaid care a week,939
+E07000134,North West Leicestershire,6,Provides 50 or more hours unpaid care a week,2753
+E07000135,Oadby and Wigston,-8,Does not apply,2863
+E07000135,Oadby and Wigston,1,Provides no unpaid care,49594
+E07000135,Oadby and Wigston,2,Provides 9 hours or less unpaid care a week,1933
+E07000135,Oadby and Wigston,3,Provides 10 to 19 hours unpaid care a week,780
+E07000135,Oadby and Wigston,4,Provides 20 to 34 hours unpaid care a week,520
+E07000135,Oadby and Wigston,5,Provides 35 to 49 hours unpaid care a week,570
+E07000135,Oadby and Wigston,6,Provides 50 or more hours unpaid care a week,1487
+E07000136,Boston,-8,Does not apply,3646
+E07000136,Boston,1,Provides no unpaid care,61028
+E07000136,Boston,2,Provides 9 hours or less unpaid care a week,1747
+E07000136,Boston,3,Provides 10 to 19 hours unpaid care a week,758
+E07000136,Boston,4,Provides 20 to 34 hours unpaid care a week,578
+E07000136,Boston,5,Provides 35 to 49 hours unpaid care a week,702
+E07000136,Boston,6,Provides 50 or more hours unpaid care a week,2042
+E07000137,East Lindsey,-8,Does not apply,5635
+E07000137,East Lindsey,1,Provides no unpaid care,120431
+E07000137,East Lindsey,2,Provides 9 hours or less unpaid care a week,4363
+E07000137,East Lindsey,3,Provides 10 to 19 hours unpaid care a week,1981
+E07000137,East Lindsey,4,Provides 20 to 34 hours unpaid care a week,1628
+E07000137,East Lindsey,5,Provides 35 to 49 hours unpaid care a week,1872
+E07000137,East Lindsey,6,Provides 50 or more hours unpaid care a week,6386
+E07000138,Lincoln,-8,Does not apply,5119
+E07000138,Lincoln,1,Provides no unpaid care,90852
+E07000138,Lincoln,2,Provides 9 hours or less unpaid care a week,2495
+E07000138,Lincoln,3,Provides 10 to 19 hours unpaid care a week,1018
+E07000138,Lincoln,4,Provides 20 to 34 hours unpaid care a week,741
+E07000138,Lincoln,5,Provides 35 to 49 hours unpaid care a week,934
+E07000138,Lincoln,6,Provides 50 or more hours unpaid care a week,2654
+E07000139,North Kesteven,-8,Does not apply,5531
+E07000139,North Kesteven,1,Provides no unpaid care,101916
+E07000139,North Kesteven,2,Provides 9 hours or less unpaid care a week,3792
+E07000139,North Kesteven,3,Provides 10 to 19 hours unpaid care a week,1379
+E07000139,North Kesteven,4,Provides 20 to 34 hours unpaid care a week,991
+E07000139,North Kesteven,5,Provides 35 to 49 hours unpaid care a week,982
+E07000139,North Kesteven,6,Provides 50 or more hours unpaid care a week,3484
+E07000140,South Holland,-8,Does not apply,4733
+E07000140,South Holland,1,Provides no unpaid care,81863
+E07000140,South Holland,2,Provides 9 hours or less unpaid care a week,2724
+E07000140,South Holland,3,Provides 10 to 19 hours unpaid care a week,1125
+E07000140,South Holland,4,Provides 20 to 34 hours unpaid care a week,779
+E07000140,South Holland,5,Provides 35 to 49 hours unpaid care a week,913
+E07000140,South Holland,6,Provides 50 or more hours unpaid care a week,2985
+E07000141,South Kesteven,-8,Does not apply,6752
+E07000141,South Kesteven,1,Provides no unpaid care,124404
+E07000141,South Kesteven,2,Provides 9 hours or less unpaid care a week,4682
+E07000141,South Kesteven,3,Provides 10 to 19 hours unpaid care a week,1592
+E07000141,South Kesteven,4,Provides 20 to 34 hours unpaid care a week,1070
+E07000141,South Kesteven,5,Provides 35 to 49 hours unpaid care a week,1169
+E07000141,South Kesteven,6,Provides 50 or more hours unpaid care a week,3736
+E07000142,West Lindsey,-8,Does not apply,4403
+E07000142,West Lindsey,1,Provides no unpaid care,81664
+E07000142,West Lindsey,2,Provides 9 hours or less unpaid care a week,3182
+E07000142,West Lindsey,3,Provides 10 to 19 hours unpaid care a week,1246
+E07000142,West Lindsey,4,Provides 20 to 34 hours unpaid care a week,837
+E07000142,West Lindsey,5,Provides 35 to 49 hours unpaid care a week,901
+E07000142,West Lindsey,6,Provides 50 or more hours unpaid care a week,2920
+E07000143,Breckland,-8,Does not apply,6785
+E07000143,Breckland,1,Provides no unpaid care,122244
+E07000143,Breckland,2,Provides 9 hours or less unpaid care a week,4282
+E07000143,Breckland,3,Provides 10 to 19 hours unpaid care a week,1571
+E07000143,Breckland,4,Provides 20 to 34 hours unpaid care a week,1180
+E07000143,Breckland,5,Provides 35 to 49 hours unpaid care a week,1333
+E07000143,Breckland,6,Provides 50 or more hours unpaid care a week,4081
+E07000144,Broadland,-8,Does not apply,5936
+E07000144,Broadland,1,Provides no unpaid care,114033
+E07000144,Broadland,2,Provides 9 hours or less unpaid care a week,4876
+E07000144,Broadland,3,Provides 10 to 19 hours unpaid care a week,1630
+E07000144,Broadland,4,Provides 20 to 34 hours unpaid care a week,990
+E07000144,Broadland,5,Provides 35 to 49 hours unpaid care a week,985
+E07000144,Broadland,6,Provides 50 or more hours unpaid care a week,3271
+E07000145,Great Yarmouth,-8,Does not apply,4953
+E07000145,Great Yarmouth,1,Provides no unpaid care,84908
+E07000145,Great Yarmouth,2,Provides 9 hours or less unpaid care a week,2647
+E07000145,Great Yarmouth,3,Provides 10 to 19 hours unpaid care a week,1270
+E07000145,Great Yarmouth,4,Provides 20 to 34 hours unpaid care a week,959
+E07000145,Great Yarmouth,5,Provides 35 to 49 hours unpaid care a week,1387
+E07000145,Great Yarmouth,6,Provides 50 or more hours unpaid care a week,3626
+E07000146,King's Lynn and West Norfolk,-8,Does not apply,7259
+E07000146,King's Lynn and West Norfolk,1,Provides no unpaid care,132732
+E07000146,King's Lynn and West Norfolk,2,Provides 9 hours or less unpaid care a week,4710
+E07000146,King's Lynn and West Norfolk,3,Provides 10 to 19 hours unpaid care a week,1891
+E07000146,King's Lynn and West Norfolk,4,Provides 20 to 34 hours unpaid care a week,1351
+E07000146,King's Lynn and West Norfolk,5,Provides 35 to 49 hours unpaid care a week,1443
+E07000146,King's Lynn and West Norfolk,6,Provides 50 or more hours unpaid care a week,4939
+E07000147,North Norfolk,-8,Does not apply,3664
+E07000147,North Norfolk,1,Provides no unpaid care,89097
+E07000147,North Norfolk,2,Provides 9 hours or less unpaid care a week,3721
+E07000147,North Norfolk,3,Provides 10 to 19 hours unpaid care a week,1322
+E07000147,North Norfolk,4,Provides 20 to 34 hours unpaid care a week,950
+E07000147,North Norfolk,5,Provides 35 to 49 hours unpaid care a week,925
+E07000147,North Norfolk,6,Provides 50 or more hours unpaid care a week,3301
+E07000148,Norwich,-8,Does not apply,6931
+E07000148,Norwich,1,Provides no unpaid care,126355
+E07000148,Norwich,2,Provides 9 hours or less unpaid care a week,3973
+E07000148,Norwich,3,Provides 10 to 19 hours unpaid care a week,1355
+E07000148,Norwich,4,Provides 20 to 34 hours unpaid care a week,1016
+E07000148,Norwich,5,Provides 35 to 49 hours unpaid care a week,1196
+E07000148,Norwich,6,Provides 50 or more hours unpaid care a week,3094
+E07000149,South Norfolk,-8,Does not apply,6990
+E07000149,South Norfolk,1,Provides no unpaid care,122698
+E07000149,South Norfolk,2,Provides 9 hours or less unpaid care a week,5116
+E07000149,South Norfolk,3,Provides 10 to 19 hours unpaid care a week,1698
+E07000149,South Norfolk,4,Provides 20 to 34 hours unpaid care a week,1018
+E07000149,South Norfolk,5,Provides 35 to 49 hours unpaid care a week,1029
+E07000149,South Norfolk,6,Provides 50 or more hours unpaid care a week,3399
+E07000163,Craven,-8,Does not apply,2349
+E07000163,Craven,1,Provides no unpaid care,49480
+E07000163,Craven,2,Provides 9 hours or less unpaid care a week,2253
+E07000163,Craven,3,Provides 10 to 19 hours unpaid care a week,718
+E07000163,Craven,4,Provides 20 to 34 hours unpaid care a week,441
+E07000163,Craven,5,Provides 35 to 49 hours unpaid care a week,434
+E07000163,Craven,6,Provides 50 or more hours unpaid care a week,1252
+E07000164,Hambleton,-8,Does not apply,3818
+E07000164,Hambleton,1,Provides no unpaid care,78526
+E07000164,Hambleton,2,Provides 9 hours or less unpaid care a week,3567
+E07000164,Hambleton,3,Provides 10 to 19 hours unpaid care a week,1166
+E07000164,Hambleton,4,Provides 20 to 34 hours unpaid care a week,667
+E07000164,Hambleton,5,Provides 35 to 49 hours unpaid care a week,643
+E07000164,Hambleton,6,Provides 50 or more hours unpaid care a week,2303
+E07000165,Harrogate,-8,Does not apply,7287
+E07000165,Harrogate,1,Provides no unpaid care,142317
+E07000165,Harrogate,2,Provides 9 hours or less unpaid care a week,5865
+E07000165,Harrogate,3,Provides 10 to 19 hours unpaid care a week,1777
+E07000165,Harrogate,4,Provides 20 to 34 hours unpaid care a week,1054
+E07000165,Harrogate,5,Provides 35 to 49 hours unpaid care a week,981
+E07000165,Harrogate,6,Provides 50 or more hours unpaid care a week,3386
+E07000166,Richmondshire,-8,Does not apply,2325
+E07000166,Richmondshire,1,Provides no unpaid care,43330
+E07000166,Richmondshire,2,Provides 9 hours or less unpaid care a week,1657
+E07000166,Richmondshire,3,Provides 10 to 19 hours unpaid care a week,560
+E07000166,Richmondshire,4,Provides 20 to 34 hours unpaid care a week,357
+E07000166,Richmondshire,5,Provides 35 to 49 hours unpaid care a week,374
+E07000166,Richmondshire,6,Provides 50 or more hours unpaid care a week,1173
+E07000167,Ryedale,-8,Does not apply,2296
+E07000167,Ryedale,1,Provides no unpaid care,47510
+E07000167,Ryedale,2,Provides 9 hours or less unpaid care a week,2071
+E07000167,Ryedale,3,Provides 10 to 19 hours unpaid care a week,686
+E07000167,Ryedale,4,Provides 20 to 34 hours unpaid care a week,404
+E07000167,Ryedale,5,Provides 35 to 49 hours unpaid care a week,404
+E07000167,Ryedale,6,Provides 50 or more hours unpaid care a week,1335
+E07000168,Scarborough,-8,Does not apply,4713
+E07000168,Scarborough,1,Provides no unpaid care,93578
+E07000168,Scarborough,2,Provides 9 hours or less unpaid care a week,3557
+E07000168,Scarborough,3,Provides 10 to 19 hours unpaid care a week,1349
+E07000168,Scarborough,4,Provides 20 to 34 hours unpaid care a week,1029
+E07000168,Scarborough,5,Provides 35 to 49 hours unpaid care a week,1098
+E07000168,Scarborough,6,Provides 50 or more hours unpaid care a week,3412
+E07000169,Selby,-8,Does not apply,4953
+E07000169,Selby,1,Provides no unpaid care,79286
+E07000169,Selby,2,Provides 9 hours or less unpaid care a week,3035
+E07000169,Selby,3,Provides 10 to 19 hours unpaid care a week,1074
+E07000169,Selby,4,Provides 20 to 34 hours unpaid care a week,679
+E07000169,Selby,5,Provides 35 to 49 hours unpaid care a week,754
+E07000169,Selby,6,Provides 50 or more hours unpaid care a week,2208
+E07000170,Ashfield,-8,Does not apply,6778
+E07000170,Ashfield,1,Provides no unpaid care,105694
+E07000170,Ashfield,2,Provides 9 hours or less unpaid care a week,4437
+E07000170,Ashfield,3,Provides 10 to 19 hours unpaid care a week,1856
+E07000170,Ashfield,4,Provides 20 to 34 hours unpaid care a week,1359
+E07000170,Ashfield,5,Provides 35 to 49 hours unpaid care a week,1604
+E07000170,Ashfield,6,Provides 50 or more hours unpaid care a week,4573
+E07000171,Bassetlaw,-8,Does not apply,5967
+E07000171,Bassetlaw,1,Provides no unpaid care,100525
+E07000171,Bassetlaw,2,Provides 9 hours or less unpaid care a week,3720
+E07000171,Bassetlaw,3,Provides 10 to 19 hours unpaid care a week,1618
+E07000171,Bassetlaw,4,Provides 20 to 34 hours unpaid care a week,1065
+E07000171,Bassetlaw,5,Provides 35 to 49 hours unpaid care a week,1277
+E07000171,Bassetlaw,6,Provides 50 or more hours unpaid care a week,3632
+E07000172,Broxtowe,-8,Does not apply,5291
+E07000172,Broxtowe,1,Provides no unpaid care,95192
+E07000172,Broxtowe,2,Provides 9 hours or less unpaid care a week,4199
+E07000172,Broxtowe,3,Provides 10 to 19 hours unpaid care a week,1450
+E07000172,Broxtowe,4,Provides 20 to 34 hours unpaid care a week,912
+E07000172,Broxtowe,5,Provides 35 to 49 hours unpaid care a week,961
+E07000172,Broxtowe,6,Provides 50 or more hours unpaid care a week,2932
+E07000173,Gedling,-8,Does not apply,5981
+E07000173,Gedling,1,Provides no unpaid care,99567
+E07000173,Gedling,2,Provides 9 hours or less unpaid care a week,4668
+E07000173,Gedling,3,Provides 10 to 19 hours unpaid care a week,1648
+E07000173,Gedling,4,Provides 20 to 34 hours unpaid care a week,1068
+E07000173,Gedling,5,Provides 35 to 49 hours unpaid care a week,1127
+E07000173,Gedling,6,Provides 50 or more hours unpaid care a week,3204
+E07000174,Mansfield,-8,Does not apply,5960
+E07000174,Mansfield,1,Provides no unpaid care,92450
+E07000174,Mansfield,2,Provides 9 hours or less unpaid care a week,3948
+E07000174,Mansfield,3,Provides 10 to 19 hours unpaid care a week,1633
+E07000174,Mansfield,4,Provides 20 to 34 hours unpaid care a week,1126
+E07000174,Mansfield,5,Provides 35 to 49 hours unpaid care a week,1479
+E07000174,Mansfield,6,Provides 50 or more hours unpaid care a week,3886
+E07000175,Newark and Sherwood,-8,Does not apply,6062
+E07000175,Newark and Sherwood,1,Provides no unpaid care,104518
+E07000175,Newark and Sherwood,2,Provides 9 hours or less unpaid care a week,4513
+E07000175,Newark and Sherwood,3,Provides 10 to 19 hours unpaid care a week,1713
+E07000175,Newark and Sherwood,4,Provides 20 to 34 hours unpaid care a week,1113
+E07000175,Newark and Sherwood,5,Provides 35 to 49 hours unpaid care a week,1285
+E07000175,Newark and Sherwood,6,Provides 50 or more hours unpaid care a week,3752
+E07000176,Rushcliffe,-8,Does not apply,5851
+E07000176,Rushcliffe,1,Provides no unpaid care,102812
+E07000176,Rushcliffe,2,Provides 9 hours or less unpaid care a week,4811
+E07000176,Rushcliffe,3,Provides 10 to 19 hours unpaid care a week,1435
+E07000176,Rushcliffe,4,Provides 20 to 34 hours unpaid care a week,851
+E07000176,Rushcliffe,5,Provides 35 to 49 hours unpaid care a week,797
+E07000176,Rushcliffe,6,Provides 50 or more hours unpaid care a week,2520
+E07000177,Cherwell,-8,Does not apply,9355
+E07000177,Cherwell,1,Provides no unpaid care,140064
+E07000177,Cherwell,2,Provides 9 hours or less unpaid care a week,4605
+E07000177,Cherwell,3,Provides 10 to 19 hours unpaid care a week,1600
+E07000177,Cherwell,4,Provides 20 to 34 hours unpaid care a week,1043
+E07000177,Cherwell,5,Provides 35 to 49 hours unpaid care a week,1134
+E07000177,Cherwell,6,Provides 50 or more hours unpaid care a week,3215
+E07000178,Oxford,-8,Does not apply,7137
+E07000178,Oxford,1,Provides no unpaid care,144613
+E07000178,Oxford,2,Provides 9 hours or less unpaid care a week,4480
+E07000178,Oxford,3,Provides 10 to 19 hours unpaid care a week,1283
+E07000178,Oxford,4,Provides 20 to 34 hours unpaid care a week,944
+E07000178,Oxford,5,Provides 35 to 49 hours unpaid care a week,1042
+E07000178,Oxford,6,Provides 50 or more hours unpaid care a week,2541
+E07000179,South Oxfordshire,-8,Does not apply,7980
+E07000179,South Oxfordshire,1,Provides no unpaid care,129880
+E07000179,South Oxfordshire,2,Provides 9 hours or less unpaid care a week,5200
+E07000179,South Oxfordshire,3,Provides 10 to 19 hours unpaid care a week,1449
+E07000179,South Oxfordshire,4,Provides 20 to 34 hours unpaid care a week,849
+E07000179,South Oxfordshire,5,Provides 35 to 49 hours unpaid care a week,834
+E07000179,South Oxfordshire,6,Provides 50 or more hours unpaid care a week,2893
+E07000180,Vale of White Horse,-8,Does not apply,7799
+E07000180,Vale of White Horse,1,Provides no unpaid care,120519
+E07000180,Vale of White Horse,2,Provides 9 hours or less unpaid care a week,4803
+E07000180,Vale of White Horse,3,Provides 10 to 19 hours unpaid care a week,1340
+E07000180,Vale of White Horse,4,Provides 20 to 34 hours unpaid care a week,877
+E07000180,Vale of White Horse,5,Provides 35 to 49 hours unpaid care a week,920
+E07000180,Vale of White Horse,6,Provides 50 or more hours unpaid care a week,2655
+E07000181,West Oxfordshire,-8,Does not apply,5720
+E07000181,West Oxfordshire,1,Provides no unpaid care,99551
+E07000181,West Oxfordshire,2,Provides 9 hours or less unpaid care a week,3960
+E07000181,West Oxfordshire,3,Provides 10 to 19 hours unpaid care a week,1175
+E07000181,West Oxfordshire,4,Provides 20 to 34 hours unpaid care a week,722
+E07000181,West Oxfordshire,5,Provides 35 to 49 hours unpaid care a week,778
+E07000181,West Oxfordshire,6,Provides 50 or more hours unpaid care a week,2332
+E07000187,Mendip,-8,Does not apply,5460
+E07000187,Mendip,1,Provides no unpaid care,100739
+E07000187,Mendip,2,Provides 9 hours or less unpaid care a week,4141
+E07000187,Mendip,3,Provides 10 to 19 hours unpaid care a week,1321
+E07000187,Mendip,4,Provides 20 to 34 hours unpaid care a week,781
+E07000187,Mendip,5,Provides 35 to 49 hours unpaid care a week,841
+E07000187,Mendip,6,Provides 50 or more hours unpaid care a week,2806
+E07000188,Sedgemoor,-8,Does not apply,6000
+E07000188,Sedgemoor,1,Provides no unpaid care,108100
+E07000188,Sedgemoor,2,Provides 9 hours or less unpaid care a week,4105
+E07000188,Sedgemoor,3,Provides 10 to 19 hours unpaid care a week,1528
+E07000188,Sedgemoor,4,Provides 20 to 34 hours unpaid care a week,1083
+E07000188,Sedgemoor,5,Provides 35 to 49 hours unpaid care a week,1075
+E07000188,Sedgemoor,6,Provides 50 or more hours unpaid care a week,3452
+E07000189,South Somerset,-8,Does not apply,8228
+E07000189,South Somerset,1,Provides no unpaid care,149484
+E07000189,South Somerset,2,Provides 9 hours or less unpaid care a week,5789
+E07000189,South Somerset,3,Provides 10 to 19 hours unpaid care a week,1963
+E07000189,South Somerset,4,Provides 20 to 34 hours unpaid care a week,1255
+E07000189,South Somerset,5,Provides 35 to 49 hours unpaid care a week,1436
+E07000189,South Somerset,6,Provides 50 or more hours unpaid care a week,4516
+E07000192,Cannock Chase,-8,Does not apply,5566
+E07000192,Cannock Chase,1,Provides no unpaid care,85023
+E07000192,Cannock Chase,2,Provides 9 hours or less unpaid care a week,3213
+E07000192,Cannock Chase,3,Provides 10 to 19 hours unpaid care a week,1429
+E07000192,Cannock Chase,4,Provides 20 to 34 hours unpaid care a week,925
+E07000192,Cannock Chase,5,Provides 35 to 49 hours unpaid care a week,1204
+E07000192,Cannock Chase,6,Provides 50 or more hours unpaid care a week,3161
+E07000193,East Staffordshire,-8,Does not apply,6966
+E07000193,East Staffordshire,1,Provides no unpaid care,107352
+E07000193,East Staffordshire,2,Provides 9 hours or less unpaid care a week,3708
+E07000193,East Staffordshire,3,Provides 10 to 19 hours unpaid care a week,1259
+E07000193,East Staffordshire,4,Provides 20 to 34 hours unpaid care a week,844
+E07000193,East Staffordshire,5,Provides 35 to 49 hours unpaid care a week,1063
+E07000193,East Staffordshire,6,Provides 50 or more hours unpaid care a week,2826
+E07000194,Lichfield,-8,Does not apply,5229
+E07000194,Lichfield,1,Provides no unpaid care,91492
+E07000194,Lichfield,2,Provides 9 hours or less unpaid care a week,3900
+E07000194,Lichfield,3,Provides 10 to 19 hours unpaid care a week,1333
+E07000194,Lichfield,4,Provides 20 to 34 hours unpaid care a week,859
+E07000194,Lichfield,5,Provides 35 to 49 hours unpaid care a week,829
+E07000194,Lichfield,6,Provides 50 or more hours unpaid care a week,2794
+E07000195,Newcastle-under-Lyme,-8,Does not apply,5793
+E07000195,Newcastle-under-Lyme,1,Provides no unpaid care,105498
+E07000195,Newcastle-under-Lyme,2,Provides 9 hours or less unpaid care a week,4315
+E07000195,Newcastle-under-Lyme,3,Provides 10 to 19 hours unpaid care a week,1744
+E07000195,Newcastle-under-Lyme,4,Provides 20 to 34 hours unpaid care a week,1109
+E07000195,Newcastle-under-Lyme,5,Provides 35 to 49 hours unpaid care a week,1186
+E07000195,Newcastle-under-Lyme,6,Provides 50 or more hours unpaid care a week,3654
+E07000196,South Staffordshire,-8,Does not apply,4921
+E07000196,South Staffordshire,1,Provides no unpaid care,94619
+E07000196,South Staffordshire,2,Provides 9 hours or less unpaid care a week,4285
+E07000196,South Staffordshire,3,Provides 10 to 19 hours unpaid care a week,1550
+E07000196,South Staffordshire,4,Provides 20 to 34 hours unpaid care a week,992
+E07000196,South Staffordshire,5,Provides 35 to 49 hours unpaid care a week,1090
+E07000196,South Staffordshire,6,Provides 50 or more hours unpaid care a week,3013
+E07000197,Stafford,-8,Does not apply,6718
+E07000197,Stafford,1,Provides no unpaid care,117538
+E07000197,Stafford,2,Provides 9 hours or less unpaid care a week,5160
+E07000197,Stafford,3,Provides 10 to 19 hours unpaid care a week,1739
+E07000197,Stafford,4,Provides 20 to 34 hours unpaid care a week,1115
+E07000197,Stafford,5,Provides 35 to 49 hours unpaid care a week,1041
+E07000197,Stafford,6,Provides 50 or more hours unpaid care a week,3556
+E07000198,Staffordshire Moorlands,-8,Does not apply,4072
+E07000198,Staffordshire Moorlands,1,Provides no unpaid care,81935
+E07000198,Staffordshire Moorlands,2,Provides 9 hours or less unpaid care a week,3927
+E07000198,Staffordshire Moorlands,3,Provides 10 to 19 hours unpaid care a week,1389
+E07000198,Staffordshire Moorlands,4,Provides 20 to 34 hours unpaid care a week,866
+E07000198,Staffordshire Moorlands,5,Provides 35 to 49 hours unpaid care a week,849
+E07000198,Staffordshire Moorlands,6,Provides 50 or more hours unpaid care a week,2807
+E07000199,Tamworth,-8,Does not apply,4442
+E07000199,Tamworth,1,Provides no unpaid care,67156
+E07000199,Tamworth,2,Provides 9 hours or less unpaid care a week,2248
+E07000199,Tamworth,3,Provides 10 to 19 hours unpaid care a week,961
+E07000199,Tamworth,4,Provides 20 to 34 hours unpaid care a week,624
+E07000199,Tamworth,5,Provides 35 to 49 hours unpaid care a week,807
+E07000199,Tamworth,6,Provides 50 or more hours unpaid care a week,2409
+E07000200,Babergh,-8,Does not apply,3972
+E07000200,Babergh,1,Provides no unpaid care,80328
+E07000200,Babergh,2,Provides 9 hours or less unpaid care a week,3268
+E07000200,Babergh,3,Provides 10 to 19 hours unpaid care a week,1120
+E07000200,Babergh,4,Provides 20 to 34 hours unpaid care a week,639
+E07000200,Babergh,5,Provides 35 to 49 hours unpaid care a week,700
+E07000200,Babergh,6,Provides 50 or more hours unpaid care a week,2314
+E07000202,Ipswich,-8,Does not apply,8326
+E07000202,Ipswich,1,Provides no unpaid care,120045
+E07000202,Ipswich,2,Provides 9 hours or less unpaid care a week,3944
+E07000202,Ipswich,3,Provides 10 to 19 hours unpaid care a week,1477
+E07000202,Ipswich,4,Provides 20 to 34 hours unpaid care a week,1122
+E07000202,Ipswich,5,Provides 35 to 49 hours unpaid care a week,1277
+E07000202,Ipswich,6,Provides 50 or more hours unpaid care a week,3450
+E07000203,Mid Suffolk,-8,Does not apply,4497
+E07000203,Mid Suffolk,1,Provides no unpaid care,89309
+E07000203,Mid Suffolk,2,Provides 9 hours or less unpaid care a week,3838
+E07000203,Mid Suffolk,3,Provides 10 to 19 hours unpaid care a week,1236
+E07000203,Mid Suffolk,4,Provides 20 to 34 hours unpaid care a week,692
+E07000203,Mid Suffolk,5,Provides 35 to 49 hours unpaid care a week,727
+E07000203,Mid Suffolk,6,Provides 50 or more hours unpaid care a week,2397
+E07000207,Elmbridge,-8,Does not apply,8347
+E07000207,Elmbridge,1,Provides no unpaid care,120891
+E07000207,Elmbridge,2,Provides 9 hours or less unpaid care a week,4385
+E07000207,Elmbridge,3,Provides 10 to 19 hours unpaid care a week,1284
+E07000207,Elmbridge,4,Provides 20 to 34 hours unpaid care a week,736
+E07000207,Elmbridge,5,Provides 35 to 49 hours unpaid care a week,795
+E07000207,Elmbridge,6,Provides 50 or more hours unpaid care a week,2317
+E07000208,Epsom and Ewell,-8,Does not apply,4626
+E07000208,Epsom and Ewell,1,Provides no unpaid care,70302
+E07000208,Epsom and Ewell,2,Provides 9 hours or less unpaid care a week,2622
+E07000208,Epsom and Ewell,3,Provides 10 to 19 hours unpaid care a week,786
+E07000208,Epsom and Ewell,4,Provides 20 to 34 hours unpaid care a week,491
+E07000208,Epsom and Ewell,5,Provides 35 to 49 hours unpaid care a week,528
+E07000208,Epsom and Ewell,6,Provides 50 or more hours unpaid care a week,1583
+E07000209,Guildford,-8,Does not apply,6684
+E07000209,Guildford,1,Provides no unpaid care,126502
+E07000209,Guildford,2,Provides 9 hours or less unpaid care a week,4879
+E07000209,Guildford,3,Provides 10 to 19 hours unpaid care a week,1316
+E07000209,Guildford,4,Provides 20 to 34 hours unpaid care a week,822
+E07000209,Guildford,5,Provides 35 to 49 hours unpaid care a week,789
+E07000209,Guildford,6,Provides 50 or more hours unpaid care a week,2657
+E07000210,Mole Valley,-8,Does not apply,4007
+E07000210,Mole Valley,1,Provides no unpaid care,76123
+E07000210,Mole Valley,2,Provides 9 hours or less unpaid care a week,3408
+E07000210,Mole Valley,3,Provides 10 to 19 hours unpaid care a week,981
+E07000210,Mole Valley,4,Provides 20 to 34 hours unpaid care a week,548
+E07000210,Mole Valley,5,Provides 35 to 49 hours unpaid care a week,516
+E07000210,Mole Valley,6,Provides 50 or more hours unpaid care a week,1801
+E07000211,Reigate and Banstead,-8,Does not apply,9045
+E07000211,Reigate and Banstead,1,Provides no unpaid care,130648
+E07000211,Reigate and Banstead,2,Provides 9 hours or less unpaid care a week,4778
+E07000211,Reigate and Banstead,3,Provides 10 to 19 hours unpaid care a week,1438
+E07000211,Reigate and Banstead,4,Provides 20 to 34 hours unpaid care a week,995
+E07000211,Reigate and Banstead,5,Provides 35 to 49 hours unpaid care a week,989
+E07000211,Reigate and Banstead,6,Provides 50 or more hours unpaid care a week,2953
+E07000212,Runnymede,-8,Does not apply,4781
+E07000212,Runnymede,1,Provides no unpaid care,76686
+E07000212,Runnymede,2,Provides 9 hours or less unpaid care a week,2761
+E07000212,Runnymede,3,Provides 10 to 19 hours unpaid care a week,820
+E07000212,Runnymede,4,Provides 20 to 34 hours unpaid care a week,566
+E07000212,Runnymede,5,Provides 35 to 49 hours unpaid care a week,599
+E07000212,Runnymede,6,Provides 50 or more hours unpaid care a week,1863
+E07000213,Spelthorne,-8,Does not apply,6010
+E07000213,Spelthorne,1,Provides no unpaid care,88683
+E07000213,Spelthorne,2,Provides 9 hours or less unpaid care a week,3228
+E07000213,Spelthorne,3,Provides 10 to 19 hours unpaid care a week,1160
+E07000213,Spelthorne,4,Provides 20 to 34 hours unpaid care a week,745
+E07000213,Spelthorne,5,Provides 35 to 49 hours unpaid care a week,814
+E07000213,Spelthorne,6,Provides 50 or more hours unpaid care a week,2316
+E07000214,Surrey Heath,-8,Does not apply,4478
+E07000214,Surrey Heath,1,Provides no unpaid care,79377
+E07000214,Surrey Heath,2,Provides 9 hours or less unpaid care a week,2867
+E07000214,Surrey Heath,3,Provides 10 to 19 hours unpaid care a week,906
+E07000214,Surrey Heath,4,Provides 20 to 34 hours unpaid care a week,528
+E07000214,Surrey Heath,5,Provides 35 to 49 hours unpaid care a week,597
+E07000214,Surrey Heath,6,Provides 50 or more hours unpaid care a week,1700
+E07000215,Tandridge,-8,Does not apply,4976
+E07000215,Tandridge,1,Provides no unpaid care,75825
+E07000215,Tandridge,2,Provides 9 hours or less unpaid care a week,3121
+E07000215,Tandridge,3,Provides 10 to 19 hours unpaid care a week,976
+E07000215,Tandridge,4,Provides 20 to 34 hours unpaid care a week,591
+E07000215,Tandridge,5,Provides 35 to 49 hours unpaid care a week,513
+E07000215,Tandridge,6,Provides 50 or more hours unpaid care a week,1872
+E07000216,Waverley,-8,Does not apply,6466
+E07000216,Waverley,1,Provides no unpaid care,112122
+E07000216,Waverley,2,Provides 9 hours or less unpaid care a week,4601
+E07000216,Waverley,3,Provides 10 to 19 hours unpaid care a week,1248
+E07000216,Waverley,4,Provides 20 to 34 hours unpaid care a week,741
+E07000216,Waverley,5,Provides 35 to 49 hours unpaid care a week,707
+E07000216,Waverley,6,Provides 50 or more hours unpaid care a week,2344
+E07000217,Woking,-8,Does not apply,6215
+E07000217,Woking,1,Provides no unpaid care,89817
+E07000217,Woking,2,Provides 9 hours or less unpaid care a week,3314
+E07000217,Woking,3,Provides 10 to 19 hours unpaid care a week,1086
+E07000217,Woking,4,Provides 20 to 34 hours unpaid care a week,706
+E07000217,Woking,5,Provides 35 to 49 hours unpaid care a week,742
+E07000217,Woking,6,Provides 50 or more hours unpaid care a week,2063
+E07000218,North Warwickshire,-8,Does not apply,3206
+E07000218,North Warwickshire,1,Provides no unpaid care,55696
+E07000218,North Warwickshire,2,Provides 9 hours or less unpaid care a week,2182
+E07000218,North Warwickshire,3,Provides 10 to 19 hours unpaid care a week,806
+E07000218,North Warwickshire,4,Provides 20 to 34 hours unpaid care a week,576
+E07000218,North Warwickshire,5,Provides 35 to 49 hours unpaid care a week,608
+E07000218,North Warwickshire,6,Provides 50 or more hours unpaid care a week,1959
+E07000219,Nuneaton and Bedworth,-8,Does not apply,7753
+E07000219,Nuneaton and Bedworth,1,Provides no unpaid care,114090
+E07000219,Nuneaton and Bedworth,2,Provides 9 hours or less unpaid care a week,3932
+E07000219,Nuneaton and Bedworth,3,Provides 10 to 19 hours unpaid care a week,1687
+E07000219,Nuneaton and Bedworth,4,Provides 20 to 34 hours unpaid care a week,1195
+E07000219,Nuneaton and Bedworth,5,Provides 35 to 49 hours unpaid care a week,1455
+E07000219,Nuneaton and Bedworth,6,Provides 50 or more hours unpaid care a week,4085
+E07000220,Rugby,-8,Does not apply,6368
+E07000220,Rugby,1,Provides no unpaid care,98986
+E07000220,Rugby,2,Provides 9 hours or less unpaid care a week,3586
+E07000220,Rugby,3,Provides 10 to 19 hours unpaid care a week,1264
+E07000220,Rugby,4,Provides 20 to 34 hours unpaid care a week,807
+E07000220,Rugby,5,Provides 35 to 49 hours unpaid care a week,886
+E07000220,Rugby,6,Provides 50 or more hours unpaid care a week,2466
+E07000221,Stratford-on-Avon,-8,Does not apply,6245
+E07000221,Stratford-on-Avon,1,Provides no unpaid care,117460
+E07000221,Stratford-on-Avon,2,Provides 9 hours or less unpaid care a week,4881
+E07000221,Stratford-on-Avon,3,Provides 10 to 19 hours unpaid care a week,1438
+E07000221,Stratford-on-Avon,4,Provides 20 to 34 hours unpaid care a week,912
+E07000221,Stratford-on-Avon,5,Provides 35 to 49 hours unpaid care a week,838
+E07000221,Stratford-on-Avon,6,Provides 50 or more hours unpaid care a week,2951
+E07000222,Warwick,-8,Does not apply,7438
+E07000222,Warwick,1,Provides no unpaid care,129906
+E07000222,Warwick,2,Provides 9 hours or less unpaid care a week,5011
+E07000222,Warwick,3,Provides 10 to 19 hours unpaid care a week,1413
+E07000222,Warwick,4,Provides 20 to 34 hours unpaid care a week,963
+E07000222,Warwick,5,Provides 35 to 49 hours unpaid care a week,967
+E07000222,Warwick,6,Provides 50 or more hours unpaid care a week,2755
+E07000223,Adur,-8,Does not apply,3192
+E07000223,Adur,1,Provides no unpaid care,55476
+E07000223,Adur,2,Provides 9 hours or less unpaid care a week,2267
+E07000223,Adur,3,Provides 10 to 19 hours unpaid care a week,809
+E07000223,Adur,4,Provides 20 to 34 hours unpaid care a week,551
+E07000223,Adur,5,Provides 35 to 49 hours unpaid care a week,503
+E07000223,Adur,6,Provides 50 or more hours unpaid care a week,1746
+E07000224,Arun,-8,Does not apply,7254
+E07000224,Arun,1,Provides no unpaid care,143066
+E07000224,Arun,2,Provides 9 hours or less unpaid care a week,5402
+E07000224,Arun,3,Provides 10 to 19 hours unpaid care a week,1935
+E07000224,Arun,4,Provides 20 to 34 hours unpaid care a week,1333
+E07000224,Arun,5,Provides 35 to 49 hours unpaid care a week,1360
+E07000224,Arun,6,Provides 50 or more hours unpaid care a week,4539
+E07000225,Chichester,-8,Does not apply,5309
+E07000225,Chichester,1,Provides no unpaid care,108269
+E07000225,Chichester,2,Provides 9 hours or less unpaid care a week,4511
+E07000225,Chichester,3,Provides 10 to 19 hours unpaid care a week,1366
+E07000225,Chichester,4,Provides 20 to 34 hours unpaid care a week,882
+E07000225,Chichester,5,Provides 35 to 49 hours unpaid care a week,857
+E07000225,Chichester,6,Provides 50 or more hours unpaid care a week,2874
+E07000226,Crawley,-8,Does not apply,7639
+E07000226,Crawley,1,Provides no unpaid care,101887
+E07000226,Crawley,2,Provides 9 hours or less unpaid care a week,3068
+E07000226,Crawley,3,Provides 10 to 19 hours unpaid care a week,1266
+E07000226,Crawley,4,Provides 20 to 34 hours unpaid care a week,923
+E07000226,Crawley,5,Provides 35 to 49 hours unpaid care a week,1085
+E07000226,Crawley,6,Provides 50 or more hours unpaid care a week,2627
+E07000227,Horsham,-8,Does not apply,7368
+E07000227,Horsham,1,Provides no unpaid care,127798
+E07000227,Horsham,2,Provides 9 hours or less unpaid care a week,5501
+E07000227,Horsham,3,Provides 10 to 19 hours unpaid care a week,1484
+E07000227,Horsham,4,Provides 20 to 34 hours unpaid care a week,877
+E07000227,Horsham,5,Provides 35 to 49 hours unpaid care a week,920
+E07000227,Horsham,6,Provides 50 or more hours unpaid care a week,2830
+E07000228,Mid Sussex,-8,Does not apply,8315
+E07000228,Mid Sussex,1,Provides no unpaid care,132667
+E07000228,Mid Sussex,2,Provides 9 hours or less unpaid care a week,5330
+E07000228,Mid Sussex,3,Provides 10 to 19 hours unpaid care a week,1537
+E07000228,Mid Sussex,4,Provides 20 to 34 hours unpaid care a week,917
+E07000228,Mid Sussex,5,Provides 35 to 49 hours unpaid care a week,919
+E07000228,Mid Sussex,6,Provides 50 or more hours unpaid care a week,2879
+E07000229,Worthing,-8,Does not apply,5448
+E07000229,Worthing,1,Provides no unpaid care,96173
+E07000229,Worthing,2,Provides 9 hours or less unpaid care a week,3923
+E07000229,Worthing,3,Provides 10 to 19 hours unpaid care a week,1241
+E07000229,Worthing,4,Provides 20 to 34 hours unpaid care a week,855
+E07000229,Worthing,5,Provides 35 to 49 hours unpaid care a week,866
+E07000229,Worthing,6,Provides 50 or more hours unpaid care a week,2832
+E07000234,Bromsgrove,-8,Does not apply,5158
+E07000234,Bromsgrove,1,Provides no unpaid care,85120
+E07000234,Bromsgrove,2,Provides 9 hours or less unpaid care a week,3810
+E07000234,Bromsgrove,3,Provides 10 to 19 hours unpaid care a week,1257
+E07000234,Bromsgrove,4,Provides 20 to 34 hours unpaid care a week,759
+E07000234,Bromsgrove,5,Provides 35 to 49 hours unpaid care a week,671
+E07000234,Bromsgrove,6,Provides 50 or more hours unpaid care a week,2408
+E07000235,Malvern Hills,-8,Does not apply,3114
+E07000235,Malvern Hills,1,Provides no unpaid care,69028
+E07000235,Malvern Hills,2,Provides 9 hours or less unpaid care a week,3142
+E07000235,Malvern Hills,3,Provides 10 to 19 hours unpaid care a week,985
+E07000235,Malvern Hills,4,Provides 20 to 34 hours unpaid care a week,617
+E07000235,Malvern Hills,5,Provides 35 to 49 hours unpaid care a week,612
+E07000235,Malvern Hills,6,Provides 50 or more hours unpaid care a week,1988
+E07000236,Redditch,-8,Does not apply,4992
+E07000236,Redditch,1,Provides no unpaid care,74607
+E07000236,Redditch,2,Provides 9 hours or less unpaid care a week,2462
+E07000236,Redditch,3,Provides 10 to 19 hours unpaid care a week,1039
+E07000236,Redditch,4,Provides 20 to 34 hours unpaid care a week,692
+E07000236,Redditch,5,Provides 35 to 49 hours unpaid care a week,868
+E07000236,Redditch,6,Provides 50 or more hours unpaid care a week,2376
+E07000237,Worcester,-8,Does not apply,5281
+E07000237,Worcester,1,Provides no unpaid care,90514
+E07000237,Worcester,2,Provides 9 hours or less unpaid care a week,3058
+E07000237,Worcester,3,Provides 10 to 19 hours unpaid care a week,1093
+E07000237,Worcester,4,Provides 20 to 34 hours unpaid care a week,679
+E07000237,Worcester,5,Provides 35 to 49 hours unpaid care a week,850
+E07000237,Worcester,6,Provides 50 or more hours unpaid care a week,2396
+E07000238,Wychavon,-8,Does not apply,6252
+E07000238,Wychavon,1,Provides no unpaid care,114819
+E07000238,Wychavon,2,Provides 9 hours or less unpaid care a week,4595
+E07000238,Wychavon,3,Provides 10 to 19 hours unpaid care a week,1445
+E07000238,Wychavon,4,Provides 20 to 34 hours unpaid care a week,991
+E07000238,Wychavon,5,Provides 35 to 49 hours unpaid care a week,1084
+E07000238,Wychavon,6,Provides 50 or more hours unpaid care a week,3307
+E07000239,Wyre Forest,-8,Does not apply,4807
+E07000239,Wyre Forest,1,Provides no unpaid care,87244
+E07000239,Wyre Forest,2,Provides 9 hours or less unpaid care a week,3264
+E07000239,Wyre Forest,3,Provides 10 to 19 hours unpaid care a week,1317
+E07000239,Wyre Forest,4,Provides 20 to 34 hours unpaid care a week,926
+E07000239,Wyre Forest,5,Provides 35 to 49 hours unpaid care a week,991
+E07000239,Wyre Forest,6,Provides 50 or more hours unpaid care a week,3058
+E07000240,St Albans,-8,Does not apply,8659
+E07000240,St Albans,1,Provides no unpaid care,128632
+E07000240,St Albans,2,Provides 9 hours or less unpaid care a week,5116
+E07000240,St Albans,3,Provides 10 to 19 hours unpaid care a week,1420
+E07000240,St Albans,4,Provides 20 to 34 hours unpaid care a week,846
+E07000240,St Albans,5,Provides 35 to 49 hours unpaid care a week,861
+E07000240,St Albans,6,Provides 50 or more hours unpaid care a week,2633
+E07000241,Welwyn Hatfield,-8,Does not apply,6626
+E07000241,Welwyn Hatfield,1,Provides no unpaid care,104123
+E07000241,Welwyn Hatfield,2,Provides 9 hours or less unpaid care a week,3719
+E07000241,Welwyn Hatfield,3,Provides 10 to 19 hours unpaid care a week,1312
+E07000241,Welwyn Hatfield,4,Provides 20 to 34 hours unpaid care a week,799
+E07000241,Welwyn Hatfield,5,Provides 35 to 49 hours unpaid care a week,904
+E07000241,Welwyn Hatfield,6,Provides 50 or more hours unpaid care a week,2353
+E07000242,East Hertfordshire,-8,Does not apply,8316
+E07000242,East Hertfordshire,1,Provides no unpaid care,130842
+E07000242,East Hertfordshire,2,Provides 9 hours or less unpaid care a week,5121
+E07000242,East Hertfordshire,3,Provides 10 to 19 hours unpaid care a week,1457
+E07000242,East Hertfordshire,4,Provides 20 to 34 hours unpaid care a week,911
+E07000242,East Hertfordshire,5,Provides 35 to 49 hours unpaid care a week,828
+E07000242,East Hertfordshire,6,Provides 50 or more hours unpaid care a week,2683
+E07000243,Stevenage,-8,Does not apply,5618
+E07000243,Stevenage,1,Provides no unpaid care,76273
+E07000243,Stevenage,2,Provides 9 hours or less unpaid care a week,2681
+E07000243,Stevenage,3,Provides 10 to 19 hours unpaid care a week,1002
+E07000243,Stevenage,4,Provides 20 to 34 hours unpaid care a week,760
+E07000243,Stevenage,5,Provides 35 to 49 hours unpaid care a week,883
+E07000243,Stevenage,6,Provides 50 or more hours unpaid care a week,2277
+E07000244,East Suffolk,-8,Does not apply,10634
+E07000244,East Suffolk,1,Provides no unpaid care,211851
+E07000244,East Suffolk,2,Provides 9 hours or less unpaid care a week,8723
+E07000244,East Suffolk,3,Provides 10 to 19 hours unpaid care a week,3116
+E07000244,East Suffolk,4,Provides 20 to 34 hours unpaid care a week,2140
+E07000244,East Suffolk,5,Provides 35 to 49 hours unpaid care a week,2301
+E07000244,East Suffolk,6,Provides 50 or more hours unpaid care a week,7293
+E07000245,West Suffolk,-8,Does not apply,9829
+E07000245,West Suffolk,1,Provides no unpaid care,156790
+E07000245,West Suffolk,2,Provides 9 hours or less unpaid care a week,5152
+E07000245,West Suffolk,3,Provides 10 to 19 hours unpaid care a week,1777
+E07000245,West Suffolk,4,Provides 20 to 34 hours unpaid care a week,1110
+E07000245,West Suffolk,5,Provides 35 to 49 hours unpaid care a week,1228
+E07000245,West Suffolk,6,Provides 50 or more hours unpaid care a week,4062
+E07000246,Somerset West and Taunton,-8,Does not apply,7362
+E07000246,Somerset West and Taunton,1,Provides no unpaid care,136241
+E07000246,Somerset West and Taunton,2,Provides 9 hours or less unpaid care a week,5439
+E07000246,Somerset West and Taunton,3,Provides 10 to 19 hours unpaid care a week,1772
+E07000246,Somerset West and Taunton,4,Provides 20 to 34 hours unpaid care a week,1325
+E07000246,Somerset West and Taunton,5,Provides 35 to 49 hours unpaid care a week,1336
+E07000246,Somerset West and Taunton,6,Provides 50 or more hours unpaid care a week,3970
+E08000001,Bolton,-8,Does not apply,18458
+E08000001,Bolton,1,Provides no unpaid care,251525
+E08000001,Bolton,2,Provides 9 hours or less unpaid care a week,7910
+E08000001,Bolton,3,Provides 10 to 19 hours unpaid care a week,3567
+E08000001,Bolton,4,Provides 20 to 34 hours unpaid care a week,2682
+E08000001,Bolton,5,Provides 35 to 49 hours unpaid care a week,3220
+E08000001,Bolton,6,Provides 50 or more hours unpaid care a week,8601
+E08000002,Bury,-8,Does not apply,11159
+E08000002,Bury,1,Provides no unpaid care,165816
+E08000002,Bury,2,Provides 9 hours or less unpaid care a week,5775
+E08000002,Bury,3,Provides 10 to 19 hours unpaid care a week,2366
+E08000002,Bury,4,Provides 20 to 34 hours unpaid care a week,1744
+E08000002,Bury,5,Provides 35 to 49 hours unpaid care a week,1896
+E08000002,Bury,6,Provides 50 or more hours unpaid care a week,5095
+E08000003,Manchester,-8,Does not apply,34378
+E08000003,Manchester,1,Provides no unpaid care,479346
+E08000003,Manchester,2,Provides 9 hours or less unpaid care a week,10472
+E08000003,Manchester,3,Provides 10 to 19 hours unpaid care a week,5158
+E08000003,Manchester,4,Provides 20 to 34 hours unpaid care a week,4481
+E08000003,Manchester,5,Provides 35 to 49 hours unpaid care a week,5919
+E08000003,Manchester,6,Provides 50 or more hours unpaid care a week,12184
+E08000004,Oldham,-8,Does not apply,16005
+E08000004,Oldham,1,Provides no unpaid care,205397
+E08000004,Oldham,2,Provides 9 hours or less unpaid care a week,5932
+E08000004,Oldham,3,Provides 10 to 19 hours unpaid care a week,2805
+E08000004,Oldham,4,Provides 20 to 34 hours unpaid care a week,2323
+E08000004,Oldham,5,Provides 35 to 49 hours unpaid care a week,2755
+E08000004,Oldham,6,Provides 50 or more hours unpaid care a week,6871
+E08000005,Rochdale,-8,Does not apply,14639
+E08000005,Rochdale,1,Provides no unpaid care,189720
+E08000005,Rochdale,2,Provides 9 hours or less unpaid care a week,5534
+E08000005,Rochdale,3,Provides 10 to 19 hours unpaid care a week,2684
+E08000005,Rochdale,4,Provides 20 to 34 hours unpaid care a week,2143
+E08000005,Rochdale,5,Provides 35 to 49 hours unpaid care a week,2557
+E08000005,Rochdale,6,Provides 50 or more hours unpaid care a week,6496
+E08000006,Salford,-8,Does not apply,17257
+E08000006,Salford,1,Provides no unpaid care,231773
+E08000006,Salford,2,Provides 9 hours or less unpaid care a week,6152
+E08000006,Salford,3,Provides 10 to 19 hours unpaid care a week,2740
+E08000006,Salford,4,Provides 20 to 34 hours unpaid care a week,2130
+E08000006,Salford,5,Provides 35 to 49 hours unpaid care a week,2820
+E08000006,Salford,6,Provides 50 or more hours unpaid care a week,7050
+E08000007,Stockport,-8,Does not apply,16575
+E08000007,Stockport,1,Provides no unpaid care,251993
+E08000007,Stockport,2,Provides 9 hours or less unpaid care a week,10028
+E08000007,Stockport,3,Provides 10 to 19 hours unpaid care a week,3729
+E08000007,Stockport,4,Provides 20 to 34 hours unpaid care a week,2455
+E08000007,Stockport,5,Provides 35 to 49 hours unpaid care a week,2516
+E08000007,Stockport,6,Provides 50 or more hours unpaid care a week,7475
+E08000008,Tameside,-8,Does not apply,13666
+E08000008,Tameside,1,Provides no unpaid care,196729
+E08000008,Tameside,2,Provides 9 hours or less unpaid care a week,6456
+E08000008,Tameside,3,Provides 10 to 19 hours unpaid care a week,2828
+E08000008,Tameside,4,Provides 20 to 34 hours unpaid care a week,2160
+E08000008,Tameside,5,Provides 35 to 49 hours unpaid care a week,2512
+E08000008,Tameside,6,Provides 50 or more hours unpaid care a week,6719
+E08000009,Trafford,-8,Does not apply,13466
+E08000009,Trafford,1,Provides no unpaid care,202763
+E08000009,Trafford,2,Provides 9 hours or less unpaid care a week,7362
+E08000009,Trafford,3,Provides 10 to 19 hours unpaid care a week,2692
+E08000009,Trafford,4,Provides 20 to 34 hours unpaid care a week,1766
+E08000009,Trafford,5,Provides 35 to 49 hours unpaid care a week,1915
+E08000009,Trafford,6,Provides 50 or more hours unpaid care a week,5087
+E08000010,Wigan,-8,Does not apply,17782
+E08000010,Wigan,1,Provides no unpaid care,280073
+E08000010,Wigan,2,Provides 9 hours or less unpaid care a week,9511
+E08000010,Wigan,3,Provides 10 to 19 hours unpaid care a week,4416
+E08000010,Wigan,4,Provides 20 to 34 hours unpaid care a week,3148
+E08000010,Wigan,5,Provides 35 to 49 hours unpaid care a week,3903
+E08000010,Wigan,6,Provides 50 or more hours unpaid care a week,10497
+E08000011,Knowsley,-8,Does not apply,9735
+E08000011,Knowsley,1,Provides no unpaid care,128331
+E08000011,Knowsley,2,Provides 9 hours or less unpaid care a week,3792
+E08000011,Knowsley,3,Provides 10 to 19 hours unpaid care a week,2415
+E08000011,Knowsley,4,Provides 20 to 34 hours unpaid care a week,1977
+E08000011,Knowsley,5,Provides 35 to 49 hours unpaid care a week,2285
+E08000011,Knowsley,6,Provides 50 or more hours unpaid care a week,5983
+E08000012,Liverpool,-8,Does not apply,26372
+E08000012,Liverpool,1,Provides no unpaid care,415537
+E08000012,Liverpool,2,Provides 9 hours or less unpaid care a week,11632
+E08000012,Liverpool,3,Provides 10 to 19 hours unpaid care a week,6179
+E08000012,Liverpool,4,Provides 20 to 34 hours unpaid care a week,5123
+E08000012,Liverpool,5,Provides 35 to 49 hours unpaid care a week,6290
+E08000012,Liverpool,6,Provides 50 or more hours unpaid care a week,14955
+E08000013,St. Helens,-8,Does not apply,9659
+E08000013,St. Helens,1,Provides no unpaid care,153065
+E08000013,St. Helens,2,Provides 9 hours or less unpaid care a week,6037
+E08000013,St. Helens,3,Provides 10 to 19 hours unpaid care a week,2853
+E08000013,St. Helens,4,Provides 20 to 34 hours unpaid care a week,2096
+E08000013,St. Helens,5,Provides 35 to 49 hours unpaid care a week,2626
+E08000013,St. Helens,6,Provides 50 or more hours unpaid care a week,6912
+E08000014,Sefton,-8,Does not apply,13508
+E08000014,Sefton,1,Provides no unpaid care,236703
+E08000014,Sefton,2,Provides 9 hours or less unpaid care a week,8958
+E08000014,Sefton,3,Provides 10 to 19 hours unpaid care a week,4211
+E08000014,Sefton,4,Provides 20 to 34 hours unpaid care a week,3067
+E08000014,Sefton,5,Provides 35 to 49 hours unpaid care a week,3428
+E08000014,Sefton,6,Provides 50 or more hours unpaid care a week,9358
+E08000015,Wirral,-8,Does not apply,16316
+E08000015,Wirral,1,Provides no unpaid care,270384
+E08000015,Wirral,2,Provides 9 hours or less unpaid care a week,10564
+E08000015,Wirral,3,Provides 10 to 19 hours unpaid care a week,4733
+E08000015,Wirral,4,Provides 20 to 34 hours unpaid care a week,3364
+E08000015,Wirral,5,Provides 35 to 49 hours unpaid care a week,3966
+E08000015,Wirral,6,Provides 50 or more hours unpaid care a week,10872
+E08000016,Barnsley,-8,Does not apply,13463
+E08000016,Barnsley,1,Provides no unpaid care,206377
+E08000016,Barnsley,2,Provides 9 hours or less unpaid care a week,7128
+E08000016,Barnsley,3,Provides 10 to 19 hours unpaid care a week,3322
+E08000016,Barnsley,4,Provides 20 to 34 hours unpaid care a week,2509
+E08000016,Barnsley,5,Provides 35 to 49 hours unpaid care a week,3306
+E08000016,Barnsley,6,Provides 50 or more hours unpaid care a week,8467
+E08000017,Doncaster,-8,Does not apply,16942
+E08000017,Doncaster,1,Provides no unpaid care,263032
+E08000017,Doncaster,2,Provides 9 hours or less unpaid care a week,8085
+E08000017,Doncaster,3,Provides 10 to 19 hours unpaid care a week,3760
+E08000017,Doncaster,4,Provides 20 to 34 hours unpaid care a week,2830
+E08000017,Doncaster,5,Provides 35 to 49 hours unpaid care a week,3638
+E08000017,Doncaster,6,Provides 50 or more hours unpaid care a week,9819
+E08000018,Rotherham,-8,Does not apply,14645
+E08000018,Rotherham,1,Provides no unpaid care,224849
+E08000018,Rotherham,2,Provides 9 hours or less unpaid care a week,7528
+E08000018,Rotherham,3,Provides 10 to 19 hours unpaid care a week,3443
+E08000018,Rotherham,4,Provides 20 to 34 hours unpaid care a week,2557
+E08000018,Rotherham,5,Provides 35 to 49 hours unpaid care a week,3473
+E08000018,Rotherham,6,Provides 50 or more hours unpaid care a week,9312
+E08000019,Sheffield,-8,Does not apply,30179
+E08000019,Sheffield,1,Provides no unpaid care,477333
+E08000019,Sheffield,2,Provides 9 hours or less unpaid care a week,16562
+E08000019,Sheffield,3,Provides 10 to 19 hours unpaid care a week,6611
+E08000019,Sheffield,4,Provides 20 to 34 hours unpaid care a week,4854
+E08000019,Sheffield,5,Provides 35 to 49 hours unpaid care a week,5681
+E08000019,Sheffield,6,Provides 50 or more hours unpaid care a week,15301
+E08000021,Newcastle upon Tyne,-8,Does not apply,15651
+E08000021,Newcastle upon Tyne,1,Provides no unpaid care,261079
+E08000021,Newcastle upon Tyne,2,Provides 9 hours or less unpaid care a week,7209
+E08000021,Newcastle upon Tyne,3,Provides 10 to 19 hours unpaid care a week,3043
+E08000021,Newcastle upon Tyne,4,Provides 20 to 34 hours unpaid care a week,2345
+E08000021,Newcastle upon Tyne,5,Provides 35 to 49 hours unpaid care a week,3129
+E08000021,Newcastle upon Tyne,6,Provides 50 or more hours unpaid care a week,7667
+E08000022,North Tyneside,-8,Does not apply,10991
+E08000022,North Tyneside,1,Provides no unpaid care,178292
+E08000022,North Tyneside,2,Provides 9 hours or less unpaid care a week,6642
+E08000022,North Tyneside,3,Provides 10 to 19 hours unpaid care a week,2763
+E08000022,North Tyneside,4,Provides 20 to 34 hours unpaid care a week,1869
+E08000022,North Tyneside,5,Provides 35 to 49 hours unpaid care a week,2239
+E08000022,North Tyneside,6,Provides 50 or more hours unpaid care a week,6171
+E08000023,South Tyneside,-8,Does not apply,7823
+E08000023,South Tyneside,1,Provides no unpaid care,125073
+E08000023,South Tyneside,2,Provides 9 hours or less unpaid care a week,4218
+E08000023,South Tyneside,3,Provides 10 to 19 hours unpaid care a week,2101
+E08000023,South Tyneside,4,Provides 20 to 34 hours unpaid care a week,1502
+E08000023,South Tyneside,5,Provides 35 to 49 hours unpaid care a week,2012
+E08000023,South Tyneside,6,Provides 50 or more hours unpaid care a week,5049
+E08000024,Sunderland,-8,Does not apply,13849
+E08000024,Sunderland,1,Provides no unpaid care,231105
+E08000024,Sunderland,2,Provides 9 hours or less unpaid care a week,7865
+E08000024,Sunderland,3,Provides 10 to 19 hours unpaid care a week,3853
+E08000024,Sunderland,4,Provides 20 to 34 hours unpaid care a week,3024
+E08000024,Sunderland,5,Provides 35 to 49 hours unpaid care a week,4079
+E08000024,Sunderland,6,Provides 50 or more hours unpaid care a week,10396
+E08000025,Birmingham,-8,Does not apply,75023
+E08000025,Birmingham,1,Provides no unpaid care,978451
+E08000025,Birmingham,2,Provides 9 hours or less unpaid care a week,26055
+E08000025,Birmingham,3,Provides 10 to 19 hours unpaid care a week,12433
+E08000025,Birmingham,4,Provides 20 to 34 hours unpaid care a week,10323
+E08000025,Birmingham,5,Provides 35 to 49 hours unpaid care a week,13153
+E08000025,Birmingham,6,Provides 50 or more hours unpaid care a week,29481
+E08000026,Coventry,-8,Does not apply,20442
+E08000026,Coventry,1,Provides no unpaid care,297491
+E08000026,Coventry,2,Provides 9 hours or less unpaid care a week,8958
+E08000026,Coventry,3,Provides 10 to 19 hours unpaid care a week,3880
+E08000026,Coventry,4,Provides 20 to 34 hours unpaid care a week,2843
+E08000026,Coventry,5,Provides 35 to 49 hours unpaid care a week,3319
+E08000026,Coventry,6,Provides 50 or more hours unpaid care a week,8391
+E08000027,Dudley,-8,Does not apply,18176
+E08000027,Dudley,1,Provides no unpaid care,273796
+E08000027,Dudley,2,Provides 9 hours or less unpaid care a week,10524
+E08000027,Dudley,3,Provides 10 to 19 hours unpaid care a week,4483
+E08000027,Dudley,4,Provides 20 to 34 hours unpaid care a week,3091
+E08000027,Dudley,5,Provides 35 to 49 hours unpaid care a week,3643
+E08000027,Dudley,6,Provides 50 or more hours unpaid care a week,9775
+E08000028,Sandwell,-8,Does not apply,22176
+E08000028,Sandwell,1,Provides no unpaid care,290063
+E08000028,Sandwell,2,Provides 9 hours or less unpaid care a week,7619
+E08000028,Sandwell,3,Provides 10 to 19 hours unpaid care a week,4091
+E08000028,Sandwell,4,Provides 20 to 34 hours unpaid care a week,3332
+E08000028,Sandwell,5,Provides 35 to 49 hours unpaid care a week,4448
+E08000028,Sandwell,6,Provides 50 or more hours unpaid care a week,10103
+E08000029,Solihull,-8,Does not apply,11693
+E08000029,Solihull,1,Provides no unpaid care,184606
+E08000029,Solihull,2,Provides 9 hours or less unpaid care a week,7290
+E08000029,Solihull,3,Provides 10 to 19 hours unpaid care a week,2761
+E08000029,Solihull,4,Provides 20 to 34 hours unpaid care a week,1859
+E08000029,Solihull,5,Provides 35 to 49 hours unpaid care a week,2067
+E08000029,Solihull,6,Provides 50 or more hours unpaid care a week,5963
+E08000030,Walsall,-8,Does not apply,18193
+E08000030,Walsall,1,Provides no unpaid care,239516
+E08000030,Walsall,2,Provides 9 hours or less unpaid care a week,7307
+E08000030,Walsall,3,Provides 10 to 19 hours unpaid care a week,3422
+E08000030,Walsall,4,Provides 20 to 34 hours unpaid care a week,2860
+E08000030,Walsall,5,Provides 35 to 49 hours unpaid care a week,3653
+E08000030,Walsall,6,Provides 50 or more hours unpaid care a week,9173
+E08000031,Wolverhampton,-8,Does not apply,16325
+E08000031,Wolverhampton,1,Provides no unpaid care,224549
+E08000031,Wolverhampton,2,Provides 9 hours or less unpaid care a week,6550
+E08000031,Wolverhampton,3,Provides 10 to 19 hours unpaid care a week,3098
+E08000031,Wolverhampton,4,Provides 20 to 34 hours unpaid care a week,2535
+E08000031,Wolverhampton,5,Provides 35 to 49 hours unpaid care a week,3156
+E08000031,Wolverhampton,6,Provides 50 or more hours unpaid care a week,7513
+E08000032,Bradford,-8,Does not apply,36096
+E08000032,Bradford,1,Provides no unpaid care,464672
+E08000032,Bradford,2,Provides 9 hours or less unpaid care a week,13738
+E08000032,Bradford,3,Provides 10 to 19 hours unpaid care a week,6139
+E08000032,Bradford,4,Provides 20 to 34 hours unpaid care a week,5151
+E08000032,Bradford,5,Provides 35 to 49 hours unpaid care a week,6416
+E08000032,Bradford,6,Provides 50 or more hours unpaid care a week,14199
+E08000033,Calderdale,-8,Does not apply,11317
+E08000033,Calderdale,1,Provides no unpaid care,177337
+E08000033,Calderdale,2,Provides 9 hours or less unpaid care a week,6740
+E08000033,Calderdale,3,Provides 10 to 19 hours unpaid care a week,2453
+E08000033,Calderdale,4,Provides 20 to 34 hours unpaid care a week,1730
+E08000033,Calderdale,5,Provides 35 to 49 hours unpaid care a week,2070
+E08000033,Calderdale,6,Provides 50 or more hours unpaid care a week,4984
+E08000034,Kirklees,-8,Does not apply,25144
+E08000034,Kirklees,1,Provides no unpaid care,371038
+E08000034,Kirklees,2,Provides 9 hours or less unpaid care a week,13352
+E08000034,Kirklees,3,Provides 10 to 19 hours unpaid care a week,5165
+E08000034,Kirklees,4,Provides 20 to 34 hours unpaid care a week,3588
+E08000034,Kirklees,5,Provides 35 to 49 hours unpaid care a week,4220
+E08000034,Kirklees,6,Provides 50 or more hours unpaid care a week,10709
+E08000035,Leeds,-8,Does not apply,46800
+E08000035,Leeds,1,Provides no unpaid care,703663
+E08000035,Leeds,2,Provides 9 hours or less unpaid care a week,22532
+E08000035,Leeds,3,Provides 10 to 19 hours unpaid care a week,8319
+E08000035,Leeds,4,Provides 20 to 34 hours unpaid care a week,5965
+E08000035,Leeds,5,Provides 35 to 49 hours unpaid care a week,6690
+E08000035,Leeds,6,Provides 50 or more hours unpaid care a week,17984
+E08000036,Wakefield,-8,Does not apply,20074
+E08000036,Wakefield,1,Provides no unpaid care,301565
+E08000036,Wakefield,2,Provides 9 hours or less unpaid care a week,9731
+E08000036,Wakefield,3,Provides 10 to 19 hours unpaid care a week,4137
+E08000036,Wakefield,4,Provides 20 to 34 hours unpaid care a week,3085
+E08000036,Wakefield,5,Provides 35 to 49 hours unpaid care a week,3917
+E08000036,Wakefield,6,Provides 50 or more hours unpaid care a week,10861
+E08000037,Gateshead,-8,Does not apply,10053
+E08000037,Gateshead,1,Provides no unpaid care,167297
+E08000037,Gateshead,2,Provides 9 hours or less unpaid care a week,5722
+E08000037,Gateshead,3,Provides 10 to 19 hours unpaid care a week,2532
+E08000037,Gateshead,4,Provides 20 to 34 hours unpaid care a week,1925
+E08000037,Gateshead,5,Provides 35 to 49 hours unpaid care a week,2410
+E08000037,Gateshead,6,Provides 50 or more hours unpaid care a week,6213
+E09000001,City of London,-8,Does not apply,213
+E09000001,City of London,1,Provides no unpaid care,7876
+E09000001,City of London,2,Provides 9 hours or less unpaid care a week,263
+E09000001,City of London,3,Provides 10 to 19 hours unpaid care a week,73
+E09000001,City of London,4,Provides 20 to 34 hours unpaid care a week,42
+E09000001,City of London,5,Provides 35 to 49 hours unpaid care a week,39
+E09000001,City of London,6,Provides 50 or more hours unpaid care a week,79
+E09000002,Barking and Dagenham,-8,Does not apply,17251
+E09000002,Barking and Dagenham,1,Provides no unpaid care,187395
+E09000002,Barking and Dagenham,2,Provides 9 hours or less unpaid care a week,3533
+E09000002,Barking and Dagenham,3,Provides 10 to 19 hours unpaid care a week,1983
+E09000002,Barking and Dagenham,4,Provides 20 to 34 hours unpaid care a week,1827
+E09000002,Barking and Dagenham,5,Provides 35 to 49 hours unpaid care a week,2162
+E09000002,Barking and Dagenham,6,Provides 50 or more hours unpaid care a week,4719
+E09000003,Barnet,-8,Does not apply,24106
+E09000003,Barnet,1,Provides no unpaid care,336430
+E09000003,Barnet,2,Provides 9 hours or less unpaid care a week,11236
+E09000003,Barnet,3,Provides 10 to 19 hours unpaid care a week,4276
+E09000003,Barnet,4,Provides 20 to 34 hours unpaid care a week,2860
+E09000003,Barnet,5,Provides 35 to 49 hours unpaid care a week,3108
+E09000003,Barnet,6,Provides 50 or more hours unpaid care a week,7328
+E09000004,Bexley,-8,Does not apply,15031
+E09000004,Bexley,1,Provides no unpaid care,212158
+E09000004,Bexley,2,Provides 9 hours or less unpaid care a week,6775
+E09000004,Bexley,3,Provides 10 to 19 hours unpaid care a week,2711
+E09000004,Bexley,4,Provides 20 to 34 hours unpaid care a week,1870
+E09000004,Bexley,5,Provides 35 to 49 hours unpaid care a week,2156
+E09000004,Bexley,6,Provides 50 or more hours unpaid care a week,5772
+E09000005,Brent,-8,Does not apply,19970
+E09000005,Brent,1,Provides no unpaid care,297010
+E09000005,Brent,2,Provides 9 hours or less unpaid care a week,6967
+E09000005,Brent,3,Provides 10 to 19 hours unpaid care a week,3467
+E09000005,Brent,4,Provides 20 to 34 hours unpaid care a week,2843
+E09000005,Brent,5,Provides 35 to 49 hours unpaid care a week,3181
+E09000005,Brent,6,Provides 50 or more hours unpaid care a week,6378
+E09000006,Bromley,-8,Does not apply,19491
+E09000006,Bromley,1,Provides no unpaid care,285138
+E09000006,Bromley,2,Provides 9 hours or less unpaid care a week,10585
+E09000006,Bromley,3,Provides 10 to 19 hours unpaid care a week,3461
+E09000006,Bromley,4,Provides 20 to 34 hours unpaid care a week,2271
+E09000006,Bromley,5,Provides 35 to 49 hours unpaid care a week,2400
+E09000006,Bromley,6,Provides 50 or more hours unpaid care a week,6645
+E09000007,Camden,-8,Does not apply,10032
+E09000007,Camden,1,Provides no unpaid care,185499
+E09000007,Camden,2,Provides 9 hours or less unpaid care a week,5791
+E09000007,Camden,3,Provides 10 to 19 hours unpaid care a week,2062
+E09000007,Camden,4,Provides 20 to 34 hours unpaid care a week,1551
+E09000007,Camden,5,Provides 35 to 49 hours unpaid care a week,1641
+E09000007,Camden,6,Provides 50 or more hours unpaid care a week,3560
+E09000008,Croydon,-8,Does not apply,25171
+E09000008,Croydon,1,Provides no unpaid care,336717
+E09000008,Croydon,2,Provides 9 hours or less unpaid care a week,10251
+E09000008,Croydon,3,Provides 10 to 19 hours unpaid care a week,4115
+E09000008,Croydon,4,Provides 20 to 34 hours unpaid care a week,3143
+E09000008,Croydon,5,Provides 35 to 49 hours unpaid care a week,3487
+E09000008,Croydon,6,Provides 50 or more hours unpaid care a week,7835
+E09000009,Ealing,-8,Does not apply,21515
+E09000009,Ealing,1,Provides no unpaid care,321291
+E09000009,Ealing,2,Provides 9 hours or less unpaid care a week,8062
+E09000009,Ealing,3,Provides 10 to 19 hours unpaid care a week,3655
+E09000009,Ealing,4,Provides 20 to 34 hours unpaid care a week,2854
+E09000009,Ealing,5,Provides 35 to 49 hours unpaid care a week,3182
+E09000009,Ealing,6,Provides 50 or more hours unpaid care a week,6556
+E09000010,Enfield,-8,Does not apply,21259
+E09000010,Enfield,1,Provides no unpaid care,284114
+E09000010,Enfield,2,Provides 9 hours or less unpaid care a week,7895
+E09000010,Enfield,3,Provides 10 to 19 hours unpaid care a week,3628
+E09000010,Enfield,4,Provides 20 to 34 hours unpaid care a week,2775
+E09000010,Enfield,5,Provides 35 to 49 hours unpaid care a week,3206
+E09000010,Enfield,6,Provides 50 or more hours unpaid care a week,7107
+E09000011,Greenwich,-8,Does not apply,19027
+E09000011,Greenwich,1,Provides no unpaid care,250651
+E09000011,Greenwich,2,Provides 9 hours or less unpaid care a week,6285
+E09000011,Greenwich,3,Provides 10 to 19 hours unpaid care a week,2559
+E09000011,Greenwich,4,Provides 20 to 34 hours unpaid care a week,2155
+E09000011,Greenwich,5,Provides 35 to 49 hours unpaid care a week,2481
+E09000011,Greenwich,6,Provides 50 or more hours unpaid care a week,5911
+E09000012,Hackney,-8,Does not apply,16135
+E09000012,Hackney,1,Provides no unpaid care,226689
+E09000012,Hackney,2,Provides 9 hours or less unpaid care a week,5574
+E09000012,Hackney,3,Provides 10 to 19 hours unpaid care a week,2189
+E09000012,Hackney,4,Provides 20 to 34 hours unpaid care a week,1875
+E09000012,Hackney,5,Provides 35 to 49 hours unpaid care a week,2277
+E09000012,Hackney,6,Provides 50 or more hours unpaid care a week,4407
+E09000013,Hammersmith and Fulham,-8,Does not apply,9075
+E09000013,Hammersmith and Fulham,1,Provides no unpaid care,163347
+E09000013,Hammersmith and Fulham,2,Provides 9 hours or less unpaid care a week,4038
+E09000013,Hammersmith and Fulham,3,Provides 10 to 19 hours unpaid care a week,1483
+E09000013,Hammersmith and Fulham,4,Provides 20 to 34 hours unpaid care a week,1146
+E09000013,Hammersmith and Fulham,5,Provides 35 to 49 hours unpaid care a week,1334
+E09000013,Hammersmith and Fulham,6,Provides 50 or more hours unpaid care a week,2737
+E09000014,Haringey,-8,Does not apply,14932
+E09000014,Haringey,1,Provides no unpaid care,232415
+E09000014,Haringey,2,Provides 9 hours or less unpaid care a week,6056
+E09000014,Haringey,3,Provides 10 to 19 hours unpaid care a week,2410
+E09000014,Haringey,4,Provides 20 to 34 hours unpaid care a week,1848
+E09000014,Haringey,5,Provides 35 to 49 hours unpaid care a week,2208
+E09000014,Haringey,6,Provides 50 or more hours unpaid care a week,4369
+E09000015,Harrow,-8,Does not apply,15699
+E09000015,Harrow,1,Provides no unpaid care,225468
+E09000015,Harrow,2,Provides 9 hours or less unpaid care a week,7119
+E09000015,Harrow,3,Provides 10 to 19 hours unpaid care a week,3106
+E09000015,Harrow,4,Provides 20 to 34 hours unpaid care a week,2258
+E09000015,Harrow,5,Provides 35 to 49 hours unpaid care a week,2277
+E09000015,Harrow,6,Provides 50 or more hours unpaid care a week,5275
+E09000016,Havering,-8,Does not apply,16491
+E09000016,Havering,1,Provides no unpaid care,224924
+E09000016,Havering,2,Provides 9 hours or less unpaid care a week,7297
+E09000016,Havering,3,Provides 10 to 19 hours unpaid care a week,2864
+E09000016,Havering,4,Provides 20 to 34 hours unpaid care a week,2003
+E09000016,Havering,5,Provides 35 to 49 hours unpaid care a week,2179
+E09000016,Havering,6,Provides 50 or more hours unpaid care a week,6294
+E09000017,Hillingdon,-8,Does not apply,19881
+E09000017,Hillingdon,1,Provides no unpaid care,263565
+E09000017,Hillingdon,2,Provides 9 hours or less unpaid care a week,7878
+E09000017,Hillingdon,3,Provides 10 to 19 hours unpaid care a week,3131
+E09000017,Hillingdon,4,Provides 20 to 34 hours unpaid care a week,2349
+E09000017,Hillingdon,5,Provides 35 to 49 hours unpaid care a week,2656
+E09000017,Hillingdon,6,Provides 50 or more hours unpaid care a week,6449
+E09000018,Hounslow,-8,Does not apply,18221
+E09000018,Hounslow,1,Provides no unpaid care,250557
+E09000018,Hounslow,2,Provides 9 hours or less unpaid care a week,6107
+E09000018,Hounslow,3,Provides 10 to 19 hours unpaid care a week,2803
+E09000018,Hounslow,4,Provides 20 to 34 hours unpaid care a week,2354
+E09000018,Hounslow,5,Provides 35 to 49 hours unpaid care a week,2544
+E09000018,Hounslow,6,Provides 50 or more hours unpaid care a week,5595
+E09000019,Islington,-8,Does not apply,11211
+E09000019,Islington,1,Provides no unpaid care,190537
+E09000019,Islington,2,Provides 9 hours or less unpaid care a week,5465
+E09000019,Islington,3,Provides 10 to 19 hours unpaid care a week,2000
+E09000019,Islington,4,Provides 20 to 34 hours unpaid care a week,1597
+E09000019,Islington,5,Provides 35 to 49 hours unpaid care a week,1846
+E09000019,Islington,6,Provides 50 or more hours unpaid care a week,3932
+E09000020,Kensington and Chelsea,-8,Does not apply,6171
+E09000020,Kensington and Chelsea,1,Provides no unpaid care,127865
+E09000020,Kensington and Chelsea,2,Provides 9 hours or less unpaid care a week,3705
+E09000020,Kensington and Chelsea,3,Provides 10 to 19 hours unpaid care a week,1272
+E09000020,Kensington and Chelsea,4,Provides 20 to 34 hours unpaid care a week,1022
+E09000020,Kensington and Chelsea,5,Provides 35 to 49 hours unpaid care a week,1024
+E09000020,Kensington and Chelsea,6,Provides 50 or more hours unpaid care a week,2316
+E09000021,Kingston upon Thames,-8,Does not apply,9559
+E09000021,Kingston upon Thames,1,Provides no unpaid care,146993
+E09000021,Kingston upon Thames,2,Provides 9 hours or less unpaid care a week,4828
+E09000021,Kingston upon Thames,3,Provides 10 to 19 hours unpaid care a week,1544
+E09000021,Kingston upon Thames,4,Provides 20 to 34 hours unpaid care a week,1113
+E09000021,Kingston upon Thames,5,Provides 35 to 49 hours unpaid care a week,1136
+E09000021,Kingston upon Thames,6,Provides 50 or more hours unpaid care a week,2890
+E09000022,Lambeth,-8,Does not apply,15265
+E09000022,Lambeth,1,Provides no unpaid care,283550
+E09000022,Lambeth,2,Provides 9 hours or less unpaid care a week,7343
+E09000022,Lambeth,3,Provides 10 to 19 hours unpaid care a week,2604
+E09000022,Lambeth,4,Provides 20 to 34 hours unpaid care a week,2036
+E09000022,Lambeth,5,Provides 35 to 49 hours unpaid care a week,2388
+E09000022,Lambeth,6,Provides 50 or more hours unpaid care a week,4468
+E09000023,Lewisham,-8,Does not apply,19127
+E09000023,Lewisham,1,Provides no unpaid care,261469
+E09000023,Lewisham,2,Provides 9 hours or less unpaid care a week,7311
+E09000023,Lewisham,3,Provides 10 to 19 hours unpaid care a week,2756
+E09000023,Lewisham,4,Provides 20 to 34 hours unpaid care a week,2143
+E09000023,Lewisham,5,Provides 35 to 49 hours unpaid care a week,2614
+E09000023,Lewisham,6,Provides 50 or more hours unpaid care a week,5133
+E09000024,Merton,-8,Does not apply,13532
+E09000024,Merton,1,Provides no unpaid care,187762
+E09000024,Merton,2,Provides 9 hours or less unpaid care a week,5171
+E09000024,Merton,3,Provides 10 to 19 hours unpaid care a week,1985
+E09000024,Merton,4,Provides 20 to 34 hours unpaid care a week,1443
+E09000024,Merton,5,Provides 35 to 49 hours unpaid care a week,1544
+E09000024,Merton,6,Provides 50 or more hours unpaid care a week,3750
+E09000025,Newham,-8,Does not apply,23854
+E09000025,Newham,1,Provides no unpaid care,305626
+E09000025,Newham,2,Provides 9 hours or less unpaid care a week,5582
+E09000025,Newham,3,Provides 10 to 19 hours unpaid care a week,3072
+E09000025,Newham,4,Provides 20 to 34 hours unpaid care a week,2795
+E09000025,Newham,5,Provides 35 to 49 hours unpaid care a week,3527
+E09000025,Newham,6,Provides 50 or more hours unpaid care a week,6580
+E09000026,Redbridge,-8,Does not apply,21194
+E09000026,Redbridge,1,Provides no unpaid care,267671
+E09000026,Redbridge,2,Provides 9 hours or less unpaid care a week,7123
+E09000026,Redbridge,3,Provides 10 to 19 hours unpaid care a week,3316
+E09000026,Redbridge,4,Provides 20 to 34 hours unpaid care a week,2581
+E09000026,Redbridge,5,Provides 35 to 49 hours unpaid care a week,2522
+E09000026,Redbridge,6,Provides 50 or more hours unpaid care a week,5853
+E09000027,Richmond upon Thames,-8,Does not apply,11103
+E09000027,Richmond upon Thames,1,Provides no unpaid care,171029
+E09000027,Richmond upon Thames,2,Provides 9 hours or less unpaid care a week,6250
+E09000027,Richmond upon Thames,3,Provides 10 to 19 hours unpaid care a week,1812
+E09000027,Richmond upon Thames,4,Provides 20 to 34 hours unpaid care a week,970
+E09000027,Richmond upon Thames,5,Provides 35 to 49 hours unpaid care a week,1115
+E09000027,Richmond upon Thames,6,Provides 50 or more hours unpaid care a week,2999
+E09000028,Southwark,-8,Does not apply,16362
+E09000028,Southwark,1,Provides no unpaid care,272453
+E09000028,Southwark,2,Provides 9 hours or less unpaid care a week,6848
+E09000028,Southwark,3,Provides 10 to 19 hours unpaid care a week,2442
+E09000028,Southwark,4,Provides 20 to 34 hours unpaid care a week,2094
+E09000028,Southwark,5,Provides 35 to 49 hours unpaid care a week,2495
+E09000028,Southwark,6,Provides 50 or more hours unpaid care a week,4943
+E09000029,Sutton,-8,Does not apply,12796
+E09000029,Sutton,1,Provides no unpaid care,180970
+E09000029,Sutton,2,Provides 9 hours or less unpaid care a week,6019
+E09000029,Sutton,3,Provides 10 to 19 hours unpaid care a week,2224
+E09000029,Sutton,4,Provides 20 to 34 hours unpaid care a week,1514
+E09000029,Sutton,5,Provides 35 to 49 hours unpaid care a week,1669
+E09000029,Sutton,6,Provides 50 or more hours unpaid care a week,4447
+E09000030,Tower Hamlets,-8,Does not apply,19090
+E09000030,Tower Hamlets,1,Provides no unpaid care,272665
+E09000030,Tower Hamlets,2,Provides 9 hours or less unpaid care a week,5478
+E09000030,Tower Hamlets,3,Provides 10 to 19 hours unpaid care a week,2612
+E09000030,Tower Hamlets,4,Provides 20 to 34 hours unpaid care a week,2279
+E09000030,Tower Hamlets,5,Provides 35 to 49 hours unpaid care a week,2883
+E09000030,Tower Hamlets,6,Provides 50 or more hours unpaid care a week,5299
+E09000031,Waltham Forest,-8,Does not apply,18985
+E09000031,Waltham Forest,1,Provides no unpaid care,241160
+E09000031,Waltham Forest,2,Provides 9 hours or less unpaid care a week,6214
+E09000031,Waltham Forest,3,Provides 10 to 19 hours unpaid care a week,2588
+E09000031,Waltham Forest,4,Provides 20 to 34 hours unpaid care a week,2119
+E09000031,Waltham Forest,5,Provides 35 to 49 hours unpaid care a week,2311
+E09000031,Waltham Forest,6,Provides 50 or more hours unpaid care a week,5049
+E09000032,Wandsworth,-8,Does not apply,18704
+E09000032,Wandsworth,1,Provides no unpaid care,291097
+E09000032,Wandsworth,2,Provides 9 hours or less unpaid care a week,7163
+E09000032,Wandsworth,3,Provides 10 to 19 hours unpaid care a week,2404
+E09000032,Wandsworth,4,Provides 20 to 34 hours unpaid care a week,1780
+E09000032,Wandsworth,5,Provides 35 to 49 hours unpaid care a week,2103
+E09000032,Wandsworth,6,Provides 50 or more hours unpaid care a week,4255
+E09000033,Westminster,-8,Does not apply,8502
+E09000033,Westminster,1,Provides no unpaid care,182218
+E09000033,Westminster,2,Provides 9 hours or less unpaid care a week,4817
+E09000033,Westminster,3,Provides 10 to 19 hours unpaid care a week,1868
+E09000033,Westminster,4,Provides 20 to 34 hours unpaid care a week,1469
+E09000033,Westminster,5,Provides 35 to 49 hours unpaid care a week,1848
+E09000033,Westminster,6,Provides 50 or more hours unpaid care a week,3514
+W06000001,Isle of Anglesey,-8,Does not apply,3211
+W06000001,Isle of Anglesey,1,Provides no unpaid care,58921
+W06000001,Isle of Anglesey,2,Provides 9 hours or less unpaid care a week,2118
+W06000001,Isle of Anglesey,3,Provides 10 to 19 hours unpaid care a week,907
+W06000001,Isle of Anglesey,4,Provides 20 to 34 hours unpaid care a week,656
+W06000001,Isle of Anglesey,5,Provides 35 to 49 hours unpaid care a week,717
+W06000001,Isle of Anglesey,6,Provides 50 or more hours unpaid care a week,2348
+W06000002,Gwynedd,-8,Does not apply,5348
+W06000002,Gwynedd,1,Provides no unpaid care,102054
+W06000002,Gwynedd,2,Provides 9 hours or less unpaid care a week,3265
+W06000002,Gwynedd,3,Provides 10 to 19 hours unpaid care a week,1297
+W06000002,Gwynedd,4,Provides 20 to 34 hours unpaid care a week,902
+W06000002,Gwynedd,5,Provides 35 to 49 hours unpaid care a week,1010
+W06000002,Gwynedd,6,Provides 50 or more hours unpaid care a week,3514
+W06000003,Conwy,-8,Does not apply,5030
+W06000003,Conwy,1,Provides no unpaid care,98071
+W06000003,Conwy,2,Provides 9 hours or less unpaid care a week,3627
+W06000003,Conwy,3,Provides 10 to 19 hours unpaid care a week,1533
+W06000003,Conwy,4,Provides 20 to 34 hours unpaid care a week,1090
+W06000003,Conwy,5,Provides 35 to 49 hours unpaid care a week,1194
+W06000003,Conwy,6,Provides 50 or more hours unpaid care a week,4196
+W06000004,Denbighshire,-8,Does not apply,4769
+W06000004,Denbighshire,1,Provides no unpaid care,80879
+W06000004,Denbighshire,2,Provides 9 hours or less unpaid care a week,2887
+W06000004,Denbighshire,3,Provides 10 to 19 hours unpaid care a week,1366
+W06000004,Denbighshire,4,Provides 20 to 34 hours unpaid care a week,1028
+W06000004,Denbighshire,5,Provides 35 to 49 hours unpaid care a week,1162
+W06000004,Denbighshire,6,Provides 50 or more hours unpaid care a week,3726
+W06000005,Flintshire,-8,Does not apply,7626
+W06000005,Flintshire,1,Provides no unpaid care,132074
+W06000005,Flintshire,2,Provides 9 hours or less unpaid care a week,5172
+W06000005,Flintshire,3,Provides 10 to 19 hours unpaid care a week,2156
+W06000005,Flintshire,4,Provides 20 to 34 hours unpaid care a week,1453
+W06000005,Flintshire,5,Provides 35 to 49 hours unpaid care a week,1605
+W06000005,Flintshire,6,Provides 50 or more hours unpaid care a week,4876
+W06000006,Wrexham,-8,Does not apply,6998
+W06000006,Wrexham,1,Provides no unpaid care,115261
+W06000006,Wrexham,2,Provides 9 hours or less unpaid care a week,3994
+W06000006,Wrexham,3,Provides 10 to 19 hours unpaid care a week,1752
+W06000006,Wrexham,4,Provides 20 to 34 hours unpaid care a week,1253
+W06000006,Wrexham,5,Provides 35 to 49 hours unpaid care a week,1519
+W06000006,Wrexham,6,Provides 50 or more hours unpaid care a week,4340
+W06000008,Ceredigion,-8,Does not apply,2709
+W06000008,Ceredigion,1,Provides no unpaid care,61520
+W06000008,Ceredigion,2,Provides 9 hours or less unpaid care a week,2581
+W06000008,Ceredigion,3,Provides 10 to 19 hours unpaid care a week,1001
+W06000008,Ceredigion,4,Provides 20 to 34 hours unpaid care a week,687
+W06000008,Ceredigion,5,Provides 35 to 49 hours unpaid care a week,639
+W06000008,Ceredigion,6,Provides 50 or more hours unpaid care a week,2338
+W06000009,Pembrokeshire,-8,Does not apply,5583
+W06000009,Pembrokeshire,1,Provides no unpaid care,104887
+W06000009,Pembrokeshire,2,Provides 9 hours or less unpaid care a week,4115
+W06000009,Pembrokeshire,3,Provides 10 to 19 hours unpaid care a week,1713
+W06000009,Pembrokeshire,4,Provides 20 to 34 hours unpaid care a week,1243
+W06000009,Pembrokeshire,5,Provides 35 to 49 hours unpaid care a week,1450
+W06000009,Pembrokeshire,6,Provides 50 or more hours unpaid care a week,4369
+W06000010,Carmarthenshire,-8,Does not apply,9057
+W06000010,Carmarthenshire,1,Provides no unpaid care,158454
+W06000010,Carmarthenshire,2,Provides 9 hours or less unpaid care a week,6006
+W06000010,Carmarthenshire,3,Provides 10 to 19 hours unpaid care a week,2772
+W06000010,Carmarthenshire,4,Provides 20 to 34 hours unpaid care a week,2073
+W06000010,Carmarthenshire,5,Provides 35 to 49 hours unpaid care a week,2158
+W06000010,Carmarthenshire,6,Provides 50 or more hours unpaid care a week,7377
+W06000011,Swansea,-8,Does not apply,11427
+W06000011,Swansea,1,Provides no unpaid care,202355
+W06000011,Swansea,2,Provides 9 hours or less unpaid care a week,7526
+W06000011,Swansea,3,Provides 10 to 19 hours unpaid care a week,3555
+W06000011,Swansea,4,Provides 20 to 34 hours unpaid care a week,2460
+W06000011,Swansea,5,Provides 35 to 49 hours unpaid care a week,2650
+W06000011,Swansea,6,Provides 50 or more hours unpaid care a week,8515
+W06000012,Neath Port Talbot,-8,Does not apply,7045
+W06000012,Neath Port Talbot,1,Provides no unpaid care,118688
+W06000012,Neath Port Talbot,2,Provides 9 hours or less unpaid care a week,4184
+W06000012,Neath Port Talbot,3,Provides 10 to 19 hours unpaid care a week,2267
+W06000012,Neath Port Talbot,4,Provides 20 to 34 hours unpaid care a week,1792
+W06000012,Neath Port Talbot,5,Provides 35 to 49 hours unpaid care a week,2105
+W06000012,Neath Port Talbot,6,Provides 50 or more hours unpaid care a week,6208
+W06000013,Bridgend,-8,Does not apply,7343
+W06000013,Bridgend,1,Provides no unpaid care,122836
+W06000013,Bridgend,2,Provides 9 hours or less unpaid care a week,4314
+W06000013,Bridgend,3,Provides 10 to 19 hours unpaid care a week,2046
+W06000013,Bridgend,4,Provides 20 to 34 hours unpaid care a week,1549
+W06000013,Bridgend,5,Provides 35 to 49 hours unpaid care a week,1827
+W06000013,Bridgend,6,Provides 50 or more hours unpaid care a week,5573
+W06000014,Vale of Glamorgan,-8,Does not apply,6851
+W06000014,Vale of Glamorgan,1,Provides no unpaid care,112165
+W06000014,Vale of Glamorgan,2,Provides 9 hours or less unpaid care a week,4695
+W06000014,Vale of Glamorgan,3,Provides 10 to 19 hours unpaid care a week,1778
+W06000014,Vale of Glamorgan,4,Provides 20 to 34 hours unpaid care a week,1244
+W06000014,Vale of Glamorgan,5,Provides 35 to 49 hours unpaid care a week,1201
+W06000014,Vale of Glamorgan,6,Provides 50 or more hours unpaid care a week,4005
+W06000015,Cardiff,-8,Does not apply,19069
+W06000015,Cardiff,1,Provides no unpaid care,314251
+W06000015,Cardiff,2,Provides 9 hours or less unpaid care a week,10140
+W06000015,Cardiff,3,Provides 10 to 19 hours unpaid care a week,4046
+W06000015,Cardiff,4,Provides 20 to 34 hours unpaid care a week,2996
+W06000015,Cardiff,5,Provides 35 to 49 hours unpaid care a week,3164
+W06000015,Cardiff,6,Provides 50 or more hours unpaid care a week,8641
+W06000016,Rhondda Cynon Taf,-8,Does not apply,12531
+W06000016,Rhondda Cynon Taf,1,Provides no unpaid care,200129
+W06000016,Rhondda Cynon Taf,2,Provides 9 hours or less unpaid care a week,6635
+W06000016,Rhondda Cynon Taf,3,Provides 10 to 19 hours unpaid care a week,3481
+W06000016,Rhondda Cynon Taf,4,Provides 20 to 34 hours unpaid care a week,2515
+W06000016,Rhondda Cynon Taf,5,Provides 35 to 49 hours unpaid care a week,3041
+W06000016,Rhondda Cynon Taf,6,Provides 50 or more hours unpaid care a week,9318
+W06000018,Caerphilly,-8,Does not apply,9216
+W06000018,Caerphilly,1,Provides no unpaid care,147666
+W06000018,Caerphilly,2,Provides 9 hours or less unpaid care a week,5040
+W06000018,Caerphilly,3,Provides 10 to 19 hours unpaid care a week,2543
+W06000018,Caerphilly,4,Provides 20 to 34 hours unpaid care a week,1967
+W06000018,Caerphilly,5,Provides 35 to 49 hours unpaid care a week,2372
+W06000018,Caerphilly,6,Provides 50 or more hours unpaid care a week,7146
+W06000019,Blaenau Gwent,-8,Does not apply,3543
+W06000019,Blaenau Gwent,1,Provides no unpaid care,56125
+W06000019,Blaenau Gwent,2,Provides 9 hours or less unpaid care a week,1714
+W06000019,Blaenau Gwent,3,Provides 10 to 19 hours unpaid care a week,982
+W06000019,Blaenau Gwent,4,Provides 20 to 34 hours unpaid care a week,776
+W06000019,Blaenau Gwent,5,Provides 35 to 49 hours unpaid care a week,977
+W06000019,Blaenau Gwent,6,Provides 50 or more hours unpaid care a week,2785
+W06000020,Torfaen,-8,Does not apply,5002
+W06000020,Torfaen,1,Provides no unpaid care,77341
+W06000020,Torfaen,2,Provides 9 hours or less unpaid care a week,2859
+W06000020,Torfaen,3,Provides 10 to 19 hours unpaid care a week,1363
+W06000020,Torfaen,4,Provides 20 to 34 hours unpaid care a week,1011
+W06000020,Torfaen,5,Provides 35 to 49 hours unpaid care a week,1186
+W06000020,Torfaen,6,Provides 50 or more hours unpaid care a week,3514
+W06000021,Monmouthshire,-8,Does not apply,3962
+W06000021,Monmouthshire,1,Provides no unpaid care,79794
+W06000021,Monmouthshire,2,Provides 9 hours or less unpaid care a week,3647
+W06000021,Monmouthshire,3,Provides 10 to 19 hours unpaid care a week,1305
+W06000021,Monmouthshire,4,Provides 20 to 34 hours unpaid care a week,837
+W06000021,Monmouthshire,5,Provides 35 to 49 hours unpaid care a week,772
+W06000021,Monmouthshire,6,Provides 50 or more hours unpaid care a week,2640
+W06000022,Newport,-8,Does not apply,9733
+W06000022,Newport,1,Provides no unpaid care,134884
+W06000022,Newport,2,Provides 9 hours or less unpaid care a week,4618
+W06000022,Newport,3,Provides 10 to 19 hours unpaid care a week,2056
+W06000022,Newport,4,Provides 20 to 34 hours unpaid care a week,1595
+W06000022,Newport,5,Provides 35 to 49 hours unpaid care a week,1785
+W06000022,Newport,6,Provides 50 or more hours unpaid care a week,4921
+W06000023,Powys,-8,Does not apply,5731
+W06000023,Powys,1,Provides no unpaid care,113975
+W06000023,Powys,2,Provides 9 hours or less unpaid care a week,4998
+W06000023,Powys,3,Provides 10 to 19 hours unpaid care a week,1939
+W06000023,Powys,4,Provides 20 to 34 hours unpaid care a week,1220
+W06000023,Powys,5,Provides 35 to 49 hours unpaid care a week,1202
+W06000023,Powys,6,Provides 50 or more hours unpaid care a week,4104
+W06000024,Merthyr Tydfil,-8,Does not apply,3301
+W06000024,Merthyr Tydfil,1,Provides no unpaid care,49326
+W06000024,Merthyr Tydfil,2,Provides 9 hours or less unpaid care a week,1423
+W06000024,Merthyr Tydfil,3,Provides 10 to 19 hours unpaid care a week,903
+W06000024,Merthyr Tydfil,4,Provides 20 to 34 hours unpaid care a week,688
+W06000024,Merthyr Tydfil,5,Provides 35 to 49 hours unpaid care a week,823
+W06000024,Merthyr Tydfil,6,Provides 50 or more hours unpaid care a week,2375

@@ -1,0 +1,1656 @@
+Lower Tier Local Authorities Code,Lower Tier Local Authorities,Hours worked (5 categories) Code,Hours worked (5 categories),Observation
+E06000001,Hartlepool,-8,Does not apply,54589
+E06000001,Hartlepool,1,Part-time: 15 hours or less worked,3441
+E06000001,Hartlepool,2,Part-time: 16 to 30 hours worked,8521
+E06000001,Hartlepool,3,Full-time: 31 to 48 hours worked,22207
+E06000001,Hartlepool,4,Full-time: 49 or more hours worked,3580
+E06000002,Middlesbrough,-8,Does not apply,87490
+E06000002,Middlesbrough,1,Part-time: 15 hours or less worked,5683
+E06000002,Middlesbrough,2,Part-time: 16 to 30 hours worked,13341
+E06000002,Middlesbrough,3,Full-time: 31 to 48 hours worked,32556
+E06000002,Middlesbrough,4,Full-time: 49 or more hours worked,4854
+E06000003,Redcar and Cleveland,-8,Does not apply,80910
+E06000003,Redcar and Cleveland,1,Part-time: 15 hours or less worked,5232
+E06000003,Redcar and Cleveland,2,Part-time: 16 to 30 hours worked,12768
+E06000003,Redcar and Cleveland,3,Full-time: 31 to 48 hours worked,31940
+E06000003,Redcar and Cleveland,4,Full-time: 49 or more hours worked,5681
+E06000004,Stockton-on-Tees,-8,Does not apply,110152
+E06000004,Stockton-on-Tees,1,Part-time: 15 hours or less worked,7625
+E06000004,Stockton-on-Tees,2,Part-time: 16 to 30 hours worked,18060
+E06000004,Stockton-on-Tees,3,Full-time: 31 to 48 hours worked,52004
+E06000004,Stockton-on-Tees,4,Full-time: 49 or more hours worked,8754
+E06000005,Darlington,-8,Does not apply,58503
+E06000005,Darlington,1,Part-time: 15 hours or less worked,4185
+E06000005,Darlington,2,Part-time: 16 to 30 hours worked,9823
+E06000005,Darlington,3,Full-time: 31 to 48 hours worked,30500
+E06000005,Darlington,4,Full-time: 49 or more hours worked,4788
+E06000006,Halton,-8,Does not apply,69772
+E06000006,Halton,1,Part-time: 15 hours or less worked,4613
+E06000006,Halton,2,Part-time: 16 to 30 hours worked,11055
+E06000006,Halton,3,Full-time: 31 to 48 hours worked,37863
+E06000006,Halton,4,Full-time: 49 or more hours worked,5175
+E06000007,Warrington,-8,Does not apply,107783
+E06000007,Warrington,1,Part-time: 15 hours or less worked,9162
+E06000007,Warrington,2,Part-time: 16 to 30 hours worked,18826
+E06000007,Warrington,3,Full-time: 31 to 48 hours worked,65546
+E06000007,Warrington,4,Full-time: 49 or more hours worked,9657
+E06000008,Blackburn with Darwen,-8,Does not apply,91181
+E06000008,Blackburn with Darwen,1,Part-time: 15 hours or less worked,5863
+E06000008,Blackburn with Darwen,2,Part-time: 16 to 30 hours worked,14711
+E06000008,Blackburn with Darwen,3,Full-time: 31 to 48 hours worked,38715
+E06000008,Blackburn with Darwen,4,Full-time: 49 or more hours worked,4268
+E06000009,Blackpool,-8,Does not apply,81674
+E06000009,Blackpool,1,Part-time: 15 hours or less worked,6223
+E06000009,Blackpool,2,Part-time: 16 to 30 hours worked,13422
+E06000009,Blackpool,3,Full-time: 31 to 48 hours worked,34638
+E06000009,Blackpool,4,Full-time: 49 or more hours worked,5079
+E06000010,Kingston upon Hull,-8,Does not apply,149222
+E06000010,Kingston upon Hull,1,Part-time: 15 hours or less worked,9459
+E06000010,Kingston upon Hull,2,Part-time: 16 to 30 hours worked,25233
+E06000010,Kingston upon Hull,3,Full-time: 31 to 48 hours worked,73103
+E06000010,Kingston upon Hull,4,Full-time: 49 or more hours worked,9994
+E06000011,East Riding of Yorkshire,-8,Does not apply,186095
+E06000011,East Riding of Yorkshire,1,Part-time: 15 hours or less worked,15938
+E06000011,East Riding of Yorkshire,2,Part-time: 16 to 30 hours worked,32189
+E06000011,East Riding of Yorkshire,3,Full-time: 31 to 48 hours worked,87911
+E06000011,East Riding of Yorkshire,4,Full-time: 49 or more hours worked,20082
+E06000012,North East Lincolnshire,-8,Does not apply,88114
+E06000012,North East Lincolnshire,1,Part-time: 15 hours or less worked,6588
+E06000012,North East Lincolnshire,2,Part-time: 16 to 30 hours worked,15233
+E06000012,North East Lincolnshire,3,Full-time: 31 to 48 hours worked,38913
+E06000012,North East Lincolnshire,4,Full-time: 49 or more hours worked,8115
+E06000013,North Lincolnshire,-8,Does not apply,93457
+E06000013,North Lincolnshire,1,Part-time: 15 hours or less worked,7082
+E06000013,North Lincolnshire,2,Part-time: 16 to 30 hours worked,15120
+E06000013,North Lincolnshire,3,Full-time: 31 to 48 hours worked,45246
+E06000013,North Lincolnshire,4,Full-time: 49 or more hours worked,8775
+E06000014,York,-8,Does not apply,106623
+E06000014,York,1,Part-time: 15 hours or less worked,12037
+E06000014,York,2,Part-time: 16 to 30 hours worked,20634
+E06000014,York,3,Full-time: 31 to 48 hours worked,54704
+E06000014,York,4,Full-time: 49 or more hours worked,8823
+E06000015,Derby,-8,Does not apply,145163
+E06000015,Derby,1,Part-time: 15 hours or less worked,10896
+E06000015,Derby,2,Part-time: 16 to 30 hours worked,24135
+E06000015,Derby,3,Full-time: 31 to 48 hours worked,72096
+E06000015,Derby,4,Full-time: 49 or more hours worked,9074
+E06000016,Leicester,-8,Does not apply,213637
+E06000016,Leicester,1,Part-time: 15 hours or less worked,16608
+E06000016,Leicester,2,Part-time: 16 to 30 hours worked,36736
+E06000016,Leicester,3,Full-time: 31 to 48 hours worked,92168
+E06000016,Leicester,4,Full-time: 49 or more hours worked,9422
+E06000017,Rutland,-8,Does not apply,22266
+E06000017,Rutland,1,Part-time: 15 hours or less worked,2177
+E06000017,Rutland,2,Part-time: 16 to 30 hours worked,3548
+E06000017,Rutland,3,Full-time: 31 to 48 hours worked,10061
+E06000017,Rutland,4,Full-time: 49 or more hours worked,2997
+E06000018,Nottingham,-8,Does not apply,194765
+E06000018,Nottingham,1,Part-time: 15 hours or less worked,15071
+E06000018,Nottingham,2,Part-time: 16 to 30 hours worked,27835
+E06000018,Nottingham,3,Full-time: 31 to 48 hours worked,76165
+E06000018,Nottingham,4,Full-time: 49 or more hours worked,9796
+E06000019,Herefordshire,-8,Does not apply,98523
+E06000019,Herefordshire,1,Part-time: 15 hours or less worked,9839
+E06000019,Herefordshire,2,Part-time: 16 to 30 hours worked,18783
+E06000019,Herefordshire,3,Full-time: 31 to 48 hours worked,47742
+E06000019,Herefordshire,4,Full-time: 49 or more hours worked,12147
+E06000020,Telford and Wrekin,-8,Does not apply,100044
+E06000020,Telford and Wrekin,1,Part-time: 15 hours or less worked,7164
+E06000020,Telford and Wrekin,2,Part-time: 16 to 30 hours worked,15467
+E06000020,Telford and Wrekin,3,Full-time: 31 to 48 hours worked,54198
+E06000020,Telford and Wrekin,4,Full-time: 49 or more hours worked,8668
+E06000021,Stoke-on-Trent,-8,Does not apply,145789
+E06000021,Stoke-on-Trent,1,Part-time: 15 hours or less worked,9224
+E06000021,Stoke-on-Trent,2,Part-time: 16 to 30 hours worked,22985
+E06000021,Stoke-on-Trent,3,Full-time: 31 to 48 hours worked,70790
+E06000021,Stoke-on-Trent,4,Full-time: 49 or more hours worked,9581
+E06000022,Bath and North East Somerset,-8,Does not apply,103597
+E06000022,Bath and North East Somerset,1,Part-time: 15 hours or less worked,12067
+E06000022,Bath and North East Somerset,2,Part-time: 16 to 30 hours worked,18817
+E06000022,Bath and North East Somerset,3,Full-time: 31 to 48 hours worked,49585
+E06000022,Bath and North East Somerset,4,Full-time: 49 or more hours worked,9343
+E06000023,Bristol,-8,Does not apply,233955
+E06000023,Bristol,1,Part-time: 15 hours or less worked,24727
+E06000023,Bristol,2,Part-time: 16 to 30 hours worked,46279
+E06000023,Bristol,3,Full-time: 31 to 48 hours worked,147056
+E06000023,Bristol,4,Full-time: 49 or more hours worked,20448
+E06000024,North Somerset,-8,Does not apply,114026
+E06000024,North Somerset,1,Part-time: 15 hours or less worked,11232
+E06000024,North Somerset,2,Part-time: 16 to 30 hours worked,21733
+E06000024,North Somerset,3,Full-time: 31 to 48 hours worked,58675
+E06000024,North Somerset,4,Full-time: 49 or more hours worked,11062
+E06000025,South Gloucestershire,-8,Does not apply,142812
+E06000025,South Gloucestershire,1,Part-time: 15 hours or less worked,14192
+E06000025,South Gloucestershire,2,Part-time: 16 to 30 hours worked,29592
+E06000025,South Gloucestershire,3,Full-time: 31 to 48 hours worked,90398
+E06000025,South Gloucestershire,4,Full-time: 49 or more hours worked,13430
+E06000026,Plymouth,-8,Does not apply,143677
+E06000026,Plymouth,1,Part-time: 15 hours or less worked,11999
+E06000026,Plymouth,2,Part-time: 16 to 30 hours worked,26127
+E06000026,Plymouth,3,Full-time: 31 to 48 hours worked,71595
+E06000026,Plymouth,4,Full-time: 49 or more hours worked,11297
+E06000027,Torbay,-8,Does not apply,80389
+E06000027,Torbay,1,Part-time: 15 hours or less worked,6943
+E06000027,Torbay,2,Part-time: 16 to 30 hours worked,14221
+E06000027,Torbay,3,Full-time: 31 to 48 hours worked,32078
+E06000027,Torbay,4,Full-time: 49 or more hours worked,5693
+E06000030,Swindon,-8,Does not apply,115544
+E06000030,Swindon,1,Part-time: 15 hours or less worked,9588
+E06000030,Swindon,2,Part-time: 16 to 30 hours worked,20643
+E06000030,Swindon,3,Full-time: 31 to 48 hours worked,77579
+E06000030,Swindon,4,Full-time: 49 or more hours worked,10056
+E06000031,Peterborough,-8,Does not apply,114705
+E06000031,Peterborough,1,Part-time: 15 hours or less worked,8768
+E06000031,Peterborough,2,Part-time: 16 to 30 hours worked,19404
+E06000031,Peterborough,3,Full-time: 31 to 48 hours worked,62866
+E06000031,Peterborough,4,Full-time: 49 or more hours worked,9930
+E06000032,Luton,-8,Does not apply,126541
+E06000032,Luton,1,Part-time: 15 hours or less worked,10454
+E06000032,Luton,2,Part-time: 16 to 30 hours worked,20566
+E06000032,Luton,3,Full-time: 31 to 48 hours worked,59062
+E06000032,Luton,4,Full-time: 49 or more hours worked,8639
+E06000033,Southend-on-Sea,-8,Does not apply,97427
+E06000033,Southend-on-Sea,1,Part-time: 15 hours or less worked,9518
+E06000033,Southend-on-Sea,2,Part-time: 16 to 30 hours worked,16235
+E06000033,Southend-on-Sea,3,Full-time: 31 to 48 hours worked,48451
+E06000033,Southend-on-Sea,4,Full-time: 49 or more hours worked,9055
+E06000034,Thurrock,-8,Does not apply,90052
+E06000034,Thurrock,1,Part-time: 15 hours or less worked,7878
+E06000034,Thurrock,2,Part-time: 16 to 30 hours worked,15103
+E06000034,Thurrock,3,Full-time: 31 to 48 hours worked,53072
+E06000034,Thurrock,4,Full-time: 49 or more hours worked,9895
+E06000035,Medway,-8,Does not apply,147167
+E06000035,Medway,1,Part-time: 15 hours or less worked,12782
+E06000035,Medway,2,Part-time: 16 to 30 hours worked,24090
+E06000035,Medway,3,Full-time: 31 to 48 hours worked,79935
+E06000035,Medway,4,Full-time: 49 or more hours worked,15802
+E06000036,Bracknell Forest,-8,Does not apply,58210
+E06000036,Bracknell Forest,1,Part-time: 15 hours or less worked,5918
+E06000036,Bracknell Forest,2,Part-time: 16 to 30 hours worked,10654
+E06000036,Bracknell Forest,3,Full-time: 31 to 48 hours worked,42029
+E06000036,Bracknell Forest,4,Full-time: 49 or more hours worked,7796
+E06000037,West Berkshire,-8,Does not apply,79141
+E06000037,West Berkshire,1,Part-time: 15 hours or less worked,8512
+E06000037,West Berkshire,2,Part-time: 16 to 30 hours worked,13838
+E06000037,West Berkshire,3,Full-time: 31 to 48 hours worked,49764
+E06000037,West Berkshire,4,Full-time: 49 or more hours worked,10193
+E06000038,Reading,-8,Does not apply,85358
+E06000038,Reading,1,Part-time: 15 hours or less worked,8681
+E06000038,Reading,2,Part-time: 16 to 30 hours worked,13984
+E06000038,Reading,3,Full-time: 31 to 48 hours worked,57921
+E06000038,Reading,4,Full-time: 49 or more hours worked,8277
+E06000039,Slough,-8,Does not apply,84799
+E06000039,Slough,1,Part-time: 15 hours or less worked,7492
+E06000039,Slough,2,Part-time: 16 to 30 hours worked,13480
+E06000039,Slough,3,Full-time: 31 to 48 hours worked,46355
+E06000039,Slough,4,Full-time: 49 or more hours worked,6373
+E06000040,Windsor and Maidenhead,-8,Does not apply,77194
+E06000040,Windsor and Maidenhead,1,Part-time: 15 hours or less worked,8051
+E06000040,Windsor and Maidenhead,2,Part-time: 16 to 30 hours worked,12021
+E06000040,Windsor and Maidenhead,3,Full-time: 31 to 48 hours worked,44700
+E06000040,Windsor and Maidenhead,4,Full-time: 49 or more hours worked,11530
+E06000041,Wokingham,-8,Does not apply,88035
+E06000041,Wokingham,1,Part-time: 15 hours or less worked,9149
+E06000041,Wokingham,2,Part-time: 16 to 30 hours worked,14047
+E06000041,Wokingham,3,Full-time: 31 to 48 hours worked,55608
+E06000041,Wokingham,4,Full-time: 49 or more hours worked,10663
+E06000042,Milton Keynes,-8,Does not apply,143682
+E06000042,Milton Keynes,1,Part-time: 15 hours or less worked,12397
+E06000042,Milton Keynes,2,Part-time: 16 to 30 hours worked,24189
+E06000042,Milton Keynes,3,Full-time: 31 to 48 hours worked,92935
+E06000042,Milton Keynes,4,Full-time: 49 or more hours worked,13857
+E06000043,Brighton and Hove,-8,Does not apply,137812
+E06000043,Brighton and Hove,1,Part-time: 15 hours or less worked,18422
+E06000043,Brighton and Hove,2,Part-time: 16 to 30 hours worked,28832
+E06000043,Brighton and Hove,3,Full-time: 31 to 48 hours worked,79077
+E06000043,Brighton and Hove,4,Full-time: 49 or more hours worked,12960
+E06000044,Portsmouth,-8,Does not apply,110216
+E06000044,Portsmouth,1,Part-time: 15 hours or less worked,10778
+E06000044,Portsmouth,2,Part-time: 16 to 30 hours worked,19757
+E06000044,Portsmouth,3,Full-time: 31 to 48 hours worked,57812
+E06000044,Portsmouth,4,Full-time: 49 or more hours worked,9440
+E06000045,Southampton,-8,Does not apply,130694
+E06000045,Southampton,1,Part-time: 15 hours or less worked,12460
+E06000045,Southampton,2,Part-time: 16 to 30 hours worked,23005
+E06000045,Southampton,3,Full-time: 31 to 48 hours worked,71148
+E06000045,Southampton,4,Full-time: 49 or more hours worked,11615
+E06000046,Isle of Wight,-8,Does not apply,82549
+E06000046,Isle of Wight,1,Part-time: 15 hours or less worked,7253
+E06000046,Isle of Wight,2,Part-time: 16 to 30 hours worked,14579
+E06000046,Isle of Wight,3,Full-time: 31 to 48 hours worked,30756
+E06000046,Isle of Wight,4,Full-time: 49 or more hours worked,5322
+E06000047,County Durham,-8,Does not apply,299853
+E06000047,County Durham,1,Part-time: 15 hours or less worked,19900
+E06000047,County Durham,2,Part-time: 16 to 30 hours worked,43468
+E06000047,County Durham,3,Full-time: 31 to 48 hours worked,137147
+E06000047,County Durham,4,Full-time: 49 or more hours worked,21703
+E06000049,Cheshire East,-8,Does not apply,206285
+E06000049,Cheshire East,1,Part-time: 15 hours or less worked,19795
+E06000049,Cheshire East,2,Part-time: 16 to 30 hours worked,35764
+E06000049,Cheshire East,3,Full-time: 31 to 48 hours worked,114307
+E06000049,Cheshire East,4,Full-time: 49 or more hours worked,22621
+E06000050,Cheshire West and Chester,-8,Does not apply,188062
+E06000050,Cheshire West and Chester,1,Part-time: 15 hours or less worked,17164
+E06000050,Cheshire West and Chester,2,Part-time: 16 to 30 hours worked,32873
+E06000050,Cheshire West and Chester,3,Full-time: 31 to 48 hours worked,101055
+E06000050,Cheshire West and Chester,4,Full-time: 49 or more hours worked,17996
+E06000051,Shropshire,-8,Does not apply,171183
+E06000051,Shropshire,1,Part-time: 15 hours or less worked,16243
+E06000051,Shropshire,2,Part-time: 16 to 30 hours worked,31647
+E06000051,Shropshire,3,Full-time: 31 to 48 hours worked,83886
+E06000051,Shropshire,4,Full-time: 49 or more hours worked,20647
+E06000052,Cornwall,-8,Does not apply,316058
+E06000052,Cornwall,1,Part-time: 15 hours or less worked,31272
+E06000052,Cornwall,2,Part-time: 16 to 30 hours worked,59540
+E06000052,Cornwall,3,Full-time: 31 to 48 hours worked,134022
+E06000052,Cornwall,4,Full-time: 49 or more hours worked,29413
+E06000053,Isles of Scilly,-8,Does not apply,940
+E06000053,Isles of Scilly,1,Part-time: 15 hours or less worked,134
+E06000053,Isles of Scilly,2,Part-time: 16 to 30 hours worked,212
+E06000053,Isles of Scilly,3,Full-time: 31 to 48 hours worked,597
+E06000053,Isles of Scilly,4,Full-time: 49 or more hours worked,171
+E06000054,Wiltshire,-8,Does not apply,257988
+E06000054,Wiltshire,1,Part-time: 15 hours or less worked,26840
+E06000054,Wiltshire,2,Part-time: 16 to 30 hours worked,47964
+E06000054,Wiltshire,3,Full-time: 31 to 48 hours worked,146830
+E06000054,Wiltshire,4,Full-time: 49 or more hours worked,30711
+E06000055,Bedford,-8,Does not apply,94360
+E06000055,Bedford,1,Part-time: 15 hours or less worked,8812
+E06000055,Bedford,2,Part-time: 16 to 30 hours worked,16011
+E06000055,Bedford,3,Full-time: 31 to 48 hours worked,55968
+E06000055,Bedford,4,Full-time: 49 or more hours worked,10074
+E06000056,Central Bedfordshire,-8,Does not apply,143175
+E06000056,Central Bedfordshire,1,Part-time: 15 hours or less worked,14636
+E06000056,Central Bedfordshire,2,Part-time: 16 to 30 hours worked,25790
+E06000056,Central Bedfordshire,3,Full-time: 31 to 48 hours worked,92934
+E06000056,Central Bedfordshire,4,Full-time: 49 or more hours worked,17718
+E06000057,Northumberland,-8,Does not apply,179790
+E06000057,Northumberland,1,Part-time: 15 hours or less worked,14253
+E06000057,Northumberland,2,Part-time: 16 to 30 hours worked,30161
+E06000057,Northumberland,3,Full-time: 31 to 48 hours worked,80360
+E06000057,Northumberland,4,Full-time: 49 or more hours worked,16003
+E06000058,"Bournemouth, Christchurch and Poole",-8,Does not apply,214164
+E06000058,"Bournemouth, Christchurch and Poole",1,Part-time: 15 hours or less worked,21877
+E06000058,"Bournemouth, Christchurch and Poole",2,Part-time: 16 to 30 hours worked,38598
+E06000058,"Bournemouth, Christchurch and Poole",3,Full-time: 31 to 48 hours worked,107607
+E06000058,"Bournemouth, Christchurch and Poole",4,Full-time: 49 or more hours worked,17950
+E06000059,Dorset,-8,Does not apply,211802
+E06000059,Dorset,1,Part-time: 15 hours or less worked,21420
+E06000059,Dorset,2,Part-time: 16 to 30 hours worked,36955
+E06000059,Dorset,3,Full-time: 31 to 48 hours worked,89075
+E06000059,Dorset,4,Full-time: 49 or more hours worked,20327
+E06000060,Buckinghamshire,-8,Does not apply,279842
+E06000060,Buckinghamshire,1,Part-time: 15 hours or less worked,30598
+E06000060,Buckinghamshire,2,Part-time: 16 to 30 hours worked,47499
+E06000060,Buckinghamshire,3,Full-time: 31 to 48 hours worked,157932
+E06000060,Buckinghamshire,4,Full-time: 49 or more hours worked,37207
+E06000061,North Northamptonshire,-8,Does not apply,180670
+E06000061,North Northamptonshire,1,Part-time: 15 hours or less worked,15223
+E06000061,North Northamptonshire,2,Part-time: 16 to 30 hours worked,31446
+E06000061,North Northamptonshire,3,Full-time: 31 to 48 hours worked,111942
+E06000061,North Northamptonshire,4,Full-time: 49 or more hours worked,20244
+E06000062,West Northamptonshire,-8,Does not apply,209730
+E06000062,West Northamptonshire,1,Part-time: 15 hours or less worked,19541
+E06000062,West Northamptonshire,2,Part-time: 16 to 30 hours worked,37514
+E06000062,West Northamptonshire,3,Full-time: 31 to 48 hours worked,134486
+E06000062,West Northamptonshire,4,Full-time: 49 or more hours worked,24454
+E07000008,Cambridge,-8,Does not apply,75076
+E07000008,Cambridge,1,Part-time: 15 hours or less worked,7812
+E07000008,Cambridge,2,Part-time: 16 to 30 hours worked,10913
+E07000008,Cambridge,3,Full-time: 31 to 48 hours worked,43695
+E07000008,Cambridge,4,Full-time: 49 or more hours worked,8179
+E07000009,East Cambridgeshire,-8,Does not apply,43067
+E07000009,East Cambridgeshire,1,Part-time: 15 hours or less worked,4439
+E07000009,East Cambridgeshire,2,Part-time: 16 to 30 hours worked,8120
+E07000009,East Cambridgeshire,3,Full-time: 31 to 48 hours worked,26448
+E07000009,East Cambridgeshire,4,Full-time: 49 or more hours worked,5688
+E07000010,Fenland,-8,Does not apply,55357
+E07000010,Fenland,1,Part-time: 15 hours or less worked,4219
+E07000010,Fenland,2,Part-time: 16 to 30 hours worked,8570
+E07000010,Fenland,3,Full-time: 31 to 48 hours worked,28284
+E07000010,Fenland,4,Full-time: 49 or more hours worked,6035
+E07000011,Huntingdonshire,-8,Does not apply,89441
+E07000011,Huntingdonshire,1,Part-time: 15 hours or less worked,8458
+E07000011,Huntingdonshire,2,Part-time: 16 to 30 hours worked,15714
+E07000011,Huntingdonshire,3,Full-time: 31 to 48 hours worked,56584
+E07000011,Huntingdonshire,4,Full-time: 49 or more hours worked,10635
+E07000012,South Cambridgeshire,-8,Does not apply,79852
+E07000012,South Cambridgeshire,1,Part-time: 15 hours or less worked,8202
+E07000012,South Cambridgeshire,2,Part-time: 16 to 30 hours worked,14550
+E07000012,South Cambridgeshire,3,Full-time: 31 to 48 hours worked,49901
+E07000012,South Cambridgeshire,4,Full-time: 49 or more hours worked,9614
+E07000026,Allerdale,-8,Does not apply,51919
+E07000026,Allerdale,1,Part-time: 15 hours or less worked,4483
+E07000026,Allerdale,2,Part-time: 16 to 30 hours worked,9575
+E07000026,Allerdale,3,Full-time: 31 to 48 hours worked,25309
+E07000026,Allerdale,4,Full-time: 49 or more hours worked,4868
+E07000027,Barrow-in-Furness,-8,Does not apply,36224
+E07000027,Barrow-in-Furness,1,Part-time: 15 hours or less worked,2666
+E07000027,Barrow-in-Furness,2,Part-time: 16 to 30 hours worked,6593
+E07000027,Barrow-in-Furness,3,Full-time: 31 to 48 hours worked,19866
+E07000027,Barrow-in-Furness,4,Full-time: 49 or more hours worked,2058
+E07000028,Carlisle,-8,Does not apply,57074
+E07000028,Carlisle,1,Part-time: 15 hours or less worked,5211
+E07000028,Carlisle,2,Part-time: 16 to 30 hours worked,11750
+E07000028,Carlisle,3,Full-time: 31 to 48 hours worked,29990
+E07000028,Carlisle,4,Full-time: 49 or more hours worked,5999
+E07000029,Copeland,-8,Does not apply,36506
+E07000029,Copeland,1,Part-time: 15 hours or less worked,2530
+E07000029,Copeland,2,Part-time: 16 to 30 hours worked,5873
+E07000029,Copeland,3,Full-time: 31 to 48 hours worked,19710
+E07000029,Copeland,4,Full-time: 49 or more hours worked,2457
+E07000030,Eden,-8,Does not apply,27400
+E07000030,Eden,1,Part-time: 15 hours or less worked,3418
+E07000030,Eden,2,Part-time: 16 to 30 hours worked,5666
+E07000030,Eden,3,Full-time: 31 to 48 hours worked,13443
+E07000030,Eden,4,Full-time: 49 or more hours worked,4808
+E07000031,South Lakeland,-8,Does not apply,54313
+E07000031,South Lakeland,1,Part-time: 15 hours or less worked,6634
+E07000031,South Lakeland,2,Part-time: 16 to 30 hours worked,10803
+E07000031,South Lakeland,3,Full-time: 31 to 48 hours worked,26675
+E07000031,South Lakeland,4,Full-time: 49 or more hours worked,6025
+E07000032,Amber Valley,-8,Does not apply,66035
+E07000032,Amber Valley,1,Part-time: 15 hours or less worked,5916
+E07000032,Amber Valley,2,Part-time: 16 to 30 hours worked,11784
+E07000032,Amber Valley,3,Full-time: 31 to 48 hours worked,36026
+E07000032,Amber Valley,4,Full-time: 49 or more hours worked,6445
+E07000033,Bolsover,-8,Does not apply,42173
+E07000033,Bolsover,1,Part-time: 15 hours or less worked,3137
+E07000033,Bolsover,2,Part-time: 16 to 30 hours worked,7497
+E07000033,Bolsover,3,Full-time: 31 to 48 hours worked,23380
+E07000033,Bolsover,4,Full-time: 49 or more hours worked,4086
+E07000034,Chesterfield,-8,Does not apply,56037
+E07000034,Chesterfield,1,Part-time: 15 hours or less worked,4599
+E07000034,Chesterfield,2,Part-time: 16 to 30 hours worked,10380
+E07000034,Chesterfield,3,Full-time: 31 to 48 hours worked,28101
+E07000034,Chesterfield,4,Full-time: 49 or more hours worked,4452
+E07000035,Derbyshire Dales,-8,Does not apply,38312
+E07000035,Derbyshire Dales,1,Part-time: 15 hours or less worked,4380
+E07000035,Derbyshire Dales,2,Part-time: 16 to 30 hours worked,7204
+E07000035,Derbyshire Dales,3,Full-time: 31 to 48 hours worked,16633
+E07000035,Derbyshire Dales,4,Full-time: 49 or more hours worked,5011
+E07000036,Erewash,-8,Does not apply,57940
+E07000036,Erewash,1,Part-time: 15 hours or less worked,5066
+E07000036,Erewash,2,Part-time: 16 to 30 hours worked,10666
+E07000036,Erewash,3,Full-time: 31 to 48 hours worked,34065
+E07000036,Erewash,4,Full-time: 49 or more hours worked,5170
+E07000037,High Peak,-8,Does not apply,46319
+E07000037,High Peak,1,Part-time: 15 hours or less worked,4701
+E07000037,High Peak,2,Part-time: 16 to 30 hours worked,9280
+E07000037,High Peak,3,Full-time: 31 to 48 hours worked,25786
+E07000037,High Peak,4,Full-time: 49 or more hours worked,4847
+E07000038,North East Derbyshire,-8,Does not apply,55438
+E07000038,North East Derbyshire,1,Part-time: 15 hours or less worked,4598
+E07000038,North East Derbyshire,2,Part-time: 16 to 30 hours worked,10064
+E07000038,North East Derbyshire,3,Full-time: 31 to 48 hours worked,26835
+E07000038,North East Derbyshire,4,Full-time: 49 or more hours worked,5066
+E07000039,South Derbyshire,-8,Does not apply,53302
+E07000039,South Derbyshire,1,Part-time: 15 hours or less worked,4638
+E07000039,South Derbyshire,2,Part-time: 16 to 30 hours worked,9680
+E07000039,South Derbyshire,3,Full-time: 31 to 48 hours worked,33110
+E07000039,South Derbyshire,4,Full-time: 49 or more hours worked,6478
+E07000040,East Devon,-8,Does not apply,84101
+E07000040,East Devon,1,Part-time: 15 hours or less worked,8359
+E07000040,East Devon,2,Part-time: 16 to 30 hours worked,15195
+E07000040,East Devon,3,Full-time: 31 to 48 hours worked,35143
+E07000040,East Devon,4,Full-time: 49 or more hours worked,8030
+E07000041,Exeter,-8,Does not apply,71009
+E07000041,Exeter,1,Part-time: 15 hours or less worked,7394
+E07000041,Exeter,2,Part-time: 16 to 30 hours worked,12409
+E07000041,Exeter,3,Full-time: 31 to 48 hours worked,34634
+E07000041,Exeter,4,Full-time: 49 or more hours worked,5263
+E07000042,Mid Devon,-8,Does not apply,42570
+E07000042,Mid Devon,1,Part-time: 15 hours or less worked,4586
+E07000042,Mid Devon,2,Part-time: 16 to 30 hours worked,8779
+E07000042,Mid Devon,3,Full-time: 31 to 48 hours worked,21569
+E07000042,Mid Devon,4,Full-time: 49 or more hours worked,5348
+E07000043,North Devon,-8,Does not apply,53448
+E07000043,North Devon,1,Part-time: 15 hours or less worked,5651
+E07000043,North Devon,2,Part-time: 16 to 30 hours worked,10598
+E07000043,North Devon,3,Full-time: 31 to 48 hours worked,23636
+E07000043,North Devon,4,Full-time: 49 or more hours worked,5278
+E07000044,South Hams,-8,Does not apply,48043
+E07000044,South Hams,1,Part-time: 15 hours or less worked,5884
+E07000044,South Hams,2,Part-time: 16 to 30 hours worked,9444
+E07000044,South Hams,3,Full-time: 31 to 48 hours worked,20077
+E07000044,South Hams,4,Full-time: 49 or more hours worked,5180
+E07000045,Teignbridge,-8,Does not apply,72666
+E07000045,Teignbridge,1,Part-time: 15 hours or less worked,7295
+E07000045,Teignbridge,2,Part-time: 16 to 30 hours worked,14271
+E07000045,Teignbridge,3,Full-time: 31 to 48 hours worked,33592
+E07000045,Teignbridge,4,Full-time: 49 or more hours worked,6979
+E07000046,Torridge,-8,Does not apply,38061
+E07000046,Torridge,1,Part-time: 15 hours or less worked,3842
+E07000046,Torridge,2,Part-time: 16 to 30 hours worked,7334
+E07000046,Torridge,3,Full-time: 31 to 48 hours worked,14726
+E07000046,Torridge,4,Full-time: 49 or more hours worked,4151
+E07000047,West Devon,-8,Does not apply,31712
+E07000047,West Devon,1,Part-time: 15 hours or less worked,3397
+E07000047,West Devon,2,Part-time: 16 to 30 hours worked,5685
+E07000047,West Devon,3,Full-time: 31 to 48 hours worked,12630
+E07000047,West Devon,4,Full-time: 49 or more hours worked,3672
+E07000061,Eastbourne,-8,Does not apply,57855
+E07000061,Eastbourne,1,Part-time: 15 hours or less worked,5204
+E07000061,Eastbourne,2,Part-time: 16 to 30 hours worked,9699
+E07000061,Eastbourne,3,Full-time: 31 to 48 hours worked,24787
+E07000061,Eastbourne,4,Full-time: 49 or more hours worked,4141
+E07000062,Hastings,-8,Does not apply,50096
+E07000062,Hastings,1,Part-time: 15 hours or less worked,4740
+E07000062,Hastings,2,Part-time: 16 to 30 hours worked,9470
+E07000062,Hastings,3,Full-time: 31 to 48 hours worked,22762
+E07000062,Hastings,4,Full-time: 49 or more hours worked,3926
+E07000063,Lewes,-8,Does not apply,55398
+E07000063,Lewes,1,Part-time: 15 hours or less worked,5929
+E07000063,Lewes,2,Part-time: 16 to 30 hours worked,9920
+E07000063,Lewes,3,Full-time: 31 to 48 hours worked,23936
+E07000063,Lewes,4,Full-time: 49 or more hours worked,4722
+E07000064,Rother,-8,Does not apply,55176
+E07000064,Rother,1,Part-time: 15 hours or less worked,5203
+E07000064,Rother,2,Part-time: 16 to 30 hours worked,8422
+E07000064,Rother,3,Full-time: 31 to 48 hours worked,19656
+E07000064,Rother,4,Full-time: 49 or more hours worked,4653
+E07000065,Wealden,-8,Does not apply,85608
+E07000065,Wealden,1,Part-time: 15 hours or less worked,10015
+E07000065,Wealden,2,Part-time: 16 to 30 hours worked,15432
+E07000065,Wealden,3,Full-time: 31 to 48 hours worked,39472
+E07000065,Wealden,4,Full-time: 49 or more hours worked,9624
+E07000066,Basildon,-8,Does not apply,98560
+E07000066,Basildon,1,Part-time: 15 hours or less worked,9070
+E07000066,Basildon,2,Part-time: 16 to 30 hours worked,15966
+E07000066,Basildon,3,Full-time: 31 to 48 hours worked,53719
+E07000066,Basildon,4,Full-time: 49 or more hours worked,10256
+E07000067,Braintree,-8,Does not apply,78984
+E07000067,Braintree,1,Part-time: 15 hours or less worked,8594
+E07000067,Braintree,2,Part-time: 16 to 30 hours worked,14371
+E07000067,Braintree,3,Full-time: 31 to 48 hours worked,43700
+E07000067,Braintree,4,Full-time: 49 or more hours worked,9619
+E07000068,Brentwood,-8,Does not apply,39146
+E07000068,Brentwood,1,Part-time: 15 hours or less worked,4223
+E07000068,Brentwood,2,Part-time: 16 to 30 hours worked,6165
+E07000068,Brentwood,3,Full-time: 31 to 48 hours worked,21744
+E07000068,Brentwood,4,Full-time: 49 or more hours worked,5771
+E07000069,Castle Point,-8,Does not apply,48581
+E07000069,Castle Point,1,Part-time: 15 hours or less worked,4575
+E07000069,Castle Point,2,Part-time: 16 to 30 hours worked,8095
+E07000069,Castle Point,3,Full-time: 31 to 48 hours worked,23564
+E07000069,Castle Point,4,Full-time: 49 or more hours worked,4772
+E07000070,Chelmsford,-8,Does not apply,91661
+E07000070,Chelmsford,1,Part-time: 15 hours or less worked,9697
+E07000070,Chelmsford,2,Part-time: 16 to 30 hours worked,16139
+E07000070,Chelmsford,3,Full-time: 31 to 48 hours worked,52813
+E07000070,Chelmsford,4,Full-time: 49 or more hours worked,11213
+E07000071,Colchester,-8,Does not apply,100700
+E07000071,Colchester,1,Part-time: 15 hours or less worked,10351
+E07000071,Colchester,2,Part-time: 16 to 30 hours worked,18113
+E07000071,Colchester,3,Full-time: 31 to 48 hours worked,52560
+E07000071,Colchester,4,Full-time: 49 or more hours worked,10992
+E07000072,Epping Forest,-8,Does not apply,69184
+E07000072,Epping Forest,1,Part-time: 15 hours or less worked,7815
+E07000072,Epping Forest,2,Part-time: 16 to 30 hours worked,11819
+E07000072,Epping Forest,3,Full-time: 31 to 48 hours worked,37039
+E07000072,Epping Forest,4,Full-time: 49 or more hours worked,9123
+E07000073,Harlow,-8,Does not apply,47347
+E07000073,Harlow,1,Part-time: 15 hours or less worked,4390
+E07000073,Harlow,2,Part-time: 16 to 30 hours worked,8493
+E07000073,Harlow,3,Full-time: 31 to 48 hours worked,28620
+E07000073,Harlow,4,Full-time: 49 or more hours worked,4478
+E07000074,Maldon,-8,Does not apply,34952
+E07000074,Maldon,1,Part-time: 15 hours or less worked,4057
+E07000074,Maldon,2,Part-time: 16 to 30 hours worked,6042
+E07000074,Maldon,3,Full-time: 31 to 48 hours worked,16921
+E07000074,Maldon,4,Full-time: 49 or more hours worked,4236
+E07000075,Rochford,-8,Does not apply,45003
+E07000075,Rochford,1,Part-time: 15 hours or less worked,4810
+E07000075,Rochford,2,Part-time: 16 to 30 hours worked,7651
+E07000075,Rochford,3,Full-time: 31 to 48 hours worked,23225
+E07000075,Rochford,4,Full-time: 49 or more hours worked,4972
+E07000076,Tendring,-8,Does not apply,90008
+E07000076,Tendring,1,Part-time: 15 hours or less worked,6940
+E07000076,Tendring,2,Part-time: 16 to 30 hours worked,13218
+E07000076,Tendring,3,Full-time: 31 to 48 hours worked,31130
+E07000076,Tendring,4,Full-time: 49 or more hours worked,6993
+E07000077,Uttlesford,-8,Does not apply,45598
+E07000077,Uttlesford,1,Part-time: 15 hours or less worked,5694
+E07000077,Uttlesford,2,Part-time: 16 to 30 hours worked,8404
+E07000077,Uttlesford,3,Full-time: 31 to 48 hours worked,25062
+E07000077,Uttlesford,4,Full-time: 49 or more hours worked,6581
+E07000078,Cheltenham,-8,Does not apply,59679
+E07000078,Cheltenham,1,Part-time: 15 hours or less worked,6458
+E07000078,Cheltenham,2,Part-time: 16 to 30 hours worked,11696
+E07000078,Cheltenham,3,Full-time: 31 to 48 hours worked,35580
+E07000078,Cheltenham,4,Full-time: 49 or more hours worked,5423
+E07000079,Cotswold,-8,Does not apply,46753
+E07000079,Cotswold,1,Part-time: 15 hours or less worked,5824
+E07000079,Cotswold,2,Part-time: 16 to 30 hours worked,8364
+E07000079,Cotswold,3,Full-time: 31 to 48 hours worked,23598
+E07000079,Cotswold,4,Full-time: 49 or more hours worked,6292
+E07000080,Forest of Dean,-8,Does not apply,47014
+E07000080,Forest of Dean,1,Part-time: 15 hours or less worked,4698
+E07000080,Forest of Dean,2,Part-time: 16 to 30 hours worked,8248
+E07000080,Forest of Dean,3,Full-time: 31 to 48 hours worked,22316
+E07000080,Forest of Dean,4,Full-time: 49 or more hours worked,4728
+E07000081,Gloucester,-8,Does not apply,66795
+E07000081,Gloucester,1,Part-time: 15 hours or less worked,5956
+E07000081,Gloucester,2,Part-time: 16 to 30 hours worked,13558
+E07000081,Gloucester,3,Full-time: 31 to 48 hours worked,40563
+E07000081,Gloucester,4,Full-time: 49 or more hours worked,5544
+E07000082,Stroud,-8,Does not apply,61185
+E07000082,Stroud,1,Part-time: 15 hours or less worked,7237
+E07000082,Stroud,2,Part-time: 16 to 30 hours worked,12590
+E07000082,Stroud,3,Full-time: 31 to 48 hours worked,33708
+E07000082,Stroud,4,Full-time: 49 or more hours worked,6384
+E07000083,Tewkesbury,-8,Does not apply,48360
+E07000083,Tewkesbury,1,Part-time: 15 hours or less worked,4548
+E07000083,Tewkesbury,2,Part-time: 16 to 30 hours worked,9244
+E07000083,Tewkesbury,3,Full-time: 31 to 48 hours worked,27898
+E07000083,Tewkesbury,4,Full-time: 49 or more hours worked,4832
+E07000084,Basingstoke and Deane,-8,Does not apply,88181
+E07000084,Basingstoke and Deane,1,Part-time: 15 hours or less worked,8743
+E07000084,Basingstoke and Deane,2,Part-time: 16 to 30 hours worked,15390
+E07000084,Basingstoke and Deane,3,Full-time: 31 to 48 hours worked,62171
+E07000084,Basingstoke and Deane,4,Full-time: 49 or more hours worked,10669
+E07000085,East Hampshire,-8,Does not apply,64012
+E07000085,East Hampshire,1,Part-time: 15 hours or less worked,7267
+E07000085,East Hampshire,2,Part-time: 16 to 30 hours worked,11612
+E07000085,East Hampshire,3,Full-time: 31 to 48 hours worked,34697
+E07000085,East Hampshire,4,Full-time: 49 or more hours worked,8156
+E07000086,Eastleigh,-8,Does not apply,66927
+E07000086,Eastleigh,1,Part-time: 15 hours or less worked,6892
+E07000086,Eastleigh,2,Part-time: 16 to 30 hours worked,13597
+E07000086,Eastleigh,3,Full-time: 31 to 48 hours worked,41562
+E07000086,Eastleigh,4,Full-time: 49 or more hours worked,7466
+E07000087,Fareham,-8,Does not apply,58882
+E07000087,Fareham,1,Part-time: 15 hours or less worked,5688
+E07000087,Fareham,2,Part-time: 16 to 30 hours worked,10652
+E07000087,Fareham,3,Full-time: 31 to 48 hours worked,33204
+E07000087,Fareham,4,Full-time: 49 or more hours worked,6087
+E07000088,Gosport,-8,Does not apply,43468
+E07000088,Gosport,1,Part-time: 15 hours or less worked,3585
+E07000088,Gosport,2,Part-time: 16 to 30 hours worked,7635
+E07000088,Gosport,3,Full-time: 31 to 48 hours worked,23135
+E07000088,Gosport,4,Full-time: 49 or more hours worked,4131
+E07000089,Hart,-8,Does not apply,48963
+E07000089,Hart,1,Part-time: 15 hours or less worked,5296
+E07000089,Hart,2,Part-time: 16 to 30 hours worked,8436
+E07000089,Hart,3,Full-time: 31 to 48 hours worked,29759
+E07000089,Hart,4,Full-time: 49 or more hours worked,6954
+E07000090,Havant,-8,Does not apply,67840
+E07000090,Havant,1,Part-time: 15 hours or less worked,5916
+E07000090,Havant,2,Part-time: 16 to 30 hours worked,11992
+E07000090,Havant,3,Full-time: 31 to 48 hours worked,32705
+E07000090,Havant,4,Full-time: 49 or more hours worked,5755
+E07000091,New Forest,-8,Does not apply,97083
+E07000091,New Forest,1,Part-time: 15 hours or less worked,10149
+E07000091,New Forest,2,Part-time: 16 to 30 hours worked,16599
+E07000091,New Forest,3,Full-time: 31 to 48 hours worked,42621
+E07000091,New Forest,4,Full-time: 49 or more hours worked,9333
+E07000092,Rushmoor,-8,Does not apply,46741
+E07000092,Rushmoor,1,Part-time: 15 hours or less worked,4560
+E07000092,Rushmoor,2,Part-time: 16 to 30 hours worked,8689
+E07000092,Rushmoor,3,Full-time: 31 to 48 hours worked,34125
+E07000092,Rushmoor,4,Full-time: 49 or more hours worked,5641
+E07000093,Test Valley,-8,Does not apply,64631
+E07000093,Test Valley,1,Part-time: 15 hours or less worked,6591
+E07000093,Test Valley,2,Part-time: 16 to 30 hours worked,11983
+E07000093,Test Valley,3,Full-time: 31 to 48 hours worked,39188
+E07000093,Test Valley,4,Full-time: 49 or more hours worked,8102
+E07000094,Winchester,-8,Does not apply,66871
+E07000094,Winchester,1,Part-time: 15 hours or less worked,7594
+E07000094,Winchester,2,Part-time: 16 to 30 hours worked,11335
+E07000094,Winchester,3,Full-time: 31 to 48 hours worked,32954
+E07000094,Winchester,4,Full-time: 49 or more hours worked,8690
+E07000095,Broxbourne,-8,Does not apply,50701
+E07000095,Broxbourne,1,Part-time: 15 hours or less worked,5104
+E07000095,Broxbourne,2,Part-time: 16 to 30 hours worked,9143
+E07000095,Broxbourne,3,Full-time: 31 to 48 hours worked,28778
+E07000095,Broxbourne,4,Full-time: 49 or more hours worked,5281
+E07000096,Dacorum,-8,Does not apply,77883
+E07000096,Dacorum,1,Part-time: 15 hours or less worked,8384
+E07000096,Dacorum,2,Part-time: 16 to 30 hours worked,14010
+E07000096,Dacorum,3,Full-time: 31 to 48 hours worked,45046
+E07000096,Dacorum,4,Full-time: 49 or more hours worked,9759
+E07000098,Hertsmere,-8,Does not apply,55061
+E07000098,Hertsmere,1,Part-time: 15 hours or less worked,6468
+E07000098,Hertsmere,2,Part-time: 16 to 30 hours worked,9593
+E07000098,Hertsmere,3,Full-time: 31 to 48 hours worked,29693
+E07000098,Hertsmere,4,Full-time: 49 or more hours worked,7012
+E07000099,North Hertfordshire,-8,Does not apply,66049
+E07000099,North Hertfordshire,1,Part-time: 15 hours or less worked,6904
+E07000099,North Hertfordshire,2,Part-time: 16 to 30 hours worked,11953
+E07000099,North Hertfordshire,3,Full-time: 31 to 48 hours worked,40500
+E07000099,North Hertfordshire,4,Full-time: 49 or more hours worked,7801
+E07000102,Three Rivers,-8,Does not apply,46823
+E07000102,Three Rivers,1,Part-time: 15 hours or less worked,5174
+E07000102,Three Rivers,2,Part-time: 16 to 30 hours worked,8308
+E07000102,Three Rivers,3,Full-time: 31 to 48 hours worked,27041
+E07000102,Three Rivers,4,Full-time: 49 or more hours worked,6425
+E07000103,Watford,-8,Does not apply,49387
+E07000103,Watford,1,Part-time: 15 hours or less worked,5061
+E07000103,Watford,2,Part-time: 16 to 30 hours worked,9246
+E07000103,Watford,3,Full-time: 31 to 48 hours worked,32858
+E07000103,Watford,4,Full-time: 49 or more hours worked,5694
+E07000105,Ashford,-8,Does not apply,69132
+E07000105,Ashford,1,Part-time: 15 hours or less worked,6754
+E07000105,Ashford,2,Part-time: 16 to 30 hours worked,11838
+E07000105,Ashford,3,Full-time: 31 to 48 hours worked,36702
+E07000105,Ashford,4,Full-time: 49 or more hours worked,8321
+E07000106,Canterbury,-8,Does not apply,91265
+E07000106,Canterbury,1,Part-time: 15 hours or less worked,9225
+E07000106,Canterbury,2,Part-time: 16 to 30 hours worked,13838
+E07000106,Canterbury,3,Full-time: 31 to 48 hours worked,35357
+E07000106,Canterbury,4,Full-time: 49 or more hours worked,7744
+E07000107,Dartford,-8,Does not apply,57930
+E07000107,Dartford,1,Part-time: 15 hours or less worked,5210
+E07000107,Dartford,2,Part-time: 16 to 30 hours worked,9915
+E07000107,Dartford,3,Full-time: 31 to 48 hours worked,37138
+E07000107,Dartford,4,Full-time: 49 or more hours worked,6559
+E07000108,Dover,-8,Does not apply,65484
+E07000108,Dover,1,Part-time: 15 hours or less worked,5631
+E07000108,Dover,2,Part-time: 16 to 30 hours worked,10533
+E07000108,Dover,3,Full-time: 31 to 48 hours worked,28511
+E07000108,Dover,4,Full-time: 49 or more hours worked,6251
+E07000109,Gravesham,-8,Does not apply,57139
+E07000109,Gravesham,1,Part-time: 15 hours or less worked,4871
+E07000109,Gravesham,2,Part-time: 16 to 30 hours worked,9436
+E07000109,Gravesham,3,Full-time: 31 to 48 hours worked,29262
+E07000109,Gravesham,4,Full-time: 49 or more hours worked,6192
+E07000110,Maidstone,-8,Does not apply,89373
+E07000110,Maidstone,1,Part-time: 15 hours or less worked,8741
+E07000110,Maidstone,2,Part-time: 16 to 30 hours worked,15525
+E07000110,Maidstone,3,Full-time: 31 to 48 hours worked,50706
+E07000110,Maidstone,4,Full-time: 49 or more hours worked,11437
+E07000111,Sevenoaks,-8,Does not apply,64130
+E07000111,Sevenoaks,1,Part-time: 15 hours or less worked,6623
+E07000111,Sevenoaks,2,Part-time: 16 to 30 hours worked,10192
+E07000111,Sevenoaks,3,Full-time: 31 to 48 hours worked,31035
+E07000111,Sevenoaks,4,Full-time: 49 or more hours worked,8532
+E07000112,Folkestone and Hythe,-8,Does not apply,61939
+E07000112,Folkestone and Hythe,1,Part-time: 15 hours or less worked,5399
+E07000112,Folkestone and Hythe,2,Part-time: 16 to 30 hours worked,9761
+E07000112,Folkestone and Hythe,3,Full-time: 31 to 48 hours worked,27109
+E07000112,Folkestone and Hythe,4,Full-time: 49 or more hours worked,5549
+E07000113,Swale,-8,Does not apply,82474
+E07000113,Swale,1,Part-time: 15 hours or less worked,6660
+E07000113,Swale,2,Part-time: 16 to 30 hours worked,12860
+E07000113,Swale,3,Full-time: 31 to 48 hours worked,40567
+E07000113,Swale,4,Full-time: 49 or more hours worked,9116
+E07000114,Thanet,-8,Does not apply,81397
+E07000114,Thanet,1,Part-time: 15 hours or less worked,6864
+E07000114,Thanet,2,Part-time: 16 to 30 hours worked,13294
+E07000114,Thanet,3,Full-time: 31 to 48 hours worked,32623
+E07000114,Thanet,4,Full-time: 49 or more hours worked,6409
+E07000115,Tonbridge and Malling,-8,Does not apply,67775
+E07000115,Tonbridge and Malling,1,Part-time: 15 hours or less worked,6872
+E07000115,Tonbridge and Malling,2,Part-time: 16 to 30 hours worked,11657
+E07000115,Tonbridge and Malling,3,Full-time: 31 to 48 hours worked,37086
+E07000115,Tonbridge and Malling,4,Full-time: 49 or more hours worked,8811
+E07000116,Tunbridge Wells,-8,Does not apply,59413
+E07000116,Tunbridge Wells,1,Part-time: 15 hours or less worked,6414
+E07000116,Tunbridge Wells,2,Part-time: 16 to 30 hours worked,10239
+E07000116,Tunbridge Wells,3,Full-time: 31 to 48 hours worked,31163
+E07000116,Tunbridge Wells,4,Full-time: 49 or more hours worked,8082
+E07000117,Burnley,-8,Does not apply,54612
+E07000117,Burnley,1,Part-time: 15 hours or less worked,3348
+E07000117,Burnley,2,Part-time: 16 to 30 hours worked,8506
+E07000117,Burnley,3,Full-time: 31 to 48 hours worked,25374
+E07000117,Burnley,4,Full-time: 49 or more hours worked,2806
+E07000118,Chorley,-8,Does not apply,60488
+E07000118,Chorley,1,Part-time: 15 hours or less worked,5123
+E07000118,Chorley,2,Part-time: 16 to 30 hours worked,10621
+E07000118,Chorley,3,Full-time: 31 to 48 hours worked,35318
+E07000118,Chorley,4,Full-time: 49 or more hours worked,6182
+E07000119,Fylde,-8,Does not apply,45658
+E07000119,Fylde,1,Part-time: 15 hours or less worked,4034
+E07000119,Fylde,2,Part-time: 16 to 30 hours worked,7041
+E07000119,Fylde,3,Full-time: 31 to 48 hours worked,20822
+E07000119,Fylde,4,Full-time: 49 or more hours worked,3818
+E07000120,Hyndburn,-8,Does not apply,46607
+E07000120,Hyndburn,1,Part-time: 15 hours or less worked,2893
+E07000120,Hyndburn,2,Part-time: 16 to 30 hours worked,7104
+E07000120,Hyndburn,3,Full-time: 31 to 48 hours worked,22795
+E07000120,Hyndburn,4,Full-time: 49 or more hours worked,2837
+E07000121,Lancaster,-8,Does not apply,80533
+E07000121,Lancaster,1,Part-time: 15 hours or less worked,7586
+E07000121,Lancaster,2,Part-time: 16 to 30 hours worked,13750
+E07000121,Lancaster,3,Full-time: 31 to 48 hours worked,34451
+E07000121,Lancaster,4,Full-time: 49 or more hours worked,6613
+E07000122,Pendle,-8,Does not apply,56134
+E07000122,Pendle,1,Part-time: 15 hours or less worked,3909
+E07000122,Pendle,2,Part-time: 16 to 30 hours worked,8893
+E07000122,Pendle,3,Full-time: 31 to 48 hours worked,23657
+E07000122,Pendle,4,Full-time: 49 or more hours worked,3164
+E07000123,Preston,-8,Does not apply,81204
+E07000123,Preston,1,Part-time: 15 hours or less worked,6930
+E07000123,Preston,2,Part-time: 16 to 30 hours worked,14263
+E07000123,Preston,3,Full-time: 31 to 48 hours worked,40027
+E07000123,Preston,4,Full-time: 49 or more hours worked,5414
+E07000124,Ribble Valley,-8,Does not apply,31176
+E07000124,Ribble Valley,1,Part-time: 15 hours or less worked,3132
+E07000124,Ribble Valley,2,Part-time: 16 to 30 hours worked,5548
+E07000124,Ribble Valley,3,Full-time: 31 to 48 hours worked,17587
+E07000124,Ribble Valley,4,Full-time: 49 or more hours worked,4118
+E07000125,Rossendale,-8,Does not apply,37757
+E07000125,Rossendale,1,Part-time: 15 hours or less worked,2925
+E07000125,Rossendale,2,Part-time: 16 to 30 hours worked,6446
+E07000125,Rossendale,3,Full-time: 31 to 48 hours worked,20294
+E07000125,Rossendale,4,Full-time: 49 or more hours worked,3451
+E07000126,South Ribble,-8,Does not apply,56324
+E07000126,South Ribble,1,Part-time: 15 hours or less worked,4603
+E07000126,South Ribble,2,Part-time: 16 to 30 hours worked,10088
+E07000126,South Ribble,3,Full-time: 31 to 48 hours worked,34628
+E07000126,South Ribble,4,Full-time: 49 or more hours worked,5392
+E07000127,West Lancashire,-8,Does not apply,63883
+E07000127,West Lancashire,1,Part-time: 15 hours or less worked,5810
+E07000127,West Lancashire,2,Part-time: 16 to 30 hours worked,10517
+E07000127,West Lancashire,3,Full-time: 31 to 48 hours worked,31281
+E07000127,West Lancashire,4,Full-time: 49 or more hours worked,5938
+E07000128,Wyre,-8,Does not apply,64111
+E07000128,Wyre,1,Part-time: 15 hours or less worked,5094
+E07000128,Wyre,2,Part-time: 16 to 30 hours worked,10310
+E07000128,Wyre,3,Full-time: 31 to 48 hours worked,27049
+E07000128,Wyre,4,Full-time: 49 or more hours worked,5382
+E07000129,Blaby,-8,Does not apply,51480
+E07000129,Blaby,1,Part-time: 15 hours or less worked,4611
+E07000129,Blaby,2,Part-time: 16 to 30 hours worked,9952
+E07000129,Blaby,3,Full-time: 31 to 48 hours worked,31671
+E07000129,Blaby,4,Full-time: 49 or more hours worked,5212
+E07000130,Charnwood,-8,Does not apply,99172
+E07000130,Charnwood,1,Part-time: 15 hours or less worked,8944
+E07000130,Charnwood,2,Part-time: 16 to 30 hours worked,16641
+E07000130,Charnwood,3,Full-time: 31 to 48 hours worked,50718
+E07000130,Charnwood,4,Full-time: 49 or more hours worked,8496
+E07000131,Harborough,-8,Does not apply,48854
+E07000131,Harborough,1,Part-time: 15 hours or less worked,5206
+E07000131,Harborough,2,Part-time: 16 to 30 hours worked,9101
+E07000131,Harborough,3,Full-time: 31 to 48 hours worked,27964
+E07000131,Harborough,4,Full-time: 49 or more hours worked,6500
+E07000132,Hinckley and Bosworth,-8,Does not apply,57754
+E07000132,Hinckley and Bosworth,1,Part-time: 15 hours or less worked,5034
+E07000132,Hinckley and Bosworth,2,Part-time: 16 to 30 hours worked,10548
+E07000132,Hinckley and Bosworth,3,Full-time: 31 to 48 hours worked,34150
+E07000132,Hinckley and Bosworth,4,Full-time: 49 or more hours worked,6154
+E07000133,Melton,-8,Does not apply,26287
+E07000133,Melton,1,Part-time: 15 hours or less worked,2750
+E07000133,Melton,2,Part-time: 16 to 30 hours worked,4973
+E07000133,Melton,3,Full-time: 31 to 48 hours worked,14288
+E07000133,Melton,4,Full-time: 49 or more hours worked,3453
+E07000134,North West Leicestershire,-8,Does not apply,52744
+E07000134,North West Leicestershire,1,Part-time: 15 hours or less worked,4760
+E07000134,North West Leicestershire,2,Part-time: 16 to 30 hours worked,9170
+E07000134,North West Leicestershire,3,Full-time: 31 to 48 hours worked,31766
+E07000134,North West Leicestershire,4,Full-time: 49 or more hours worked,6265
+E07000135,Oadby and Wigston,-8,Does not apply,31756
+E07000135,Oadby and Wigston,1,Part-time: 15 hours or less worked,2593
+E07000135,Oadby and Wigston,2,Part-time: 16 to 30 hours worked,5446
+E07000135,Oadby and Wigston,3,Full-time: 31 to 48 hours worked,15716
+E07000135,Oadby and Wigston,4,Full-time: 49 or more hours worked,2234
+E07000136,Boston,-8,Does not apply,36871
+E07000136,Boston,1,Part-time: 15 hours or less worked,2729
+E07000136,Boston,2,Part-time: 16 to 30 hours worked,6652
+E07000136,Boston,3,Full-time: 31 to 48 hours worked,19918
+E07000136,Boston,4,Full-time: 49 or more hours worked,4332
+E07000137,East Lindsey,-8,Does not apply,86719
+E07000137,East Lindsey,1,Part-time: 15 hours or less worked,6577
+E07000137,East Lindsey,2,Part-time: 16 to 30 hours worked,12738
+E07000137,East Lindsey,3,Full-time: 31 to 48 hours worked,28556
+E07000137,East Lindsey,4,Full-time: 49 or more hours worked,7706
+E07000138,Lincoln,-8,Does not apply,57095
+E07000138,Lincoln,1,Part-time: 15 hours or less worked,5591
+E07000138,Lincoln,2,Part-time: 16 to 30 hours worked,9417
+E07000138,Lincoln,3,Full-time: 31 to 48 hours worked,27478
+E07000138,Lincoln,4,Full-time: 49 or more hours worked,4232
+E07000139,North Kesteven,-8,Does not apply,61182
+E07000139,North Kesteven,1,Part-time: 15 hours or less worked,5354
+E07000139,North Kesteven,2,Part-time: 16 to 30 hours worked,10529
+E07000139,North Kesteven,3,Full-time: 31 to 48 hours worked,33773
+E07000139,North Kesteven,4,Full-time: 49 or more hours worked,7236
+E07000140,South Holland,-8,Does not apply,49888
+E07000140,South Holland,1,Part-time: 15 hours or less worked,3790
+E07000140,South Holland,2,Part-time: 16 to 30 hours worked,7951
+E07000140,South Holland,3,Full-time: 31 to 48 hours worked,26644
+E07000140,South Holland,4,Full-time: 49 or more hours worked,6849
+E07000141,South Kesteven,-8,Does not apply,75210
+E07000141,South Kesteven,1,Part-time: 15 hours or less worked,6832
+E07000141,South Kesteven,2,Part-time: 16 to 30 hours worked,12955
+E07000141,South Kesteven,3,Full-time: 31 to 48 hours worked,39658
+E07000141,South Kesteven,4,Full-time: 49 or more hours worked,8748
+E07000142,West Lindsey,-8,Does not apply,53017
+E07000142,West Lindsey,1,Part-time: 15 hours or less worked,4505
+E07000142,West Lindsey,2,Part-time: 16 to 30 hours worked,8489
+E07000142,West Lindsey,3,Full-time: 31 to 48 hours worked,23610
+E07000142,West Lindsey,4,Full-time: 49 or more hours worked,5532
+E07000143,Breckland,-8,Does not apply,75838
+E07000143,Breckland,1,Part-time: 15 hours or less worked,7119
+E07000143,Breckland,2,Part-time: 16 to 30 hours worked,12862
+E07000143,Breckland,3,Full-time: 31 to 48 hours worked,36910
+E07000143,Breckland,4,Full-time: 49 or more hours worked,8747
+E07000144,Broadland,-8,Does not apply,69132
+E07000144,Broadland,1,Part-time: 15 hours or less worked,7120
+E07000144,Broadland,2,Part-time: 16 to 30 hours worked,13671
+E07000144,Broadland,3,Full-time: 31 to 48 hours worked,35015
+E07000144,Broadland,4,Full-time: 49 or more hours worked,6783
+E07000145,Great Yarmouth,-8,Does not apply,58609
+E07000145,Great Yarmouth,1,Part-time: 15 hours or less worked,4801
+E07000145,Great Yarmouth,2,Part-time: 16 to 30 hours worked,9487
+E07000145,Great Yarmouth,3,Full-time: 31 to 48 hours worked,22422
+E07000145,Great Yarmouth,4,Full-time: 49 or more hours worked,4429
+E07000146,King's Lynn and West Norfolk,-8,Does not apply,85102
+E07000146,King's Lynn and West Norfolk,1,Part-time: 15 hours or less worked,7291
+E07000146,King's Lynn and West Norfolk,2,Part-time: 16 to 30 hours worked,14231
+E07000146,King's Lynn and West Norfolk,3,Full-time: 31 to 48 hours worked,38895
+E07000146,King's Lynn and West Norfolk,4,Full-time: 49 or more hours worked,8803
+E07000147,North Norfolk,-8,Does not apply,61321
+E07000147,North Norfolk,1,Part-time: 15 hours or less worked,6006
+E07000147,North Norfolk,2,Part-time: 16 to 30 hours worked,9703
+E07000147,North Norfolk,3,Full-time: 31 to 48 hours worked,20901
+E07000147,North Norfolk,4,Full-time: 49 or more hours worked,5048
+E07000148,Norwich,-8,Does not apply,78202
+E07000148,Norwich,1,Part-time: 15 hours or less worked,8039
+E07000148,Norwich,2,Part-time: 16 to 30 hours worked,13934
+E07000148,Norwich,3,Full-time: 31 to 48 hours worked,38164
+E07000148,Norwich,4,Full-time: 49 or more hours worked,5585
+E07000149,South Norfolk,-8,Does not apply,74199
+E07000149,South Norfolk,1,Part-time: 15 hours or less worked,7628
+E07000149,South Norfolk,2,Part-time: 16 to 30 hours worked,14089
+E07000149,South Norfolk,3,Full-time: 31 to 48 hours worked,37418
+E07000149,South Norfolk,4,Full-time: 49 or more hours worked,8614
+E07000163,Craven,-8,Does not apply,29795
+E07000163,Craven,1,Part-time: 15 hours or less worked,3345
+E07000163,Craven,2,Part-time: 16 to 30 hours worked,5467
+E07000163,Craven,3,Full-time: 31 to 48 hours worked,14333
+E07000163,Craven,4,Full-time: 49 or more hours worked,3986
+E07000164,Hambleton,-8,Does not apply,47286
+E07000164,Hambleton,1,Part-time: 15 hours or less worked,4721
+E07000164,Hambleton,2,Part-time: 16 to 30 hours worked,8795
+E07000164,Hambleton,3,Full-time: 31 to 48 hours worked,23371
+E07000164,Hambleton,4,Full-time: 49 or more hours worked,6517
+E07000165,Harrogate,-8,Does not apply,82982
+E07000165,Harrogate,1,Part-time: 15 hours or less worked,8848
+E07000165,Harrogate,2,Part-time: 16 to 30 hours worked,15522
+E07000165,Harrogate,3,Full-time: 31 to 48 hours worked,44623
+E07000165,Harrogate,4,Full-time: 49 or more hours worked,10692
+E07000166,Richmondshire,-8,Does not apply,25097
+E07000166,Richmondshire,1,Part-time: 15 hours or less worked,2660
+E07000166,Richmondshire,2,Part-time: 16 to 30 hours worked,4618
+E07000166,Richmondshire,3,Full-time: 31 to 48 hours worked,13002
+E07000166,Richmondshire,4,Full-time: 49 or more hours worked,4399
+E07000167,Ryedale,-8,Does not apply,28746
+E07000167,Ryedale,1,Part-time: 15 hours or less worked,3093
+E07000167,Ryedale,2,Part-time: 16 to 30 hours worked,5393
+E07000167,Ryedale,3,Full-time: 31 to 48 hours worked,13478
+E07000167,Ryedale,4,Full-time: 49 or more hours worked,3997
+E07000168,Scarborough,-8,Does not apply,62186
+E07000168,Scarborough,1,Part-time: 15 hours or less worked,5623
+E07000168,Scarborough,2,Part-time: 16 to 30 hours worked,11198
+E07000168,Scarborough,3,Full-time: 31 to 48 hours worked,24536
+E07000168,Scarborough,4,Full-time: 49 or more hours worked,5192
+E07000169,Selby,-8,Does not apply,45864
+E07000169,Selby,1,Part-time: 15 hours or less worked,4192
+E07000169,Selby,2,Part-time: 16 to 30 hours worked,8552
+E07000169,Selby,3,Full-time: 31 to 48 hours worked,27566
+E07000169,Selby,4,Full-time: 49 or more hours worked,5814
+E07000170,Ashfield,-8,Does not apply,67870
+E07000170,Ashfield,1,Part-time: 15 hours or less worked,4786
+E07000170,Ashfield,2,Part-time: 16 to 30 hours worked,11451
+E07000170,Ashfield,3,Full-time: 31 to 48 hours worked,36725
+E07000170,Ashfield,4,Full-time: 49 or more hours worked,5468
+E07000171,Bassetlaw,-8,Does not apply,62889
+E07000171,Bassetlaw,1,Part-time: 15 hours or less worked,5143
+E07000171,Bassetlaw,2,Part-time: 16 to 30 hours worked,11315
+E07000171,Bassetlaw,3,Full-time: 31 to 48 hours worked,32043
+E07000171,Bassetlaw,4,Full-time: 49 or more hours worked,6416
+E07000172,Broxtowe,-8,Does not apply,59024
+E07000172,Broxtowe,1,Part-time: 15 hours or less worked,4985
+E07000172,Broxtowe,2,Part-time: 16 to 30 hours worked,10317
+E07000172,Broxtowe,3,Full-time: 31 to 48 hours worked,31844
+E07000172,Broxtowe,4,Full-time: 49 or more hours worked,4768
+E07000173,Gedling,-8,Does not apply,61076
+E07000173,Gedling,1,Part-time: 15 hours or less worked,5149
+E07000173,Gedling,2,Part-time: 16 to 30 hours worked,11699
+E07000173,Gedling,3,Full-time: 31 to 48 hours worked,33903
+E07000173,Gedling,4,Full-time: 49 or more hours worked,5438
+E07000174,Mansfield,-8,Does not apply,59115
+E07000174,Mansfield,1,Part-time: 15 hours or less worked,4360
+E07000174,Mansfield,2,Part-time: 16 to 30 hours worked,10413
+E07000174,Mansfield,3,Full-time: 31 to 48 hours worked,31414
+E07000174,Mansfield,4,Full-time: 49 or more hours worked,5180
+E07000175,Newark and Sherwood,-8,Does not apply,65842
+E07000175,Newark and Sherwood,1,Part-time: 15 hours or less worked,5734
+E07000175,Newark and Sherwood,2,Part-time: 16 to 30 hours worked,10882
+E07000175,Newark and Sherwood,3,Full-time: 31 to 48 hours worked,33327
+E07000175,Newark and Sherwood,4,Full-time: 49 or more hours worked,7171
+E07000176,Rushcliffe,-8,Does not apply,62099
+E07000176,Rushcliffe,1,Part-time: 15 hours or less worked,5799
+E07000176,Rushcliffe,2,Part-time: 16 to 30 hours worked,10725
+E07000176,Rushcliffe,3,Full-time: 31 to 48 hours worked,33528
+E07000176,Rushcliffe,4,Full-time: 49 or more hours worked,6924
+E07000177,Cherwell,-8,Does not apply,76044
+E07000177,Cherwell,1,Part-time: 15 hours or less worked,7825
+E07000177,Cherwell,2,Part-time: 16 to 30 hours worked,14807
+E07000177,Cherwell,3,Full-time: 31 to 48 hours worked,52841
+E07000177,Cherwell,4,Full-time: 49 or more hours worked,9499
+E07000178,Oxford,-8,Does not apply,88714
+E07000178,Oxford,1,Part-time: 15 hours or less worked,8857
+E07000178,Oxford,2,Part-time: 16 to 30 hours worked,12717
+E07000178,Oxford,3,Full-time: 31 to 48 hours worked,43899
+E07000178,Oxford,4,Full-time: 49 or more hours worked,7853
+E07000179,South Oxfordshire,-8,Does not apply,72609
+E07000179,South Oxfordshire,1,Part-time: 15 hours or less worked,8124
+E07000179,South Oxfordshire,2,Part-time: 16 to 30 hours worked,13391
+E07000179,South Oxfordshire,3,Full-time: 31 to 48 hours worked,45106
+E07000179,South Oxfordshire,4,Full-time: 49 or more hours worked,9855
+E07000180,Vale of White Horse,-8,Does not apply,68049
+E07000180,Vale of White Horse,1,Part-time: 15 hours or less worked,6631
+E07000180,Vale of White Horse,2,Part-time: 16 to 30 hours worked,12180
+E07000180,Vale of White Horse,3,Full-time: 31 to 48 hours worked,43896
+E07000180,Vale of White Horse,4,Full-time: 49 or more hours worked,8157
+E07000181,West Oxfordshire,-8,Does not apply,55311
+E07000181,West Oxfordshire,1,Part-time: 15 hours or less worked,6256
+E07000181,West Oxfordshire,2,Part-time: 16 to 30 hours worked,10579
+E07000181,West Oxfordshire,3,Full-time: 31 to 48 hours worked,34764
+E07000181,West Oxfordshire,4,Full-time: 49 or more hours worked,7327
+E07000187,Mendip,-8,Does not apply,60418
+E07000187,Mendip,1,Part-time: 15 hours or less worked,7295
+E07000187,Mendip,2,Part-time: 16 to 30 hours worked,12210
+E07000187,Mendip,3,Full-time: 31 to 48 hours worked,28981
+E07000187,Mendip,4,Full-time: 49 or more hours worked,7182
+E07000188,Sedgemoor,-8,Does not apply,66196
+E07000188,Sedgemoor,1,Part-time: 15 hours or less worked,6263
+E07000188,Sedgemoor,2,Part-time: 16 to 30 hours worked,12027
+E07000188,Sedgemoor,3,Full-time: 31 to 48 hours worked,33555
+E07000188,Sedgemoor,4,Full-time: 49 or more hours worked,7302
+E07000189,South Somerset,-8,Does not apply,91740
+E07000189,South Somerset,1,Part-time: 15 hours or less worked,8630
+E07000189,South Somerset,2,Part-time: 16 to 30 hours worked,16839
+E07000189,South Somerset,3,Full-time: 31 to 48 hours worked,45912
+E07000189,South Somerset,4,Full-time: 49 or more hours worked,9548
+E07000192,Cannock Chase,-8,Does not apply,51642
+E07000192,Cannock Chase,1,Part-time: 15 hours or less worked,4216
+E07000192,Cannock Chase,2,Part-time: 16 to 30 hours worked,9390
+E07000192,Cannock Chase,3,Full-time: 31 to 48 hours worked,29813
+E07000192,Cannock Chase,4,Full-time: 49 or more hours worked,5458
+E07000193,East Staffordshire,-8,Does not apply,64701
+E07000193,East Staffordshire,1,Part-time: 15 hours or less worked,5484
+E07000193,East Staffordshire,2,Part-time: 16 to 30 hours worked,10958
+E07000193,East Staffordshire,3,Full-time: 31 to 48 hours worked,36028
+E07000193,East Staffordshire,4,Full-time: 49 or more hours worked,6848
+E07000194,Lichfield,-8,Does not apply,55963
+E07000194,Lichfield,1,Part-time: 15 hours or less worked,5262
+E07000194,Lichfield,2,Part-time: 16 to 30 hours worked,9415
+E07000194,Lichfield,3,Full-time: 31 to 48 hours worked,29257
+E07000194,Lichfield,4,Full-time: 49 or more hours worked,6538
+E07000195,Newcastle-under-Lyme,-8,Does not apply,66617
+E07000195,Newcastle-under-Lyme,1,Part-time: 15 hours or less worked,5257
+E07000195,Newcastle-under-Lyme,2,Part-time: 16 to 30 hours worked,11231
+E07000195,Newcastle-under-Lyme,3,Full-time: 31 to 48 hours worked,34557
+E07000195,Newcastle-under-Lyme,4,Full-time: 49 or more hours worked,5637
+E07000196,South Staffordshire,-8,Does not apply,59773
+E07000196,South Staffordshire,1,Part-time: 15 hours or less worked,5183
+E07000196,South Staffordshire,2,Part-time: 16 to 30 hours worked,9920
+E07000196,South Staffordshire,3,Full-time: 31 to 48 hours worked,29642
+E07000196,South Staffordshire,4,Full-time: 49 or more hours worked,5954
+E07000197,Stafford,-8,Does not apply,71101
+E07000197,Stafford,1,Part-time: 15 hours or less worked,6261
+E07000197,Stafford,2,Part-time: 16 to 30 hours worked,12044
+E07000197,Stafford,3,Full-time: 31 to 48 hours worked,39195
+E07000197,Stafford,4,Full-time: 49 or more hours worked,8266
+E07000198,Staffordshire Moorlands,-8,Does not apply,50810
+E07000198,Staffordshire Moorlands,1,Part-time: 15 hours or less worked,4598
+E07000198,Staffordshire Moorlands,2,Part-time: 16 to 30 hours worked,8957
+E07000198,Staffordshire Moorlands,3,Full-time: 31 to 48 hours worked,25615
+E07000198,Staffordshire Moorlands,4,Full-time: 49 or more hours worked,5865
+E07000199,Tamworth,-8,Does not apply,40489
+E07000199,Tamworth,1,Part-time: 15 hours or less worked,3248
+E07000199,Tamworth,2,Part-time: 16 to 30 hours worked,7059
+E07000199,Tamworth,3,Full-time: 31 to 48 hours worked,24114
+E07000199,Tamworth,4,Full-time: 49 or more hours worked,3737
+E07000200,Babergh,-8,Does not apply,49384
+E07000200,Babergh,1,Part-time: 15 hours or less worked,5421
+E07000200,Babergh,2,Part-time: 16 to 30 hours worked,8912
+E07000200,Babergh,3,Full-time: 31 to 48 hours worked,23369
+E07000200,Babergh,4,Full-time: 49 or more hours worked,5255
+E07000202,Ipswich,-8,Does not apply,72616
+E07000202,Ipswich,1,Part-time: 15 hours or less worked,6730
+E07000202,Ipswich,2,Part-time: 16 to 30 hours worked,14038
+E07000202,Ipswich,3,Full-time: 31 to 48 hours worked,39598
+E07000202,Ipswich,4,Full-time: 49 or more hours worked,6660
+E07000203,Mid Suffolk,-8,Does not apply,52675
+E07000203,Mid Suffolk,1,Part-time: 15 hours or less worked,5744
+E07000203,Mid Suffolk,2,Part-time: 16 to 30 hours worked,9965
+E07000203,Mid Suffolk,3,Full-time: 31 to 48 hours worked,27543
+E07000203,Mid Suffolk,4,Full-time: 49 or more hours worked,6771
+E07000207,Elmbridge,-8,Does not apply,71774
+E07000207,Elmbridge,1,Part-time: 15 hours or less worked,7819
+E07000207,Elmbridge,2,Part-time: 16 to 30 hours worked,11146
+E07000207,Elmbridge,3,Full-time: 31 to 48 hours worked,36120
+E07000207,Elmbridge,4,Full-time: 49 or more hours worked,11897
+E07000208,Epsom and Ewell,-8,Does not apply,41029
+E07000208,Epsom and Ewell,1,Part-time: 15 hours or less worked,4291
+E07000208,Epsom and Ewell,2,Part-time: 16 to 30 hours worked,6929
+E07000208,Epsom and Ewell,3,Full-time: 31 to 48 hours worked,23623
+E07000208,Epsom and Ewell,4,Full-time: 49 or more hours worked,5066
+E07000209,Guildford,-8,Does not apply,73876
+E07000209,Guildford,1,Part-time: 15 hours or less worked,8478
+E07000209,Guildford,2,Part-time: 16 to 30 hours worked,11683
+E07000209,Guildford,3,Full-time: 31 to 48 hours worked,39744
+E07000209,Guildford,4,Full-time: 49 or more hours worked,9869
+E07000210,Mole Valley,-8,Does not apply,45044
+E07000210,Mole Valley,1,Part-time: 15 hours or less worked,5437
+E07000210,Mole Valley,2,Part-time: 16 to 30 hours worked,7692
+E07000210,Mole Valley,3,Full-time: 31 to 48 hours worked,23132
+E07000210,Mole Valley,4,Full-time: 49 or more hours worked,6080
+E07000211,Reigate and Banstead,-8,Does not apply,75719
+E07000211,Reigate and Banstead,1,Part-time: 15 hours or less worked,8043
+E07000211,Reigate and Banstead,2,Part-time: 16 to 30 hours worked,13015
+E07000211,Reigate and Banstead,3,Full-time: 31 to 48 hours worked,44451
+E07000211,Reigate and Banstead,4,Full-time: 49 or more hours worked,9618
+E07000212,Runnymede,-8,Does not apply,45622
+E07000212,Runnymede,1,Part-time: 15 hours or less worked,5215
+E07000212,Runnymede,2,Part-time: 16 to 30 hours worked,7107
+E07000212,Runnymede,3,Full-time: 31 to 48 hours worked,24677
+E07000212,Runnymede,4,Full-time: 49 or more hours worked,5458
+E07000213,Spelthorne,-8,Does not apply,51417
+E07000213,Spelthorne,1,Part-time: 15 hours or less worked,4992
+E07000213,Spelthorne,2,Part-time: 16 to 30 hours worked,8722
+E07000213,Spelthorne,3,Full-time: 31 to 48 hours worked,32083
+E07000213,Spelthorne,4,Full-time: 49 or more hours worked,5742
+E07000214,Surrey Heath,-8,Does not apply,45090
+E07000214,Surrey Heath,1,Part-time: 15 hours or less worked,4659
+E07000214,Surrey Heath,2,Part-time: 16 to 30 hours worked,7725
+E07000214,Surrey Heath,3,Full-time: 31 to 48 hours worked,27139
+E07000214,Surrey Heath,4,Full-time: 49 or more hours worked,5840
+E07000215,Tandridge,-8,Does not apply,45299
+E07000215,Tandridge,1,Part-time: 15 hours or less worked,4896
+E07000215,Tandridge,2,Part-time: 16 to 30 hours worked,7593
+E07000215,Tandridge,3,Full-time: 31 to 48 hours worked,23964
+E07000215,Tandridge,4,Full-time: 49 or more hours worked,6122
+E07000216,Waverley,-8,Does not apply,67507
+E07000216,Waverley,1,Part-time: 15 hours or less worked,7740
+E07000216,Waverley,2,Part-time: 16 to 30 hours worked,11152
+E07000216,Waverley,3,Full-time: 31 to 48 hours worked,32672
+E07000216,Waverley,4,Full-time: 49 or more hours worked,9158
+E07000217,Woking,-8,Does not apply,51201
+E07000217,Woking,1,Part-time: 15 hours or less worked,5531
+E07000217,Woking,2,Part-time: 16 to 30 hours worked,8792
+E07000217,Woking,3,Full-time: 31 to 48 hours worked,31711
+E07000217,Woking,4,Full-time: 49 or more hours worked,6708
+E07000218,North Warwickshire,-8,Does not apply,33281
+E07000218,North Warwickshire,1,Part-time: 15 hours or less worked,2913
+E07000218,North Warwickshire,2,Part-time: 16 to 30 hours worked,5913
+E07000218,North Warwickshire,3,Full-time: 31 to 48 hours worked,19336
+E07000218,North Warwickshire,4,Full-time: 49 or more hours worked,3592
+E07000219,Nuneaton and Bedworth,-8,Does not apply,71083
+E07000219,Nuneaton and Bedworth,1,Part-time: 15 hours or less worked,5095
+E07000219,Nuneaton and Bedworth,2,Part-time: 16 to 30 hours worked,11966
+E07000219,Nuneaton and Bedworth,3,Full-time: 31 to 48 hours worked,40460
+E07000219,Nuneaton and Bedworth,4,Full-time: 49 or more hours worked,5593
+E07000220,Rugby,-8,Does not apply,56257
+E07000220,Rugby,1,Part-time: 15 hours or less worked,4994
+E07000220,Rugby,2,Part-time: 16 to 30 hours worked,9547
+E07000220,Rugby,3,Full-time: 31 to 48 hours worked,36959
+E07000220,Rugby,4,Full-time: 49 or more hours worked,6606
+E07000221,Stratford-on-Avon,-8,Does not apply,68489
+E07000221,Stratford-on-Avon,1,Part-time: 15 hours or less worked,7823
+E07000221,Stratford-on-Avon,2,Part-time: 16 to 30 hours worked,12446
+E07000221,Stratford-on-Avon,3,Full-time: 31 to 48 hours worked,36968
+E07000221,Stratford-on-Avon,4,Full-time: 49 or more hours worked,8999
+E07000222,Warwick,-8,Does not apply,75705
+E07000222,Warwick,1,Part-time: 15 hours or less worked,7788
+E07000222,Warwick,2,Part-time: 16 to 30 hours worked,12597
+E07000222,Warwick,3,Full-time: 31 to 48 hours worked,44328
+E07000222,Warwick,4,Full-time: 49 or more hours worked,8035
+E07000223,Adur,-8,Does not apply,34719
+E07000223,Adur,1,Part-time: 15 hours or less worked,3437
+E07000223,Adur,2,Part-time: 16 to 30 hours worked,6764
+E07000223,Adur,3,Full-time: 31 to 48 hours worked,16875
+E07000223,Adur,4,Full-time: 49 or more hours worked,2749
+E07000224,Arun,-8,Does not apply,91698
+E07000224,Arun,1,Part-time: 15 hours or less worked,9099
+E07000224,Arun,2,Part-time: 16 to 30 hours worked,15675
+E07000224,Arun,3,Full-time: 31 to 48 hours worked,40561
+E07000224,Arun,4,Full-time: 49 or more hours worked,7856
+E07000225,Chichester,-8,Does not apply,67702
+E07000225,Chichester,1,Part-time: 15 hours or less worked,7926
+E07000225,Chichester,2,Part-time: 16 to 30 hours worked,11612
+E07000225,Chichester,3,Full-time: 31 to 48 hours worked,29448
+E07000225,Chichester,4,Full-time: 49 or more hours worked,7379
+E07000226,Crawley,-8,Does not apply,59592
+E07000226,Crawley,1,Part-time: 15 hours or less worked,6322
+E07000226,Crawley,2,Part-time: 16 to 30 hours worked,11132
+E07000226,Crawley,3,Full-time: 31 to 48 hours worked,36266
+E07000226,Crawley,4,Full-time: 49 or more hours worked,5179
+E07000227,Horsham,-8,Does not apply,74611
+E07000227,Horsham,1,Part-time: 15 hours or less worked,9144
+E07000227,Horsham,2,Part-time: 16 to 30 hours worked,13681
+E07000227,Horsham,3,Full-time: 31 to 48 hours worked,40356
+E07000227,Horsham,4,Full-time: 49 or more hours worked,8986
+E07000228,Mid Sussex,-8,Does not apply,75994
+E07000228,Mid Sussex,1,Part-time: 15 hours or less worked,8973
+E07000228,Mid Sussex,2,Part-time: 16 to 30 hours worked,14525
+E07000228,Mid Sussex,3,Full-time: 31 to 48 hours worked,43860
+E07000228,Mid Sussex,4,Full-time: 49 or more hours worked,9214
+E07000229,Worthing,-8,Does not apply,57781
+E07000229,Worthing,1,Part-time: 15 hours or less worked,6050
+E07000229,Worthing,2,Part-time: 16 to 30 hours worked,11417
+E07000229,Worthing,3,Full-time: 31 to 48 hours worked,31338
+E07000229,Worthing,4,Full-time: 49 or more hours worked,4752
+E07000234,Bromsgrove,-8,Does not apply,51896
+E07000234,Bromsgrove,1,Part-time: 15 hours or less worked,4780
+E07000234,Bromsgrove,2,Part-time: 16 to 30 hours worked,9234
+E07000234,Bromsgrove,3,Full-time: 31 to 48 hours worked,27520
+E07000234,Bromsgrove,4,Full-time: 49 or more hours worked,5753
+E07000235,Malvern Hills,-8,Does not apply,43686
+E07000235,Malvern Hills,1,Part-time: 15 hours or less worked,4397
+E07000235,Malvern Hills,2,Part-time: 16 to 30 hours worked,7757
+E07000235,Malvern Hills,3,Full-time: 31 to 48 hours worked,19218
+E07000235,Malvern Hills,4,Full-time: 49 or more hours worked,4428
+E07000236,Redditch,-8,Does not apply,44342
+E07000236,Redditch,1,Part-time: 15 hours or less worked,3675
+E07000236,Redditch,2,Part-time: 16 to 30 hours worked,7887
+E07000236,Redditch,3,Full-time: 31 to 48 hours worked,27280
+E07000236,Redditch,4,Full-time: 49 or more hours worked,3850
+E07000237,Worcester,-8,Does not apply,52243
+E07000237,Worcester,1,Part-time: 15 hours or less worked,5101
+E07000237,Worcester,2,Part-time: 16 to 30 hours worked,10355
+E07000237,Worcester,3,Full-time: 31 to 48 hours worked,31303
+E07000237,Worcester,4,Full-time: 49 or more hours worked,4869
+E07000238,Wychavon,-8,Does not apply,68832
+E07000238,Wychavon,1,Part-time: 15 hours or less worked,6891
+E07000238,Wychavon,2,Part-time: 16 to 30 hours worked,12156
+E07000238,Wychavon,3,Full-time: 31 to 48 hours worked,36385
+E07000238,Wychavon,4,Full-time: 49 or more hours worked,8228
+E07000239,Wyre Forest,-8,Does not apply,55818
+E07000239,Wyre Forest,1,Part-time: 15 hours or less worked,4465
+E07000239,Wyre Forest,2,Part-time: 16 to 30 hours worked,9833
+E07000239,Wyre Forest,3,Full-time: 31 to 48 hours worked,26608
+E07000239,Wyre Forest,4,Full-time: 49 or more hours worked,4883
+E07000240,St Albans,-8,Does not apply,75296
+E07000240,St Albans,1,Part-time: 15 hours or less worked,8037
+E07000240,St Albans,2,Part-time: 16 to 30 hours worked,12552
+E07000240,St Albans,3,Full-time: 31 to 48 hours worked,40974
+E07000240,St Albans,4,Full-time: 49 or more hours worked,11308
+E07000241,Welwyn Hatfield,-8,Does not apply,61684
+E07000241,Welwyn Hatfield,1,Part-time: 15 hours or less worked,6773
+E07000241,Welwyn Hatfield,2,Part-time: 16 to 30 hours worked,10529
+E07000241,Welwyn Hatfield,3,Full-time: 31 to 48 hours worked,34414
+E07000241,Welwyn Hatfield,4,Full-time: 49 or more hours worked,6433
+E07000242,East Hertfordshire,-8,Does not apply,73634
+E07000242,East Hertfordshire,1,Part-time: 15 hours or less worked,8653
+E07000242,East Hertfordshire,2,Part-time: 16 to 30 hours worked,13325
+E07000242,East Hertfordshire,3,Full-time: 31 to 48 hours worked,44328
+E07000242,East Hertfordshire,4,Full-time: 49 or more hours worked,10218
+E07000243,Stevenage,-8,Does not apply,44035
+E07000243,Stevenage,1,Part-time: 15 hours or less worked,4066
+E07000243,Stevenage,2,Part-time: 16 to 30 hours worked,8221
+E07000243,Stevenage,3,Full-time: 31 to 48 hours worked,29016
+E07000243,Stevenage,4,Full-time: 49 or more hours worked,4154
+E07000244,East Suffolk,-8,Does not apply,139694
+E07000244,East Suffolk,1,Part-time: 15 hours or less worked,13502
+E07000244,East Suffolk,2,Part-time: 16 to 30 hours worked,23342
+E07000244,East Suffolk,3,Full-time: 31 to 48 hours worked,56377
+E07000244,East Suffolk,4,Full-time: 49 or more hours worked,13144
+E07000245,West Suffolk,-8,Does not apply,90329
+E07000245,West Suffolk,1,Part-time: 15 hours or less worked,8639
+E07000245,West Suffolk,2,Part-time: 16 to 30 hours worked,15970
+E07000245,West Suffolk,3,Full-time: 31 to 48 hours worked,53528
+E07000245,West Suffolk,4,Full-time: 49 or more hours worked,11482
+E07000246,Somerset West and Taunton,-8,Does not apply,84151
+E07000246,Somerset West and Taunton,1,Part-time: 15 hours or less worked,8010
+E07000246,Somerset West and Taunton,2,Part-time: 16 to 30 hours worked,15614
+E07000246,Somerset West and Taunton,3,Full-time: 31 to 48 hours worked,40916
+E07000246,Somerset West and Taunton,4,Full-time: 49 or more hours worked,8754
+E08000001,Bolton,-8,Does not apply,170525
+E08000001,Bolton,1,Part-time: 15 hours or less worked,11725
+E08000001,Bolton,2,Part-time: 16 to 30 hours worked,27750
+E08000001,Bolton,3,Full-time: 31 to 48 hours worked,75764
+E08000001,Bolton,4,Full-time: 49 or more hours worked,10199
+E08000002,Bury,-8,Does not apply,105369
+E08000002,Bury,1,Part-time: 15 hours or less worked,8126
+E08000002,Bury,2,Part-time: 16 to 30 hours worked,18005
+E08000002,Bury,3,Full-time: 31 to 48 hours worked,54514
+E08000002,Bury,4,Full-time: 49 or more hours worked,7838
+E08000003,Manchester,-8,Does not apply,317655
+E08000003,Manchester,1,Part-time: 15 hours or less worked,25672
+E08000003,Manchester,2,Part-time: 16 to 30 hours worked,48753
+E08000003,Manchester,3,Full-time: 31 to 48 hours worked,142505
+E08000003,Manchester,4,Full-time: 49 or more hours worked,17353
+E08000004,Oldham,-8,Does not apply,143882
+E08000004,Oldham,1,Part-time: 15 hours or less worked,9088
+E08000004,Oldham,2,Part-time: 16 to 30 hours worked,22246
+E08000004,Oldham,3,Full-time: 31 to 48 hours worked,59308
+E08000004,Oldham,4,Full-time: 49 or more hours worked,7564
+E08000005,Rochdale,-8,Does not apply,129314
+E08000005,Rochdale,1,Part-time: 15 hours or less worked,8024
+E08000005,Rochdale,2,Part-time: 16 to 30 hours worked,19554
+E08000005,Rochdale,3,Full-time: 31 to 48 hours worked,59047
+E08000005,Rochdale,4,Full-time: 49 or more hours worked,7834
+E08000006,Salford,-8,Does not apply,142317
+E08000006,Salford,1,Part-time: 15 hours or less worked,11306
+E08000006,Salford,2,Part-time: 16 to 30 hours worked,23988
+E08000006,Salford,3,Full-time: 31 to 48 hours worked,81921
+E08000006,Salford,4,Full-time: 49 or more hours worked,10391
+E08000007,Stockport,-8,Does not apply,154967
+E08000007,Stockport,1,Part-time: 15 hours or less worked,13170
+E08000007,Stockport,2,Part-time: 16 to 30 hours worked,27032
+E08000007,Stockport,3,Full-time: 31 to 48 hours worked,86908
+E08000007,Stockport,4,Full-time: 49 or more hours worked,12697
+E08000008,Tameside,-8,Does not apply,125417
+E08000008,Tameside,1,Part-time: 15 hours or less worked,8523
+E08000008,Tameside,2,Part-time: 16 to 30 hours worked,20690
+E08000008,Tameside,3,Full-time: 31 to 48 hours worked,68222
+E08000008,Tameside,4,Full-time: 49 or more hours worked,8219
+E08000009,Trafford,-8,Does not apply,123494
+E08000009,Trafford,1,Part-time: 15 hours or less worked,10658
+E08000009,Trafford,2,Part-time: 16 to 30 hours worked,20998
+E08000009,Trafford,3,Full-time: 31 to 48 hours worked,68817
+E08000009,Trafford,4,Full-time: 49 or more hours worked,11085
+E08000010,Wigan,-8,Does not apply,174716
+E08000010,Wigan,1,Part-time: 15 hours or less worked,12340
+E08000010,Wigan,2,Part-time: 16 to 30 hours worked,29585
+E08000010,Wigan,3,Full-time: 31 to 48 hours worked,98905
+E08000010,Wigan,4,Full-time: 49 or more hours worked,13784
+E08000011,Knowsley,-8,Does not apply,85027
+E08000011,Knowsley,1,Part-time: 15 hours or less worked,5416
+E08000011,Knowsley,2,Part-time: 16 to 30 hours worked,14661
+E08000011,Knowsley,3,Full-time: 31 to 48 hours worked,44340
+E08000011,Knowsley,4,Full-time: 49 or more hours worked,5075
+E08000012,Liverpool,-8,Does not apply,280338
+E08000012,Liverpool,1,Part-time: 15 hours or less worked,21722
+E08000012,Liverpool,2,Part-time: 16 to 30 hours worked,43205
+E08000012,Liverpool,3,Full-time: 31 to 48 hours worked,125475
+E08000012,Liverpool,4,Full-time: 49 or more hours worked,15348
+E08000013,St. Helens,-8,Does not apply,100625
+E08000013,St. Helens,1,Part-time: 15 hours or less worked,6605
+E08000013,St. Helens,2,Part-time: 16 to 30 hours worked,15741
+E08000013,St. Helens,3,Full-time: 31 to 48 hours worked,52995
+E08000013,St. Helens,4,Full-time: 49 or more hours worked,7282
+E08000014,Sefton,-8,Does not apply,154635
+E08000014,Sefton,1,Part-time: 15 hours or less worked,12151
+E08000014,Sefton,2,Part-time: 16 to 30 hours worked,26895
+E08000014,Sefton,3,Full-time: 31 to 48 hours worked,74317
+E08000014,Sefton,4,Full-time: 49 or more hours worked,11234
+E08000015,Wirral,-8,Does not apply,180696
+E08000015,Wirral,1,Part-time: 15 hours or less worked,13409
+E08000015,Wirral,2,Part-time: 16 to 30 hours worked,29540
+E08000015,Wirral,3,Full-time: 31 to 48 hours worked,84595
+E08000015,Wirral,4,Full-time: 49 or more hours worked,11959
+E08000016,Barnsley,-8,Does not apply,132892
+E08000016,Barnsley,1,Part-time: 15 hours or less worked,9142
+E08000016,Barnsley,2,Part-time: 16 to 30 hours worked,22850
+E08000016,Barnsley,3,Full-time: 31 to 48 hours worked,68527
+E08000016,Barnsley,4,Full-time: 49 or more hours worked,11161
+E08000017,Doncaster,-8,Does not apply,170248
+E08000017,Doncaster,1,Part-time: 15 hours or less worked,11361
+E08000017,Doncaster,2,Part-time: 16 to 30 hours worked,28521
+E08000017,Doncaster,3,Full-time: 31 to 48 hours worked,83659
+E08000017,Doncaster,4,Full-time: 49 or more hours worked,14317
+E08000018,Rotherham,-8,Does not apply,148004
+E08000018,Rotherham,1,Part-time: 15 hours or less worked,9993
+E08000018,Rotherham,2,Part-time: 16 to 30 hours worked,25040
+E08000018,Rotherham,3,Full-time: 31 to 48 hours worked,71465
+E08000018,Rotherham,4,Full-time: 49 or more hours worked,11305
+E08000019,Sheffield,-8,Does not apply,314514
+E08000019,Sheffield,1,Part-time: 15 hours or less worked,25656
+E08000019,Sheffield,2,Part-time: 16 to 30 hours worked,54640
+E08000019,Sheffield,3,Full-time: 31 to 48 hours worked,142795
+E08000019,Sheffield,4,Full-time: 49 or more hours worked,18916
+E08000021,Newcastle upon Tyne,-8,Does not apply,175047
+E08000021,Newcastle upon Tyne,1,Part-time: 15 hours or less worked,14916
+E08000021,Newcastle upon Tyne,2,Part-time: 16 to 30 hours worked,26898
+E08000021,Newcastle upon Tyne,3,Full-time: 31 to 48 hours worked,72848
+E08000021,Newcastle upon Tyne,4,Full-time: 49 or more hours worked,10415
+E08000022,North Tyneside,-8,Does not apply,111702
+E08000022,North Tyneside,1,Part-time: 15 hours or less worked,7898
+E08000022,North Tyneside,2,Part-time: 16 to 30 hours worked,20231
+E08000022,North Tyneside,3,Full-time: 31 to 48 hours worked,60931
+E08000022,North Tyneside,4,Full-time: 49 or more hours worked,8205
+E08000023,South Tyneside,-8,Does not apply,85268
+E08000023,South Tyneside,1,Part-time: 15 hours or less worked,5108
+E08000023,South Tyneside,2,Part-time: 16 to 30 hours worked,13427
+E08000023,South Tyneside,3,Full-time: 31 to 48 hours worked,38273
+E08000023,South Tyneside,4,Full-time: 49 or more hours worked,5700
+E08000024,Sunderland,-8,Does not apply,157021
+E08000024,Sunderland,1,Part-time: 15 hours or less worked,9391
+E08000024,Sunderland,2,Part-time: 16 to 30 hours worked,25313
+E08000024,Sunderland,3,Full-time: 31 to 48 hours worked,73524
+E08000024,Sunderland,4,Full-time: 49 or more hours worked,8924
+E08000025,Birmingham,-8,Does not apply,702501
+E08000025,Birmingham,1,Part-time: 15 hours or less worked,49418
+E08000025,Birmingham,2,Part-time: 16 to 30 hours worked,96764
+E08000025,Birmingham,3,Full-time: 31 to 48 hours worked,261443
+E08000025,Birmingham,4,Full-time: 49 or more hours worked,34793
+E08000026,Coventry,-8,Does not apply,195181
+E08000026,Coventry,1,Part-time: 15 hours or less worked,14424
+E08000026,Coventry,2,Part-time: 16 to 30 hours worked,28615
+E08000026,Coventry,3,Full-time: 31 to 48 hours worked,95752
+E08000026,Coventry,4,Full-time: 49 or more hours worked,11352
+E08000027,Dudley,-8,Does not apply,178848
+E08000027,Dudley,1,Part-time: 15 hours or less worked,13105
+E08000027,Dudley,2,Part-time: 16 to 30 hours worked,29703
+E08000027,Dudley,3,Full-time: 31 to 48 hours worked,88508
+E08000027,Dudley,4,Full-time: 49 or more hours worked,13324
+E08000028,Sandwell,-8,Does not apply,200760
+E08000028,Sandwell,1,Part-time: 15 hours or less worked,12726
+E08000028,Sandwell,2,Part-time: 16 to 30 hours worked,29568
+E08000028,Sandwell,3,Full-time: 31 to 48 hours worked,87725
+E08000028,Sandwell,4,Full-time: 49 or more hours worked,11053
+E08000029,Solihull,-8,Does not apply,118301
+E08000029,Solihull,1,Part-time: 15 hours or less worked,9825
+E08000029,Solihull,2,Part-time: 16 to 30 hours worked,18037
+E08000029,Solihull,3,Full-time: 31 to 48 hours worked,59863
+E08000029,Solihull,4,Full-time: 49 or more hours worked,10214
+E08000030,Walsall,-8,Does not apply,165591
+E08000030,Walsall,1,Part-time: 15 hours or less worked,10648
+E08000030,Walsall,2,Part-time: 16 to 30 hours worked,25252
+E08000030,Walsall,3,Full-time: 31 to 48 hours worked,71975
+E08000030,Walsall,4,Full-time: 49 or more hours worked,10658
+E08000031,Wolverhampton,-8,Does not apply,152418
+E08000031,Wolverhampton,1,Part-time: 15 hours or less worked,9886
+E08000031,Wolverhampton,2,Part-time: 16 to 30 hours worked,22279
+E08000031,Wolverhampton,3,Full-time: 31 to 48 hours worked,69418
+E08000031,Wolverhampton,4,Full-time: 49 or more hours worked,9726
+E08000032,Bradford,-8,Does not apply,325274
+E08000032,Bradford,1,Part-time: 15 hours or less worked,21924
+E08000032,Bradford,2,Part-time: 16 to 30 hours worked,52883
+E08000032,Bradford,3,Full-time: 31 to 48 hours worked,129284
+E08000032,Bradford,4,Full-time: 49 or more hours worked,17046
+E08000033,Calderdale,-8,Does not apply,113250
+E08000033,Calderdale,1,Part-time: 15 hours or less worked,9199
+E08000033,Calderdale,2,Part-time: 16 to 30 hours worked,19957
+E08000033,Calderdale,3,Full-time: 31 to 48 hours worked,55532
+E08000033,Calderdale,4,Full-time: 49 or more hours worked,8693
+E08000034,Kirklees,-8,Does not apply,243131
+E08000034,Kirklees,1,Part-time: 15 hours or less worked,18857
+E08000034,Kirklees,2,Part-time: 16 to 30 hours worked,41776
+E08000034,Kirklees,3,Full-time: 31 to 48 hours worked,112439
+E08000034,Kirklees,4,Full-time: 49 or more hours worked,17012
+E08000035,Leeds,-8,Does not apply,437891
+E08000035,Leeds,1,Part-time: 15 hours or less worked,35882
+E08000035,Leeds,2,Part-time: 16 to 30 hours worked,73020
+E08000035,Leeds,3,Full-time: 31 to 48 hours worked,231990
+E08000035,Leeds,4,Full-time: 49 or more hours worked,33172
+E08000036,Wakefield,-8,Does not apply,188729
+E08000036,Wakefield,1,Part-time: 15 hours or less worked,12950
+E08000036,Wakefield,2,Part-time: 16 to 30 hours worked,32221
+E08000036,Wakefield,3,Full-time: 31 to 48 hours worked,103426
+E08000036,Wakefield,4,Full-time: 49 or more hours worked,16044
+E08000037,Gateshead,-8,Does not apply,108632
+E08000037,Gateshead,1,Part-time: 15 hours or less worked,7400
+E08000037,Gateshead,2,Part-time: 16 to 30 hours worked,18135
+E08000037,Gateshead,3,Full-time: 31 to 48 hours worked,54932
+E08000037,Gateshead,4,Full-time: 49 or more hours worked,7051
+E09000001,City of London,-8,Does not apply,3232
+E09000001,City of London,1,Part-time: 15 hours or less worked,386
+E09000001,City of London,2,Part-time: 16 to 30 hours worked,499
+E09000001,City of London,3,Full-time: 31 to 48 hours worked,2760
+E09000001,City of London,4,Full-time: 49 or more hours worked,1706
+E09000002,Barking and Dagenham,-8,Does not apply,124280
+E09000002,Barking and Dagenham,1,Part-time: 15 hours or less worked,10801
+E09000002,Barking and Dagenham,2,Part-time: 16 to 30 hours worked,20086
+E09000002,Barking and Dagenham,3,Full-time: 31 to 48 hours worked,55490
+E09000002,Barking and Dagenham,4,Full-time: 49 or more hours worked,8211
+E09000003,Barnet,-8,Does not apply,203170
+E09000003,Barnet,1,Part-time: 15 hours or less worked,23760
+E09000003,Barnet,2,Part-time: 16 to 30 hours worked,35920
+E09000003,Barnet,3,Full-time: 31 to 48 hours worked,101785
+E09000003,Barnet,4,Full-time: 49 or more hours worked,24710
+E09000004,Bexley,-8,Does not apply,128489
+E09000004,Bexley,1,Part-time: 15 hours or less worked,11593
+E09000004,Bexley,2,Part-time: 16 to 30 hours worked,20988
+E09000004,Bexley,3,Full-time: 31 to 48 hours worked,73640
+E09000004,Bexley,4,Full-time: 49 or more hours worked,11764
+E09000005,Brent,-8,Does not apply,178819
+E09000005,Brent,1,Part-time: 15 hours or less worked,18564
+E09000005,Brent,2,Part-time: 16 to 30 hours worked,30956
+E09000005,Brent,3,Full-time: 31 to 48 hours worked,93506
+E09000005,Brent,4,Full-time: 49 or more hours worked,17971
+E09000006,Bromley,-8,Does not apply,167869
+E09000006,Bromley,1,Part-time: 15 hours or less worked,16708
+E09000006,Bromley,2,Part-time: 16 to 30 hours worked,27359
+E09000006,Bromley,3,Full-time: 31 to 48 hours worked,97180
+E09000006,Bromley,4,Full-time: 49 or more hours worked,20875
+E09000007,Camden,-8,Does not apply,107625
+E09000007,Camden,1,Part-time: 15 hours or less worked,11879
+E09000007,Camden,2,Part-time: 16 to 30 hours worked,15126
+E09000007,Camden,3,Full-time: 31 to 48 hours worked,55453
+E09000007,Camden,4,Full-time: 49 or more hours worked,20053
+E09000008,Croydon,-8,Does not apply,201312
+E09000008,Croydon,1,Part-time: 15 hours or less worked,20311
+E09000008,Croydon,2,Part-time: 16 to 30 hours worked,35258
+E09000008,Croydon,3,Full-time: 31 to 48 hours worked,114645
+E09000008,Croydon,4,Full-time: 49 or more hours worked,19191
+E09000009,Ealing,-8,Does not apply,192088
+E09000009,Ealing,1,Part-time: 15 hours or less worked,19422
+E09000009,Ealing,2,Part-time: 16 to 30 hours worked,31572
+E09000009,Ealing,3,Full-time: 31 to 48 hours worked,103442
+E09000009,Ealing,4,Full-time: 49 or more hours worked,20590
+E09000010,Enfield,-8,Does not apply,186120
+E09000010,Enfield,1,Part-time: 15 hours or less worked,17931
+E09000010,Enfield,2,Part-time: 16 to 30 hours worked,32888
+E09000010,Enfield,3,Full-time: 31 to 48 hours worked,79164
+E09000010,Enfield,4,Full-time: 49 or more hours worked,13881
+E09000011,Greenwich,-8,Does not apply,146134
+E09000011,Greenwich,1,Part-time: 15 hours or less worked,13717
+E09000011,Greenwich,2,Part-time: 16 to 30 hours worked,24120
+E09000011,Greenwich,3,Full-time: 31 to 48 hours worked,87019
+E09000011,Greenwich,4,Full-time: 49 or more hours worked,18081
+E09000012,Hackney,-8,Does not apply,124838
+E09000012,Hackney,1,Part-time: 15 hours or less worked,14022
+E09000012,Hackney,2,Part-time: 16 to 30 hours worked,25452
+E09000012,Hackney,3,Full-time: 31 to 48 hours worked,76457
+E09000012,Hackney,4,Full-time: 49 or more hours worked,18379
+E09000013,Hammersmith and Fulham,-8,Does not apply,85064
+E09000013,Hammersmith and Fulham,1,Part-time: 15 hours or less worked,9497
+E09000013,Hammersmith and Fulham,2,Part-time: 16 to 30 hours worked,13108
+E09000013,Hammersmith and Fulham,3,Full-time: 31 to 48 hours worked,56608
+E09000013,Hammersmith and Fulham,4,Full-time: 49 or more hours worked,18880
+E09000014,Haringey,-8,Does not apply,129857
+E09000014,Haringey,1,Part-time: 15 hours or less worked,16523
+E09000014,Haringey,2,Part-time: 16 to 30 hours worked,26943
+E09000014,Haringey,3,Full-time: 31 to 48 hours worked,74963
+E09000014,Haringey,4,Full-time: 49 or more hours worked,15952
+E09000015,Harrow,-8,Does not apply,136166
+E09000015,Harrow,1,Part-time: 15 hours or less worked,13761
+E09000015,Harrow,2,Part-time: 16 to 30 hours worked,22778
+E09000015,Harrow,3,Full-time: 31 to 48 hours worked,73682
+E09000015,Harrow,4,Full-time: 49 or more hours worked,14816
+E09000016,Havering,-8,Does not apply,137271
+E09000016,Havering,1,Part-time: 15 hours or less worked,12636
+E09000016,Havering,2,Part-time: 16 to 30 hours worked,22574
+E09000016,Havering,3,Full-time: 31 to 48 hours worked,76496
+E09000016,Havering,4,Full-time: 49 or more hours worked,13075
+E09000017,Hillingdon,-8,Does not apply,163104
+E09000017,Hillingdon,1,Part-time: 15 hours or less worked,14778
+E09000017,Hillingdon,2,Part-time: 16 to 30 hours worked,25736
+E09000017,Hillingdon,3,Full-time: 31 to 48 hours worked,87797
+E09000017,Hillingdon,4,Full-time: 49 or more hours worked,14492
+E09000018,Hounslow,-8,Does not apply,149381
+E09000018,Hounslow,1,Part-time: 15 hours or less worked,15624
+E09000018,Hounslow,2,Part-time: 16 to 30 hours worked,24697
+E09000018,Hounslow,3,Full-time: 31 to 48 hours worked,84207
+E09000018,Hounslow,4,Full-time: 49 or more hours worked,14272
+E09000019,Islington,-8,Does not apply,101619
+E09000019,Islington,1,Part-time: 15 hours or less worked,11025
+E09000019,Islington,2,Part-time: 16 to 30 hours worked,15871
+E09000019,Islington,3,Full-time: 31 to 48 hours worked,67481
+E09000019,Islington,4,Full-time: 49 or more hours worked,20593
+E09000020,Kensington and Chelsea,-8,Does not apply,73935
+E09000020,Kensington and Chelsea,1,Part-time: 15 hours or less worked,7610
+E09000020,Kensington and Chelsea,2,Part-time: 16 to 30 hours worked,9995
+E09000020,Kensington and Chelsea,3,Full-time: 31 to 48 hours worked,33155
+E09000020,Kensington and Chelsea,4,Full-time: 49 or more hours worked,18680
+E09000021,Kingston upon Thames,-8,Does not apply,83915
+E09000021,Kingston upon Thames,1,Part-time: 15 hours or less worked,9292
+E09000021,Kingston upon Thames,2,Part-time: 16 to 30 hours worked,14343
+E09000021,Kingston upon Thames,3,Full-time: 31 to 48 hours worked,49806
+E09000021,Kingston upon Thames,4,Full-time: 49 or more hours worked,10707
+E09000022,Lambeth,-8,Does not apply,134835
+E09000022,Lambeth,1,Part-time: 15 hours or less worked,16700
+E09000022,Lambeth,2,Part-time: 16 to 30 hours worked,25925
+E09000022,Lambeth,3,Full-time: 31 to 48 hours worked,112911
+E09000022,Lambeth,4,Full-time: 49 or more hours worked,27282
+E09000023,Lewisham,-8,Does not apply,144841
+E09000023,Lewisham,1,Part-time: 15 hours or less worked,16083
+E09000023,Lewisham,2,Part-time: 16 to 30 hours worked,28089
+E09000023,Lewisham,3,Full-time: 31 to 48 hours worked,94030
+E09000023,Lewisham,4,Full-time: 49 or more hours worked,17510
+E09000024,Merton,-8,Does not apply,103124
+E09000024,Merton,1,Part-time: 15 hours or less worked,11570
+E09000024,Merton,2,Part-time: 16 to 30 hours worked,18726
+E09000024,Merton,3,Full-time: 31 to 48 hours worked,66670
+E09000024,Merton,4,Full-time: 49 or more hours worked,15099
+E09000025,Newham,-8,Does not apply,187591
+E09000025,Newham,1,Part-time: 15 hours or less worked,18670
+E09000025,Newham,2,Part-time: 16 to 30 hours worked,34028
+E09000025,Newham,3,Full-time: 31 to 48 hours worked,94325
+E09000025,Newham,4,Full-time: 49 or more hours worked,16422
+E09000026,Redbridge,-8,Does not apply,168633
+E09000026,Redbridge,1,Part-time: 15 hours or less worked,16639
+E09000026,Redbridge,2,Part-time: 16 to 30 hours worked,28204
+E09000026,Redbridge,3,Full-time: 31 to 48 hours worked,81723
+E09000026,Redbridge,4,Full-time: 49 or more hours worked,15062
+E09000027,Richmond upon Thames,-8,Does not apply,97713
+E09000027,Richmond upon Thames,1,Part-time: 15 hours or less worked,10880
+E09000027,Richmond upon Thames,2,Part-time: 16 to 30 hours worked,14990
+E09000027,Richmond upon Thames,3,Full-time: 31 to 48 hours worked,54047
+E09000027,Richmond upon Thames,4,Full-time: 49 or more hours worked,17648
+E09000028,Southwark,-8,Does not apply,140689
+E09000028,Southwark,1,Part-time: 15 hours or less worked,16582
+E09000028,Southwark,2,Part-time: 16 to 30 hours worked,25386
+E09000028,Southwark,3,Full-time: 31 to 48 hours worked,99680
+E09000028,Southwark,4,Full-time: 49 or more hours worked,25300
+E09000029,Sutton,-8,Does not apply,105415
+E09000029,Sutton,1,Part-time: 15 hours or less worked,10702
+E09000029,Sutton,2,Part-time: 16 to 30 hours worked,18501
+E09000029,Sutton,3,Full-time: 31 to 48 hours worked,64135
+E09000029,Sutton,4,Full-time: 49 or more hours worked,10888
+E09000030,Tower Hamlets,-8,Does not apply,154914
+E09000030,Tower Hamlets,1,Part-time: 15 hours or less worked,15607
+E09000030,Tower Hamlets,2,Part-time: 16 to 30 hours worked,25230
+E09000030,Tower Hamlets,3,Full-time: 31 to 48 hours worked,90675
+E09000030,Tower Hamlets,4,Full-time: 49 or more hours worked,23880
+E09000031,Waltham Forest,-8,Does not apply,138054
+E09000031,Waltham Forest,1,Part-time: 15 hours or less worked,15075
+E09000031,Waltham Forest,2,Part-time: 16 to 30 hours worked,25668
+E09000031,Waltham Forest,3,Full-time: 31 to 48 hours worked,84719
+E09000031,Waltham Forest,4,Full-time: 49 or more hours worked,14909
+E09000032,Wandsworth,-8,Does not apply,137064
+E09000032,Wandsworth,1,Part-time: 15 hours or less worked,15478
+E09000032,Wandsworth,2,Part-time: 16 to 30 hours worked,23170
+E09000032,Wandsworth,3,Full-time: 31 to 48 hours worked,115966
+E09000032,Wandsworth,4,Full-time: 49 or more hours worked,35828
+E09000033,Westminster,-8,Does not apply,102494
+E09000033,Westminster,1,Part-time: 15 hours or less worked,10669
+E09000033,Westminster,2,Part-time: 16 to 30 hours worked,13969
+E09000033,Westminster,3,Full-time: 31 to 48 hours worked,51876
+E09000033,Westminster,4,Full-time: 49 or more hours worked,25228
+W06000001,Isle of Anglesey,-8,Does not apply,39676
+W06000001,Isle of Anglesey,1,Part-time: 15 hours or less worked,2716
+W06000001,Isle of Anglesey,2,Part-time: 16 to 30 hours worked,6541
+W06000001,Isle of Anglesey,3,Full-time: 31 to 48 hours worked,16493
+W06000001,Isle of Anglesey,4,Full-time: 49 or more hours worked,3452
+W06000002,Gwynedd,-8,Does not apply,65575
+W06000002,Gwynedd,1,Part-time: 15 hours or less worked,5463
+W06000002,Gwynedd,2,Part-time: 16 to 30 hours worked,11557
+W06000002,Gwynedd,3,Full-time: 31 to 48 hours worked,28757
+W06000002,Gwynedd,4,Full-time: 49 or more hours worked,6040
+W06000003,Conwy,-8,Does not apply,66018
+W06000003,Conwy,1,Part-time: 15 hours or less worked,4839
+W06000003,Conwy,2,Part-time: 16 to 30 hours worked,11209
+W06000003,Conwy,3,Full-time: 31 to 48 hours worked,27174
+W06000003,Conwy,4,Full-time: 49 or more hours worked,5501
+W06000004,Denbighshire,-8,Does not apply,54971
+W06000004,Denbighshire,1,Part-time: 15 hours or less worked,3663
+W06000004,Denbighshire,2,Part-time: 16 to 30 hours worked,9096
+W06000004,Denbighshire,3,Full-time: 31 to 48 hours worked,23419
+W06000004,Denbighshire,4,Full-time: 49 or more hours worked,4668
+W06000005,Flintshire,-8,Does not apply,81142
+W06000005,Flintshire,1,Part-time: 15 hours or less worked,5865
+W06000005,Flintshire,2,Part-time: 16 to 30 hours worked,13953
+W06000005,Flintshire,3,Full-time: 31 to 48 hours worked,46993
+W06000005,Flintshire,4,Full-time: 49 or more hours worked,7009
+W06000006,Wrexham,-8,Does not apply,73312
+W06000006,Wrexham,1,Part-time: 15 hours or less worked,4839
+W06000006,Wrexham,2,Part-time: 16 to 30 hours worked,12429
+W06000006,Wrexham,3,Full-time: 31 to 48 hours worked,38453
+W06000006,Wrexham,4,Full-time: 49 or more hours worked,6084
+W06000008,Ceredigion,-8,Does not apply,41356
+W06000008,Ceredigion,1,Part-time: 15 hours or less worked,3722
+W06000008,Ceredigion,2,Part-time: 16 to 30 hours worked,6734
+W06000008,Ceredigion,3,Full-time: 31 to 48 hours worked,15454
+W06000008,Ceredigion,4,Full-time: 49 or more hours worked,4210
+W06000009,Pembrokeshire,-8,Does not apply,70595
+W06000009,Pembrokeshire,1,Part-time: 15 hours or less worked,5952
+W06000009,Pembrokeshire,2,Part-time: 16 to 30 hours worked,12319
+W06000009,Pembrokeshire,3,Full-time: 31 to 48 hours worked,26956
+W06000009,Pembrokeshire,4,Full-time: 49 or more hours worked,7538
+W06000010,Carmarthenshire,-8,Does not apply,105946
+W06000010,Carmarthenshire,1,Part-time: 15 hours or less worked,7197
+W06000010,Carmarthenshire,2,Part-time: 16 to 30 hours worked,17581
+W06000010,Carmarthenshire,3,Full-time: 31 to 48 hours worked,46871
+W06000010,Carmarthenshire,4,Full-time: 49 or more hours worked,10302
+W06000011,Swansea,-8,Does not apply,137877
+W06000011,Swansea,1,Part-time: 15 hours or less worked,10054
+W06000011,Swansea,2,Part-time: 16 to 30 hours worked,22462
+W06000011,Swansea,3,Full-time: 31 to 48 hours worked,59498
+W06000011,Swansea,4,Full-time: 49 or more hours worked,8600
+W06000012,Neath Port Talbot,-8,Does not apply,83100
+W06000012,Neath Port Talbot,1,Part-time: 15 hours or less worked,4728
+W06000012,Neath Port Talbot,2,Part-time: 16 to 30 hours worked,12387
+W06000012,Neath Port Talbot,3,Full-time: 31 to 48 hours worked,36863
+W06000012,Neath Port Talbot,4,Full-time: 49 or more hours worked,5211
+W06000013,Bridgend,-8,Does not apply,81504
+W06000013,Bridgend,1,Part-time: 15 hours or less worked,5055
+W06000013,Bridgend,2,Part-time: 16 to 30 hours worked,12787
+W06000013,Bridgend,3,Full-time: 31 to 48 hours worked,40185
+W06000013,Bridgend,4,Full-time: 49 or more hours worked,5957
+W06000014,Vale of Glamorgan,-8,Does not apply,72024
+W06000014,Vale of Glamorgan,1,Part-time: 15 hours or less worked,5646
+W06000014,Vale of Glamorgan,2,Part-time: 16 to 30 hours worked,12592
+W06000014,Vale of Glamorgan,3,Full-time: 31 to 48 hours worked,35437
+W06000014,Vale of Glamorgan,4,Full-time: 49 or more hours worked,6240
+W06000015,Cardiff,-8,Does not apply,201869
+W06000015,Cardiff,1,Part-time: 15 hours or less worked,17027
+W06000015,Cardiff,2,Part-time: 16 to 30 hours worked,32351
+W06000015,Cardiff,3,Full-time: 31 to 48 hours worked,97640
+W06000015,Cardiff,4,Full-time: 49 or more hours worked,13420
+W06000016,Rhondda Cynon Taf,-8,Does not apply,134262
+W06000016,Rhondda Cynon Taf,1,Part-time: 15 hours or less worked,7846
+W06000016,Rhondda Cynon Taf,2,Part-time: 16 to 30 hours worked,20990
+W06000016,Rhondda Cynon Taf,3,Full-time: 31 to 48 hours worked,65567
+W06000016,Rhondda Cynon Taf,4,Full-time: 49 or more hours worked,8986
+W06000018,Caerphilly,-8,Does not apply,98513
+W06000018,Caerphilly,1,Part-time: 15 hours or less worked,5540
+W06000018,Caerphilly,2,Part-time: 16 to 30 hours worked,15112
+W06000018,Caerphilly,3,Full-time: 31 to 48 hours worked,50176
+W06000018,Caerphilly,4,Full-time: 49 or more hours worked,6610
+W06000019,Blaenau Gwent,-8,Does not apply,38105
+W06000019,Blaenau Gwent,1,Part-time: 15 hours or less worked,1946
+W06000019,Blaenau Gwent,2,Part-time: 16 to 30 hours worked,5641
+W06000019,Blaenau Gwent,3,Full-time: 31 to 48 hours worked,18817
+W06000019,Blaenau Gwent,4,Full-time: 49 or more hours worked,2395
+W06000020,Torfaen,-8,Does not apply,51621
+W06000020,Torfaen,1,Part-time: 15 hours or less worked,3040
+W06000020,Torfaen,2,Part-time: 16 to 30 hours worked,8044
+W06000020,Torfaen,3,Full-time: 31 to 48 hours worked,26129
+W06000020,Torfaen,4,Full-time: 49 or more hours worked,3445
+W06000021,Monmouthshire,-8,Does not apply,50127
+W06000021,Monmouthshire,1,Part-time: 15 hours or less worked,4443
+W06000021,Monmouthshire,2,Part-time: 16 to 30 hours worked,8602
+W06000021,Monmouthshire,3,Full-time: 31 to 48 hours worked,24311
+W06000021,Monmouthshire,4,Full-time: 49 or more hours worked,5474
+W06000022,Newport,-8,Does not apply,86803
+W06000022,Newport,1,Part-time: 15 hours or less worked,5764
+W06000022,Newport,2,Part-time: 16 to 30 hours worked,14887
+W06000022,Newport,3,Full-time: 31 to 48 hours worked,45562
+W06000022,Newport,4,Full-time: 49 or more hours worked,6576
+W06000023,Powys,-8,Does not apply,71443
+W06000023,Powys,1,Part-time: 15 hours or less worked,6445
+W06000023,Powys,2,Part-time: 16 to 30 hours worked,13463
+W06000023,Powys,3,Full-time: 31 to 48 hours worked,31754
+W06000023,Powys,4,Full-time: 49 or more hours worked,10064
+W06000024,Merthyr Tydfil,-8,Does not apply,33204
+W06000024,Merthyr Tydfil,1,Part-time: 15 hours or less worked,1832
+W06000024,Merthyr Tydfil,2,Part-time: 16 to 30 hours worked,5211
+W06000024,Merthyr Tydfil,3,Full-time: 31 to 48 hours worked,16279
+W06000024,Merthyr Tydfil,4,Full-time: 49 or more hours worked,2313
